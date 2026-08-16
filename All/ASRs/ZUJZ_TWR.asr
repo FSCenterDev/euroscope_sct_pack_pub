@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZUJZ:symbol
+Airports:ZUJZ:name
+VORs:JZH:symbol
+VORs:JZH:name
+Geo:ZUJZ:
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:centerline
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 1
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 1 left base
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 1 left ticks
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 1 left vectoring
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 1 right base
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 1 right ticks
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 1 right vectoring
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 2
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 2 left base
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 2 left ticks
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 2 left vectoring
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 2 right base
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 2 right ticks
+Runways:ZUJZ ¾ÅÕ¯/»ÆÁú 20-02:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:32.692647:103.521958:33.012647:103.841958

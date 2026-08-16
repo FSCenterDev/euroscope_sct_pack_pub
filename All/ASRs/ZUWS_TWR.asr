@@ -1,0 +1,41 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZUWS:symbol
+Airports:ZUWS:name
+Fixes:P23:symbol
+Fixes:P23:name
+VORs:SNF:symbol
+VORs:SNF:name
+Geo:ZUWS:
+Runways:ZUWS 重庆/巫山 24-06:centerline
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 1
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 1 left base
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 1 left ticks
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 1 left vectoring
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 1 right base
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 1 right ticks
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 1 right vectoring
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 2
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 2 left base
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 2 left ticks
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 2 left vectoring
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 2 right base
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 2 right ticks
+Runways:ZUWS 重庆/巫山 24-06:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:30.908889:109.549167:31.228889:109.869167

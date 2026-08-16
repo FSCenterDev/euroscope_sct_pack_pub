@@ -1,0 +1,63 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZGNN:symbol
+Airports:ZGNN:name
+VORs:WUY:symbol
+VORs:WUY:name
+High airways:R339:line
+High airways:R343:line
+High airways:R474:line
+High airways:V153:line
+High airways:V159:line
+High airways:V160:line
+High airways:W169:line
+High airways:W693:line
+High airways:X53:line
+Geo:ZGNN:
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:centerline
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 1
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 1 left base
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 1 left ticks
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 1 left vectoring
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 1 right base
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 1 right ticks
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 1 right vectoring
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 2
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 2 left base
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 2 left ticks
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 2 left vectoring
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 2 right base
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 2 right ticks
+Runways:ZGNN ÄÏÄş/ÎâÛ× 04-22:extended centerline 2 right vectoring
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:centerline
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 1
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 1 left base
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 1 left ticks
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 1 left vectoring
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 1 right base
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 1 right ticks
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 1 right vectoring
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 2
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 2 left base
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 2 left ticks
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 2 left vectoring
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 2 right base
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 2 right ticks
+Runways:ZGNN ÄÏÄş/ÎâÛ× 23-05:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:22.308339:107.872436:22.908339:108.472436

@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSCN:symbol
+Airports:ZSCN:name
+VORs:NCH:symbol
+VORs:NCH:name
+Geo:ZSCN:
+Runways:ZSCN 南昌/昌北 03-21:centerline
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 1
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 1 left base
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 1 left ticks
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 1 left vectoring
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 1 right base
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 1 right ticks
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 1 right vectoring
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 2
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 2 left base
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 2 left ticks
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 2 left vectoring
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 2 right base
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 2 right ticks
+Runways:ZSCN 南昌/昌北 03-21:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:28.702339:115.741414:29.022339:116.061414

@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZBCZ:symbol
+Airports:ZBCZ:name
+NDBs:SQ:symbol
+NDBs:SQ:name
+Geo:ZBCZ:
+Runways:ZBCZ 长治/王村 01-19:centerline
+Runways:ZBCZ 长治/王村 01-19:extended centerline 1
+Runways:ZBCZ 长治/王村 01-19:extended centerline 1 left base
+Runways:ZBCZ 长治/王村 01-19:extended centerline 1 left ticks
+Runways:ZBCZ 长治/王村 01-19:extended centerline 1 left vectoring
+Runways:ZBCZ 长治/王村 01-19:extended centerline 1 right base
+Runways:ZBCZ 长治/王村 01-19:extended centerline 1 right ticks
+Runways:ZBCZ 长治/王村 01-19:extended centerline 1 right vectoring
+Runways:ZBCZ 长治/王村 01-19:extended centerline 2
+Runways:ZBCZ 长治/王村 01-19:extended centerline 2 left base
+Runways:ZBCZ 长治/王村 01-19:extended centerline 2 left ticks
+Runways:ZBCZ 长治/王村 01-19:extended centerline 2 left vectoring
+Runways:ZBCZ 长治/王村 01-19:extended centerline 2 right base
+Runways:ZBCZ 长治/王村 01-19:extended centerline 2 right ticks
+Runways:ZBCZ 长治/王村 01-19:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:36.088911:112.966256:36.408911:113.286256

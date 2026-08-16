@@ -1,0 +1,47 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZULZ:symbol
+Airports:ZULZ:name
+Fixes:P567:symbol
+Fixes:P567:name
+VORs:DLZ:symbol
+VORs:DLZ:name
+High airways:H134:line
+High airways:J83:line
+High airways:J85:line
+High airways:J86:line
+High airways:W234:line
+High airways:X126:line
+Geo:ZULZ:
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:centerline
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 1
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 1 left base
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 1 left ticks
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 1 left vectoring
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 1 right base
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 1 right ticks
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 1 right vectoring
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 2
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 2 left base
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 2 left ticks
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 2 left vectoring
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 2 right base
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 2 right ticks
+Runways:ZULZ ãòÖİ/ÔÆÁú 25-07:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:28.730556:105.168889:29.330556:105.768889

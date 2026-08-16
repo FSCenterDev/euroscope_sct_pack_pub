@@ -1,0 +1,41 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZUAS:symbol
+Airports:ZUAS:name
+Fixes:P659:symbol
+Fixes:P659:name
+VORs:ASH:symbol
+VORs:ASH:name
+Geo:ZUAS:
+Runways:ZUAS 安顺/黄果树 26-08:centerline
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 1
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 1 left base
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 1 left ticks
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 1 left vectoring
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 1 right base
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 1 right ticks
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 1 right vectoring
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 2
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 2 left base
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 2 left ticks
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 2 left vectoring
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 2 right base
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 2 right ticks
+Runways:ZUAS 安顺/黄果树 26-08:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:26.100556:105.713333:26.420556:106.033333

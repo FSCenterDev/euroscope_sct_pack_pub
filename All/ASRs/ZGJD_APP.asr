@@ -1,0 +1,203 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:VMMC:symbol
+Airports:VMMC:name
+Airports:ZGSD:symbol
+Airports:ZGSD:name
+Airports:ZGSZ:symbol
+Airports:ZGSZ:name
+Airports:ZGUH:symbol
+Airports:ZGUH:name
+Fixes:ADBIN:symbol
+Fixes:ADBIN:name
+Fixes:BEKOL:symbol
+Fixes:BEKOL:name
+Fixes:BOKAT:symbol
+Fixes:BOKAT:name
+Fixes:GUBLO:symbol
+Fixes:GUBLO:name
+Fixes:GURIN:symbol
+Fixes:GURIN:name
+Fixes:IDUMA:symbol
+Fixes:IDUMA:name
+Fixes:KEVAR:symbol
+Fixes:KEVAR:name
+Fixes:KIBAS:symbol
+Fixes:KIBAS:name
+Fixes:LANDA:symbol
+Fixes:LANDA:name
+Fixes:LATOP:symbol
+Fixes:LATOP:name
+Fixes:LAXUS:symbol
+Fixes:LAXUS:name
+Fixes:LOVTA:symbol
+Fixes:LOVTA:name
+Fixes:MIPAG:symbol
+Fixes:MIPAG:name
+Fixes:OBLAN:symbol
+Fixes:OBLAN:name
+Fixes:OVGOT:symbol
+Fixes:OVGOT:name
+Fixes:P275:symbol
+Fixes:P275:name
+Fixes:PEXEL:symbol
+Fixes:PEXEL:name
+Fixes:ROMEO:symbol
+Fixes:ROMEO:name
+Fixes:SAREX:symbol
+Fixes:SAREX:name
+Fixes:SULAS:symbol
+Fixes:SULAS:name
+Fixes:UBLIM:symbol
+Fixes:UBLIM:name
+Fixes:URBOR:symbol
+Fixes:URBOR:name
+Fixes:VIBOS:symbol
+Fixes:VIBOS:name
+Fixes:VIPAP:symbol
+Fixes:VIPAP:name
+Fixes:深圳南头:symbol
+Fixes:深圳南头:name
+Fixes:珠海九洲:symbol
+Fixes:珠海九洲:name
+VORs:MCU:symbol
+VORs:MCU:name
+VORs:NLG:symbol
+VORs:NLG:name
+VORs:SHK:symbol
+VORs:SHK:name
+VORs:ZAO:symbol
+VORs:ZAO:name
+VORs:ZUH:symbol
+VORs:ZUH:name
+NDBs:K:symbol
+NDBs:K:name
+NDBs:U:symbol
+NDBs:U:name
+NDBs:UJ:symbol
+NDBs:UJ:name
+High airways:A461:line
+High airways:A461/W22:line
+High airways:B330:line
+High airways:J160:line
+High airways:J415:line
+High airways:R200:line
+High airways:R473:line
+High airways:V17:line
+High airways:V19:line
+High airways:V21:line
+High airways:V25:line
+High airways:W130:line
+High airways:W18:line
+High airways:W21:line
+High airways:W22:line
+High airways:W23:line
+High airways:W41:line
+High airways:W501:line
+High airways:W509:line
+High airways:W552:line
+High airways:W553:line
+High airways:W6:line
+High airways:W68:line
+High airways:W7:line
+High airways:X65:line
+High airways:X66:line
+High airways:X67:line
+High airways:X76:line
+High airways:X78:line
+Geo:VMMC:
+Geo:ZGSD:
+Geo:ZGSZ:
+Geo:ZGUH:
+Runways:ZGSD 珠海/金湾 05-23:centerline
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 left base
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 left ticks
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 left vectoring
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 right base
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 right ticks
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 right vectoring
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 left base
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 left ticks
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 left vectoring
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 right base
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 right ticks
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 right vectoring
+Runways:ZGSZ 深圳/宝安 15-33:centerline
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 1
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 1 left base
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 1 left ticks
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 1 left vectoring
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 1 right base
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 1 right ticks
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 1 right vectoring
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 2
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 2 left base
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 2 left ticks
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 2 left vectoring
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 2 right base
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 2 right ticks
+Runways:ZGSZ 深圳/宝安 15-33:extended centerline 2 right vectoring
+Runways:ZGSZ 深圳/宝安 16L-34R:centerline
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 1
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 1 left base
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 1 left ticks
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 1 left vectoring
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 1 right base
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 1 right ticks
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 1 right vectoring
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 2
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 2 left base
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 2 left ticks
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 2 left vectoring
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 2 right base
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 2 right ticks
+Runways:ZGSZ 深圳/宝安 16L-34R:extended centerline 2 right vectoring
+Runways:ZGSZ 深圳/宝安 16R-34L:centerline
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 1
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 1 left base
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 1 left ticks
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 1 left vectoring
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 1 right base
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 1 right ticks
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 1 right vectoring
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 2
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 2 left base
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 2 left ticks
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 2 left vectoring
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 2 right base
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 2 right ticks
+Runways:ZGSZ 深圳/宝安 16R-34L:extended centerline 2 right vectoring
+Runways:ZGUH 珠海/九洲 34-16:centerline
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 1
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 1 left base
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 1 left ticks
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 1 left vectoring
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 1 right base
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 1 right ticks
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 1 right vectoring
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 2
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 2 left base
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 2 left ticks
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 2 left vectoring
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 2 right base
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 2 right ticks
+Runways:ZGUH 珠海/九洲 34-16:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:20.796333:112.256056:23.240333:114.976722

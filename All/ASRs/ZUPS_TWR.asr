@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZUPS:symbol
+Airports:ZUPS:name
+VORs:LPS:symbol
+VORs:LPS:name
+Geo:ZUPS:
+Runways:ZUPS 六盘水/月照 05-23:centerline
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 1
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 1 left base
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 1 left ticks
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 1 left vectoring
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 1 right base
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 1 right ticks
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 1 right vectoring
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 2
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 2 left base
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 2 left ticks
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 2 left vectoring
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 2 right base
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 2 right ticks
+Runways:ZUPS 六盘水/月照 05-23:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:26.448889:104.818333:26.768889:105.138333

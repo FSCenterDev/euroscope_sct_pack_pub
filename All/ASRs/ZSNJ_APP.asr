@@ -1,0 +1,80 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSNJ:symbol
+Airports:ZSNJ:name
+Fixes:DOGVI:symbol
+Fixes:DOGVI:name
+Fixes:OLRIS:symbol
+Fixes:OLRIS:name
+Fixes:UPLEL:symbol
+Fixes:UPLEL:name
+Fixes:XOGAX:symbol
+Fixes:XOGAX:name
+VORs:MLJ:symbol
+VORs:MLJ:name
+VORs:NJL:symbol
+VORs:NJL:name
+VORs:SNQ:symbol
+VORs:SNQ:name
+VORs:XDY:symbol
+VORs:XDY:name
+High airways:A470:line
+High airways:A470/V143:line
+High airways:G345:line
+High airways:R343:line
+High airways:V11:line
+High airways:W135:line
+High airways:W543:line
+High airways:W545:line
+High airways:W546:line
+High airways:W581:line
+High airways:W95:line
+High airways:X86:line
+Geo:ZSNJ:
+Runways:ZSNJ 南京/禄口 24-06:centerline
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 1
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 1 left base
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 1 left ticks
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 1 left vectoring
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 1 right base
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 1 right ticks
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 1 right vectoring
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 2
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 2 left base
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 2 left ticks
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 2 left vectoring
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 2 right base
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 2 right ticks
+Runways:ZSNJ 南京/禄口 24-06:extended centerline 2 right vectoring
+Runways:ZSNJ 南京/禄口 25-07:centerline
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 1
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 1 left base
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 1 left ticks
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 1 left vectoring
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 1 right base
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 1 right ticks
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 1 right vectoring
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 2
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 2 left base
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 2 left ticks
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 2 left vectoring
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 2 right base
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 2 right ticks
+Runways:ZSNJ 南京/禄口 25-07:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:31.442189:118.561986:32.042189:119.161986

@@ -1,0 +1,67 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZPPP:symbol
+Airports:ZPPP:name
+Geo:ZPPP:
+Runways:ZPPP 昆明/长水 21-03:centerline
+Runways:ZPPP 昆明/长水 21-03:extended centerline 1
+Runways:ZPPP 昆明/长水 21-03:extended centerline 1 left base
+Runways:ZPPP 昆明/长水 21-03:extended centerline 1 left ticks
+Runways:ZPPP 昆明/长水 21-03:extended centerline 1 left vectoring
+Runways:ZPPP 昆明/长水 21-03:extended centerline 1 right base
+Runways:ZPPP 昆明/长水 21-03:extended centerline 1 right ticks
+Runways:ZPPP 昆明/长水 21-03:extended centerline 1 right vectoring
+Runways:ZPPP 昆明/长水 21-03:extended centerline 2
+Runways:ZPPP 昆明/长水 21-03:extended centerline 2 left base
+Runways:ZPPP 昆明/长水 21-03:extended centerline 2 left ticks
+Runways:ZPPP 昆明/长水 21-03:extended centerline 2 left vectoring
+Runways:ZPPP 昆明/长水 21-03:extended centerline 2 right base
+Runways:ZPPP 昆明/长水 21-03:extended centerline 2 right ticks
+Runways:ZPPP 昆明/长水 21-03:extended centerline 2 right vectoring
+Runways:ZPPP 昆明/长水 22L-04R:centerline
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1 left base
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1 left ticks
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1 left vectoring
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1 right base
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1 right ticks
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1 right vectoring
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2 left base
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2 left ticks
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2 left vectoring
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2 right base
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2 right ticks
+Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2 right vectoring
+Runways:ZPPP 昆明/长水 22R-04L:centerline
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1 left base
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1 left ticks
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1 left vectoring
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1 right base
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1 right ticks
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1 right vectoring
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2 left base
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2 left ticks
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2 left vectoring
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2 right base
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2 right ticks
+Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:25.043806:102.883000:25.163806:103.003000

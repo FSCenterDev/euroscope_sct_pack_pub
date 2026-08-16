@@ -1,0 +1,43 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZGMX:symbol
+Airports:ZGMX:name
+Fixes:P150:symbol
+Fixes:P150:name
+VORs:MXZ:symbol
+VORs:MXZ:name
+NDBs:QU:symbol
+NDBs:QU:name
+Geo:ZGMX:
+Runways:ZGMX 梅州/梅县 22-04:centerline
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 left base
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 left ticks
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 left vectoring
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 right base
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 right ticks
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 right vectoring
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 left base
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 left ticks
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 left vectoring
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 right base
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 right ticks
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:24.105442:115.939717:24.425442:116.259717

@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZPBS:symbol
+Airports:ZPBS:name
+VORs:BSD:symbol
+VORs:BSD:name
+Geo:ZPBS:
+Runways:ZPBS 保山/云瑞 19-01:centerline
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 1
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 1 left base
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 1 left ticks
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 1 left vectoring
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 1 right base
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 1 right ticks
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 1 right vectoring
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 2
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 2 left base
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 2 left ticks
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 2 left vectoring
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 2 right base
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 2 right ticks
+Runways:ZPBS 保山/云瑞 19-01:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:24.892053:99.007597:25.212053:99.327597

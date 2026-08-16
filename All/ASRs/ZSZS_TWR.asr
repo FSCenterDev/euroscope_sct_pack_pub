@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSZS:symbol
+Airports:ZSZS:name
+VORs:HSN:symbol
+VORs:HSN:name
+Geo:ZSZS:
+Runways:ZSZS 舟山/普陀山 18-36:centerline
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 1
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 1 left base
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 1 left ticks
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 1 left vectoring
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 1 right base
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 1 right ticks
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 1 right vectoring
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 2
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 2 left base
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 2 left ticks
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 2 left vectoring
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 2 right base
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 2 right ticks
+Runways:ZSZS 舟山/普陀山 18-36:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:29.773847:122.202328:30.093847:122.522328

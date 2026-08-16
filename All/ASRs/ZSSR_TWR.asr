@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSSR:symbol
+Airports:ZSSR:name
+VORs:SHR:symbol
+VORs:SHR:name
+Geo:ZSSR:
+Runways:ZSSR 上饶/三清山 24-06:centerline
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 1
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 1 left base
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 1 left ticks
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 1 left vectoring
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 1 right base
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 1 right ticks
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 1 right vectoring
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 2
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 2 left base
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 2 left ticks
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 2 left vectoring
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 2 right base
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 2 right ticks
+Runways:ZSSR 上饶/三清山 24-06:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:28.219722:117.804167:28.539722:118.124167

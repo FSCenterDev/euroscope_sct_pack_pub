@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZPZT:symbol
+Airports:ZPZT:name
+VORs:ZAT:symbol
+VORs:ZAT:name
+Geo:ZPZT:
+Runways:ZPZT 昭通 22-04:centerline
+Runways:ZPZT 昭通 22-04:extended centerline 1
+Runways:ZPZT 昭通 22-04:extended centerline 1 left base
+Runways:ZPZT 昭通 22-04:extended centerline 1 left ticks
+Runways:ZPZT 昭通 22-04:extended centerline 1 left vectoring
+Runways:ZPZT 昭通 22-04:extended centerline 1 right base
+Runways:ZPZT 昭通 22-04:extended centerline 1 right ticks
+Runways:ZPZT 昭通 22-04:extended centerline 1 right vectoring
+Runways:ZPZT 昭通 22-04:extended centerline 2
+Runways:ZPZT 昭通 22-04:extended centerline 2 left base
+Runways:ZPZT 昭通 22-04:extended centerline 2 left ticks
+Runways:ZPZT 昭通 22-04:extended centerline 2 left vectoring
+Runways:ZPZT 昭通 22-04:extended centerline 2 right base
+Runways:ZPZT 昭通 22-04:extended centerline 2 right ticks
+Runways:ZPZT 昭通 22-04:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:27.167756:103.596503:27.487756:103.916503

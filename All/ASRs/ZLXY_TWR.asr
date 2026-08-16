@@ -1,0 +1,71 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZLXY:symbol
+Airports:ZLXY:name
+Fixes:OLMEK:symbol
+Fixes:OLMEK:name
+Fixes:P339:symbol
+Fixes:P339:name
+Geo:ZLXY:
+Runways:ZLXY 西安/咸阳 05L-23R:centerline
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 1
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 1 left base
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 1 left ticks
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 1 left vectoring
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 1 right base
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 1 right ticks
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 1 right vectoring
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 2
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 2 left base
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 2 left ticks
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 2 left vectoring
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 2 right base
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 2 right ticks
+Runways:ZLXY 西安/咸阳 05L-23R:extended centerline 2 right vectoring
+Runways:ZLXY 西安/咸阳 06L-24R:centerline
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 1
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 1 left base
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 1 left ticks
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 1 left vectoring
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 1 right base
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 1 right ticks
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 1 right vectoring
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 2
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 2 left base
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 2 left ticks
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 2 left vectoring
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 2 right base
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 2 right ticks
+Runways:ZLXY 西安/咸阳 06L-24R:extended centerline 2 right vectoring
+Runways:ZLXY 西安/咸阳 24L-06R:centerline
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 1
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 1 left base
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 1 left ticks
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 1 left vectoring
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 1 right base
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 1 right ticks
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 1 right vectoring
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 2
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 2 left base
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 2 left ticks
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 2 left vectoring
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 2 right base
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 2 right ticks
+Runways:ZLXY 西安/咸阳 24L-06R:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:34.293445:108.591171:34.613445:108.911171

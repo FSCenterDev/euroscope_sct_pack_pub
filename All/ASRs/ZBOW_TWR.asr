@@ -1,0 +1,41 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZBOW:symbol
+Airports:ZBOW:name
+Fixes:EGILO:symbol
+Fixes:EGILO:name
+VORs:BAV:symbol
+VORs:BAV:name
+Geo:ZBOW:
+Runways:ZBOW 包头/东河 13-31:centerline
+Runways:ZBOW 包头/东河 13-31:extended centerline 1
+Runways:ZBOW 包头/东河 13-31:extended centerline 1 left base
+Runways:ZBOW 包头/东河 13-31:extended centerline 1 left ticks
+Runways:ZBOW 包头/东河 13-31:extended centerline 1 left vectoring
+Runways:ZBOW 包头/东河 13-31:extended centerline 1 right base
+Runways:ZBOW 包头/东河 13-31:extended centerline 1 right ticks
+Runways:ZBOW 包头/东河 13-31:extended centerline 1 right vectoring
+Runways:ZBOW 包头/东河 13-31:extended centerline 2
+Runways:ZBOW 包头/东河 13-31:extended centerline 2 left base
+Runways:ZBOW 包头/东河 13-31:extended centerline 2 left ticks
+Runways:ZBOW 包头/东河 13-31:extended centerline 2 left vectoring
+Runways:ZBOW 包头/东河 13-31:extended centerline 2 right base
+Runways:ZBOW 包头/东河 13-31:extended centerline 2 right ticks
+Runways:ZBOW 包头/东河 13-31:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:40.399375:109.838444:40.719375:110.158444

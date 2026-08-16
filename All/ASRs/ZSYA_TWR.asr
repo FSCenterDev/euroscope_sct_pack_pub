@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSYA:symbol
+Airports:ZSYA:name
+VORs:SJD:symbol
+VORs:SJD:name
+Geo:ZSYA:
+Runways:ZSYA 扬州/泰州 17-35:centerline
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 1
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 1 left base
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 1 left ticks
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 1 left vectoring
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 1 right base
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 1 right ticks
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 1 right vectoring
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 2
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 2 left base
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 2 left ticks
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 2 left vectoring
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 2 right base
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 2 right ticks
+Runways:ZSYA 扬州/泰州 17-35:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:32.403333:119.559722:32.723333:119.879722

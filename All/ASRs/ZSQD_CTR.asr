@@ -1,0 +1,318 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSQD:symbol
+Airports:ZSQD:name
+Airports:ZSWH:symbol
+Airports:ZSWH:name
+Airports:ZSYT:symbol
+Airports:ZSYT:name
+Fixes:AGAVO:symbol
+Fixes:AGAVO:name
+Fixes:ATLED:symbol
+Fixes:ATLED:name
+Fixes:AVBIK:symbol
+Fixes:AVBIK:name
+Fixes:AVLOK:symbol
+Fixes:AVLOK:name
+Fixes:BUGPA:symbol
+Fixes:BUGPA:name
+Fixes:DONVO:symbol
+Fixes:DONVO:name
+Fixes:ESNUN:symbol
+Fixes:ESNUN:name
+Fixes:GUMED:symbol
+Fixes:GUMED:name
+Fixes:GUSEV:symbol
+Fixes:GUSEV:name
+Fixes:GUTVO:symbol
+Fixes:GUTVO:name
+Fixes:IDVEL:symbol
+Fixes:IDVEL:name
+Fixes:IGDEG:symbol
+Fixes:IGDEG:name
+Fixes:IGPOX:symbol
+Fixes:IGPOX:name
+Fixes:IKEKA:symbol
+Fixes:IKEKA:name
+Fixes:IPMIN:symbol
+Fixes:IPMIN:name
+Fixes:KARPI:symbol
+Fixes:KARPI:name
+Fixes:LAROP:symbol
+Fixes:LAROP:name
+Fixes:LATUX:symbol
+Fixes:LATUX:name
+Fixes:LILMO:symbol
+Fixes:LILMO:name
+Fixes:LUDVU:symbol
+Fixes:LUDVU:name
+Fixes:LUPSA:symbol
+Fixes:LUPSA:name
+Fixes:MABEB:symbol
+Fixes:MABEB:name
+Fixes:NIXEP:symbol
+Fixes:NIXEP:name
+Fixes:NOBOB:symbol
+Fixes:NOBOB:name
+Fixes:NOKUD:symbol
+Fixes:NOKUD:name
+Fixes:OBDIS:symbol
+Fixes:OBDIS:name
+Fixes:OMLIB:symbol
+Fixes:OMLIB:name
+Fixes:OSVEN:symbol
+Fixes:OSVEN:name
+Fixes:P09:symbol
+Fixes:P09:name
+Fixes:P19:symbol
+Fixes:P19:name
+Fixes:P250:symbol
+Fixes:P250:name
+Fixes:P323:symbol
+Fixes:P323:name
+Fixes:P337:symbol
+Fixes:P337:name
+Fixes:P449:symbol
+Fixes:P449:name
+Fixes:P505:symbol
+Fixes:P505:name
+Fixes:P581:symbol
+Fixes:P581:name
+Fixes:P582:symbol
+Fixes:P582:name
+Fixes:P583:symbol
+Fixes:P583:name
+Fixes:P585:symbol
+Fixes:P585:name
+Fixes:P586:symbol
+Fixes:P586:name
+Fixes:P74:symbol
+Fixes:P74:name
+Fixes:REPOL:symbol
+Fixes:REPOL:name
+Fixes:SANKO:symbol
+Fixes:SANKO:name
+Fixes:SEBLI:symbol
+Fixes:SEBLI:name
+Fixes:TEKAM:symbol
+Fixes:TEKAM:name
+Fixes:UGOMO:symbol
+Fixes:UGOMO:name
+Fixes:UKMEV:symbol
+Fixes:UKMEV:name
+Fixes:UPDAD:symbol
+Fixes:UPDAD:name
+Fixes:URBAD:symbol
+Fixes:URBAD:name
+Fixes:VEPGI:symbol
+Fixes:VEPGI:name
+Fixes:VEVED:symbol
+Fixes:VEVED:name
+Fixes:VIKOK:symbol
+Fixes:VIKOK:name
+Fixes:XIVID:symbol
+Fixes:XIVID:name
+VORs:HCH:symbol
+VORs:HCH:name
+VORs:JDE:symbol
+VORs:JDE:name
+VORs:JDG:symbol
+VORs:JDG:name
+VORs:JDW:symbol
+VORs:JDW:name
+VORs:TAO:symbol
+VORs:TAO:name
+VORs:WEH:symbol
+VORs:WEH:name
+VORs:XDX:symbol
+VORs:XDX:name
+VORs:YCS:symbol
+VORs:YCS:name
+NDBs:FD:symbol
+NDBs:FD:name
+NDBs:FZ:symbol
+NDBs:FZ:name
+High airways:A326:line
+High airways:A326:name
+High airways:A588:line
+High airways:A588:name
+High airways:A591:line
+High airways:A591:name
+High airways:B221:line
+High airways:B221:name
+High airways:B332:line
+High airways:B332:name
+High airways:G597:line
+High airways:G597:name
+High airways:H101:line
+High airways:H101:name
+High airways:H114:line
+High airways:H114:name
+High airways:H128:line
+High airways:H128:name
+High airways:H152:line
+High airways:H152:name
+High airways:H28:line
+High airways:H28:name
+High airways:H30:line
+High airways:H30:name
+High airways:J163:line
+High airways:J163:name
+High airways:J164:line
+High airways:J164:name
+High airways:J165:line
+High airways:J165:name
+High airways:J20:line
+High airways:J20:name
+High airways:J21:line
+High airways:J21:name
+High airways:J51:line
+High airways:J51:name
+High airways:J600:line
+High airways:J600:name
+High airways:V112:line
+High airways:V112:name
+High airways:V163:line
+High airways:V163:name
+High airways:V164:line
+High airways:V164:name
+High airways:V165:line
+High airways:V165:name
+High airways:V42:line
+High airways:V42:name
+High airways:V44:line
+High airways:V44:name
+High airways:V68:line
+High airways:V68:name
+High airways:V89:line
+High airways:V89:name
+High airways:W103:line
+High airways:W103:name
+High airways:W107:line
+High airways:W107:name
+High airways:W108:line
+High airways:W108:name
+High airways:W172:line
+High airways:W172:name
+High airways:W173:line
+High airways:W173:name
+High airways:W174:line
+High airways:W174:name
+High airways:W200:line
+High airways:W200:name
+High airways:W201:line
+High airways:W201:name
+High airways:W209:line
+High airways:W209:name
+High airways:W4:line
+High airways:W4:name
+High airways:W5:line
+High airways:W5:name
+High airways:W578:line
+High airways:W578:name
+High airways:W579:line
+High airways:W579:name
+High airways:W587:line
+High airways:W587:name
+High airways:W588:line
+High airways:W588:name
+High airways:W589:line
+High airways:W589:name
+High airways:W590:line
+High airways:W590:name
+High airways:W650:line
+High airways:W650:name
+High airways:W651:line
+High airways:W651:name
+High airways:W652:line
+High airways:W652:name
+High airways:W8:line
+High airways:W8:name
+High airways:X16:line
+High airways:X16:name
+High airways:X177:line
+High airways:X177:name
+High airways:X200:line
+High airways:X200:name
+High airways:X42:line
+High airways:X42:name
+Geo:ZSQD:
+Geo:ZSWH:
+Geo:ZSYT:
+Runways:ZSQD Çàµº/½º¶« 16-34:centerline
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 1
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 1 left base
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 1 left ticks
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 1 left vectoring
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 1 right base
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 1 right ticks
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 1 right vectoring
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 2
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 2 left base
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 2 left ticks
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 2 left vectoring
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 2 right base
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 2 right ticks
+Runways:ZSQD Çàµº/½º¶« 16-34:extended centerline 2 right vectoring
+Runways:ZSQD Çàµº/½º¶« 35-17:centerline
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 1
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 1 left base
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 1 left ticks
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 1 left vectoring
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 1 right base
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 1 right ticks
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 1 right vectoring
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 2
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 2 left base
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 2 left ticks
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 2 left vectoring
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 2 right base
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 2 right ticks
+Runways:ZSQD Çàµº/½º¶« 35-17:extended centerline 2 right vectoring
+Runways:ZSWH Íþº£/´óË®²´ 03-21:centerline
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 1
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 1 left base
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 1 left ticks
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 1 left vectoring
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 1 right base
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 1 right ticks
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 1 right vectoring
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 2
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 2 left base
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 2 left ticks
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 2 left vectoring
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 2 right base
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 2 right ticks
+Runways:ZSWH Íþº£/´óË®²´ 03-21:extended centerline 2 right vectoring
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:centerline
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 left base
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 left ticks
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 left vectoring
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 right base
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 right ticks
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 right vectoring
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 left base
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 left ticks
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 left vectoring
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 right base
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 right ticks
+Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:34.739167:118.781917:38.569167:124.498917

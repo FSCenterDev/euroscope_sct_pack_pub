@@ -1,0 +1,54 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZBTJ:symbol
+Airports:ZBTJ:name
+VORs:TAJ:symbol
+VORs:TAJ:name
+Geo:ZBTJ:
+Runways:ZBTJ 天津/滨海 16L-34R:centerline
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 1
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 1 left base
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 1 left ticks
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 1 left vectoring
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 1 right base
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 1 right ticks
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 1 right vectoring
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 2
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 2 left base
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 2 left ticks
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 2 left vectoring
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 2 right base
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 2 right ticks
+Runways:ZBTJ 天津/滨海 16L-34R:extended centerline 2 right vectoring
+Runways:ZBTJ 天津/滨海 34L-16R:centerline
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 1
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 1 left base
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 1 left ticks
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 1 left vectoring
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 1 right base
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 1 right ticks
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 1 right vectoring
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 2
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 2 left base
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 2 left ticks
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 2 left vectoring
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 2 right base
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 2 right ticks
+Runways:ZBTJ 天津/滨海 34L-16R:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:39.064356:117.286178:39.184356:117.406178

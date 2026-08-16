@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZBCD:symbol
+Airports:ZBCD:name
+VORs:DHC:symbol
+VORs:DHC:name
+Geo:ZBCD:
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:centerline
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 1
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 1 left base
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 1 left ticks
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 1 left vectoring
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 1 right base
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 1 right ticks
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 1 right vectoring
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 2
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 2 left base
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 2 left ticks
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 2 left vectoring
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 2 right base
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 2 right ticks
+Runways:ZBCD ³ÐµÂ/ÆÕÄþ 30-12:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:40.961422:117.916325:41.281422:118.236325

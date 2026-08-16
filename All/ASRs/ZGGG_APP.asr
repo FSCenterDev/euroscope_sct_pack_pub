@@ -1,0 +1,108 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZGGG:symbol
+Airports:ZGGG:name
+Fixes:TEPID:symbol
+Fixes:TEPID:name
+High airways:A599/R473:line
+High airways:H84:line
+High airways:J390:line
+High airways:W19:line
+High airways:W21:line
+High airways:W22:line
+High airways:W24:line
+High airways:W6:line
+High airways:W90:line
+Geo:ZGGG:
+Runways:ZGGG 广州/白云 03-21:centerline
+Runways:ZGGG 广州/白云 03-21:extended centerline 1
+Runways:ZGGG 广州/白云 03-21:extended centerline 1 left base
+Runways:ZGGG 广州/白云 03-21:extended centerline 1 left ticks
+Runways:ZGGG 广州/白云 03-21:extended centerline 1 left vectoring
+Runways:ZGGG 广州/白云 03-21:extended centerline 1 right base
+Runways:ZGGG 广州/白云 03-21:extended centerline 1 right ticks
+Runways:ZGGG 广州/白云 03-21:extended centerline 1 right vectoring
+Runways:ZGGG 广州/白云 03-21:extended centerline 2
+Runways:ZGGG 广州/白云 03-21:extended centerline 2 left base
+Runways:ZGGG 广州/白云 03-21:extended centerline 2 left ticks
+Runways:ZGGG 广州/白云 03-21:extended centerline 2 left vectoring
+Runways:ZGGG 广州/白云 03-21:extended centerline 2 right base
+Runways:ZGGG 广州/白云 03-21:extended centerline 2 right ticks
+Runways:ZGGG 广州/白云 03-21:extended centerline 2 right vectoring
+Runways:ZGGG 广州/白云 19L-01R:centerline
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 1
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 1 left base
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 1 left ticks
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 1 left vectoring
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 1 right base
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 1 right ticks
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 1 right vectoring
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 2
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 2 left base
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 2 left ticks
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 2 left vectoring
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 2 right base
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 2 right ticks
+Runways:ZGGG 广州/白云 19L-01R:extended centerline 2 right vectoring
+Runways:ZGGG 广州/白云 19R-01L:centerline
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 1
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 1 left base
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 1 left ticks
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 1 left vectoring
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 1 right base
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 1 right ticks
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 1 right vectoring
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 2
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 2 left base
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 2 left ticks
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 2 left vectoring
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 2 right base
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 2 right ticks
+Runways:ZGGG 广州/白云 19R-01L:extended centerline 2 right vectoring
+Runways:ZGGG 广州/白云 20L-02R:centerline
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 1
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 1 left base
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 1 left ticks
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 1 left vectoring
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 1 right base
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 1 right ticks
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 1 right vectoring
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 2
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 2 left base
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 2 left ticks
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 2 left vectoring
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 2 right base
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 2 right ticks
+Runways:ZGGG 广州/白云 20L-02R:extended centerline 2 right vectoring
+Runways:ZGGG 广州/白云 20R-02L:centerline
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 1
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 1 left base
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 1 left ticks
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 1 left vectoring
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 1 right base
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 1 right ticks
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 1 right vectoring
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 2
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 2 left base
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 2 left ticks
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 2 left vectoring
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 2 right base
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 2 right ticks
+Runways:ZGGG 广州/白云 20R-02L:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:23.092222:113.009722:23.692222:113.609722

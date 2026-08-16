@@ -1,0 +1,52 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZGKL:symbol
+Airports:ZGKL:name
+Fixes:MAMSI:symbol
+Fixes:MAMSI:name
+NDBs:JW:symbol
+NDBs:JW:name
+NDBs:PA:symbol
+NDBs:PA:name
+High airways:B330/G586:line
+High airways:H145:line
+High airways:H83:line
+High airways:R343:line
+High airways:V147:line
+High airways:W2:line
+High airways:W2/W524:line
+High airways:W524:line
+High airways:X24:line
+Geo:ZGKL:
+Runways:ZGKL 桂林/两江 19-01:centerline
+Runways:ZGKL 桂林/两江 19-01:extended centerline 1
+Runways:ZGKL 桂林/两江 19-01:extended centerline 1 left base
+Runways:ZGKL 桂林/两江 19-01:extended centerline 1 left ticks
+Runways:ZGKL 桂林/两江 19-01:extended centerline 1 left vectoring
+Runways:ZGKL 桂林/两江 19-01:extended centerline 1 right base
+Runways:ZGKL 桂林/两江 19-01:extended centerline 1 right ticks
+Runways:ZGKL 桂林/两江 19-01:extended centerline 1 right vectoring
+Runways:ZGKL 桂林/两江 19-01:extended centerline 2
+Runways:ZGKL 桂林/两江 19-01:extended centerline 2 left base
+Runways:ZGKL 桂林/两江 19-01:extended centerline 2 left ticks
+Runways:ZGKL 桂林/两江 19-01:extended centerline 2 left vectoring
+Runways:ZGKL 桂林/两江 19-01:extended centerline 2 right base
+Runways:ZGKL 桂林/两江 19-01:extended centerline 2 right ticks
+Runways:ZGKL 桂林/两江 19-01:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:24.918153:109.739308:25.518153:110.339308

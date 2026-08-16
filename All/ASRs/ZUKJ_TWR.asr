@@ -1,0 +1,41 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZUKJ:symbol
+Airports:ZUKJ:name
+Fixes:P709:symbol
+Fixes:P709:name
+VORs:KHP:symbol
+VORs:KHP:name
+Geo:ZUKJ:
+Runways:ZUKJ 凯里/黄平 04-22:centerline
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 1
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 1 left base
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 1 left ticks
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 1 left vectoring
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 1 right base
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 1 right ticks
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 1 right vectoring
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 2
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 2 left base
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 2 left ticks
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 2 left vectoring
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 2 right base
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 2 right ticks
+Runways:ZUKJ 凯里/黄平 04-22:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:26.811944:107.828056:27.131944:108.148056

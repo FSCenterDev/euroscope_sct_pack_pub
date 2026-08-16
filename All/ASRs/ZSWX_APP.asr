@@ -1,0 +1,52 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSWX:symbol
+Airports:ZSWX:name
+Fixes:SASAN:symbol
+Fixes:SASAN:name
+Fixes:TEPAG:symbol
+Fixes:TEPAG:name
+VORs:SUF:symbol
+VORs:SUF:name
+High airways:A593:line
+High airways:R343:line
+High airways:V16:line
+High airways:W161:line
+High airways:W167:line
+High airways:W583:line
+High airways:X74:line
+High airways:X74/V16:line
+High airways:X86:line
+Geo:ZSWX:
+Runways:ZSWX 无锡/硕放 03-21:centerline
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 1
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 left base
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 left ticks
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 left vectoring
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 right base
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 right ticks
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 right vectoring
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 2
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 left base
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 left ticks
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 left vectoring
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 right base
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 right ticks
+Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:31.194669:120.129408:31.794669:120.729408

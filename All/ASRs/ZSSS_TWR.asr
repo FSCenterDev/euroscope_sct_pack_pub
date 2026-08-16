@@ -1,0 +1,58 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSSS:symbol
+Airports:ZSSS:name
+VORs:JTN:symbol
+VORs:JTN:name
+VORs:SHA:symbol
+VORs:SHA:name
+NDBs:PK:symbol
+NDBs:PK:name
+Geo:ZSSS:
+Runways:ZSSS 上海/虹桥 18L-36R:centerline
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1 left base
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1 left ticks
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1 left vectoring
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1 right base
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1 right ticks
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1 right vectoring
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2 left base
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2 left ticks
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2 left vectoring
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2 right base
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2 right ticks
+Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2 right vectoring
+Runways:ZSSS 上海/虹桥 36L-18R:centerline
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1 left base
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1 left ticks
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1 left vectoring
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1 right base
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1 right ticks
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1 right vectoring
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2 left base
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2 left ticks
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2 left vectoring
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2 right base
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2 right ticks
+Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:31.037890:121.176312:31.357890:121.496312

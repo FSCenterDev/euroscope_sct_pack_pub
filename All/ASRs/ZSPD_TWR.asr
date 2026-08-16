@@ -1,0 +1,84 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSPD:symbol
+Airports:ZSPD:name
+VORs:PUD:symbol
+VORs:PUD:name
+Geo:ZSPD:
+Runways:ZSPD 上海/浦东 16R-34L:centerline
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1 left base
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1 left ticks
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1 left vectoring
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1 right base
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1 right ticks
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1 right vectoring
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2 left base
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2 left ticks
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2 left vectoring
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2 right base
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2 right ticks
+Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2 right vectoring
+Runways:ZSPD 上海/浦东 17R-35L:centerline
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1 left base
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1 left ticks
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1 left vectoring
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1 right base
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1 right ticks
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1 right vectoring
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2 left base
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2 left ticks
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2 left vectoring
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2 right base
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2 right ticks
+Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2 right vectoring
+Runways:ZSPD 上海/浦东 34R-16L:centerline
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1 left base
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1 left ticks
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1 left vectoring
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1 right base
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1 right ticks
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1 right vectoring
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2 left base
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2 left ticks
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2 left vectoring
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2 right base
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2 right ticks
+Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2 right vectoring
+Runways:ZSPD 上海/浦东 35R-17L:centerline
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1 left base
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1 left ticks
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1 left vectoring
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1 right base
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1 right ticks
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1 right vectoring
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2 left base
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2 left ticks
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2 left vectoring
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2 right base
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2 right ticks
+Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:30.984167:121.632500:31.304167:121.952500

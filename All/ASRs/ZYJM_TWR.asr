@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZYJM:symbol
+Airports:ZYJM:name
+VORs:JMU:symbol
+VORs:JMU:name
+Geo:ZYJM:
+Runways:ZYJM 佳木斯/松江 24-06:centerline
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1 left base
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1 left ticks
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1 left vectoring
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1 right base
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1 right ticks
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1 right vectoring
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2 left base
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2 left ticks
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2 left vectoring
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2 right base
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2 right ticks
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:46.682628:130.304003:47.002628:130.624003

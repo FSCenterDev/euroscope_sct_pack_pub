@@ -1,0 +1,60 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSJN:symbol
+Airports:ZSJN:name
+Fixes:GOLAL:symbol
+Fixes:GOLAL:name
+Fixes:LEDOV:symbol
+Fixes:LEDOV:name
+Fixes:METOG:symbol
+Fixes:METOG:name
+VORs:YQG:symbol
+VORs:YQG:name
+High airways:A593:line
+High airways:J856:line
+High airways:V164:line
+High airways:V165:line
+High airways:V30:line
+High airways:W103:line
+High airways:W142:line
+High airways:W157:line
+High airways:W160:line
+High airways:W40:line
+High airways:W567:line
+High airways:W568:line
+High airways:W569:line
+High airways:X15:line
+High airways:X19:line
+Geo:ZSJN:
+Runways:ZSJN 济南/遥墙 01-19:centerline
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 1
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 1 left base
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 1 left ticks
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 1 left vectoring
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 1 right base
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 1 right ticks
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 1 right vectoring
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 2
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 2 left base
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 2 left ticks
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 2 left vectoring
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 2 right base
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 2 right ticks
+Runways:ZSJN 济南/遥墙 01-19:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:36.557303:116.915989:37.157303:117.515989

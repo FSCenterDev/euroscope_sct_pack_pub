@@ -1,0 +1,56 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSHC:symbol
+Airports:ZSHC:name
+VORs:DSH:symbol
+VORs:DSH:name
+VORs:HGH:symbol
+VORs:HGH:name
+Geo:ZSHC:
+Runways:ZSHC 杭州/萧山 24-06:centerline
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 1
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 1 left base
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 1 left ticks
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 1 left vectoring
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 1 right base
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 1 right ticks
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 1 right vectoring
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 2
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 2 left base
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 2 left ticks
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 2 left vectoring
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 2 right base
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 2 right ticks
+Runways:ZSHC 杭州/萧山 24-06:extended centerline 2 right vectoring
+Runways:ZSHC 杭州/萧山 25-07:centerline
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 1
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 1 left base
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 1 left ticks
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 1 left vectoring
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 1 right base
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 1 right ticks
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 1 right vectoring
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 2
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 2 left base
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 2 left ticks
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 2 left vectoring
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 2 right base
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 2 right ticks
+Runways:ZSHC 杭州/萧山 25-07:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:30.069508:120.274411:30.389508:120.594411

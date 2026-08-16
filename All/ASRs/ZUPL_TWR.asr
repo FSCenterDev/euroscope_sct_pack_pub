@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZUPL:symbol
+Airports:ZUPL:name
+VORs:PUN:symbol
+VORs:PUN:name
+Geo:ZUPL:
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:centerline
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 1
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 1 left base
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 1 left ticks
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 1 left vectoring
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 1 right base
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 1 right ticks
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 1 right vectoring
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 2
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 2 left base
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 2 left ticks
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 2 left vectoring
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 2 right base
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 2 right ticks
+Runways:ZUPL ∞¢¿Ô/∆’¿º 33-15:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:30.237901:80.973167:30.557901:81.293167

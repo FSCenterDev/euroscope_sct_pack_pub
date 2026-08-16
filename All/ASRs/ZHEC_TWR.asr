@@ -1,0 +1,54 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZHEC:symbol
+Airports:ZHEC:name
+Fixes:P175:symbol
+Fixes:P175:name
+Geo:ZHEC:
+Runways:ZHEC 鄂州/花湖 19L-01R:centerline
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1 left base
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1 left ticks
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1 left vectoring
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1 right base
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1 right ticks
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1 right vectoring
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2 left base
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2 left ticks
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2 left vectoring
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2 right base
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2 right ticks
+Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2 right vectoring
+Runways:ZHEC 鄂州/花湖 19R-01L:centerline
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1 left base
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1 left ticks
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1 left vectoring
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1 right base
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1 right ticks
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1 right vectoring
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2 left base
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2 left ticks
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2 left vectoring
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2 right base
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2 right ticks
+Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:30.182856:114.869611:30.502856:115.189611

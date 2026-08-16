@@ -1,0 +1,65 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZYHB:symbol
+Airports:ZYHB:name
+Fixes:ATVOM:symbol
+Fixes:ATVOM:name
+VORs:HRB:symbol
+VORs:HRB:name
+High airways:A588:line
+High airways:B451:line
+High airways:G212:line
+High airways:J66:line
+High airways:V81:line
+High airways:V84:line
+High airways:V85:line
+High airways:W625:line
+High airways:W626:line
+Geo:ZYHB:
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:centerline
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 1
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 1 left base
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 1 left ticks
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 1 left vectoring
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 1 right base
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 1 right ticks
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 1 right vectoring
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 2
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 2 left base
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 2 left ticks
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 2 left vectoring
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 2 right base
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 2 right ticks
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23L-05R:extended centerline 2 right vectoring
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:centerline
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 1
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 1 left base
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 1 left ticks
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 1 left vectoring
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 1 right base
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 1 right ticks
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 1 right vectoring
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 2
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 2 left base
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 2 left ticks
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 2 left vectoring
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 2 right base
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 2 right ticks
+Runways:ZYHB ¹þ¶û±õ/Ì«Æ½ 23R-05L:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:45.323492:125.950258:45.923492:126.550258

@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZYTL:symbol
+Airports:ZYTL:name
+VORs:DBL:symbol
+VORs:DBL:name
+Geo:ZYTL:
+Runways:ZYTL 大连/周水子 10-28:centerline
+Runways:ZYTL 大连/周水子 10-28:extended centerline 1
+Runways:ZYTL 大连/周水子 10-28:extended centerline 1 left base
+Runways:ZYTL 大连/周水子 10-28:extended centerline 1 left ticks
+Runways:ZYTL 大连/周水子 10-28:extended centerline 1 left vectoring
+Runways:ZYTL 大连/周水子 10-28:extended centerline 1 right base
+Runways:ZYTL 大连/周水子 10-28:extended centerline 1 right ticks
+Runways:ZYTL 大连/周水子 10-28:extended centerline 1 right vectoring
+Runways:ZYTL 大连/周水子 10-28:extended centerline 2
+Runways:ZYTL 大连/周水子 10-28:extended centerline 2 left base
+Runways:ZYTL 大连/周水子 10-28:extended centerline 2 left ticks
+Runways:ZYTL 大连/周水子 10-28:extended centerline 2 left vectoring
+Runways:ZYTL 大连/周水子 10-28:extended centerline 2 right base
+Runways:ZYTL 大连/周水子 10-28:extended centerline 2 right ticks
+Runways:ZYTL 大连/周水子 10-28:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:38.905644:121.479014:39.025644:121.599014

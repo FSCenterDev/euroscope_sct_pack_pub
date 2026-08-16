@@ -1,0 +1,57 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZYTX:symbol
+Airports:ZYTX:name
+Fixes:TX405:symbol
+Fixes:TX405:name
+Fixes:TX654:symbol
+Fixes:TX654:name
+VORs:SEY:symbol
+VORs:SEY:name
+NDBs:PU:symbol
+NDBs:PU:name
+High airways:A575:line
+High airways:V56:line
+High airways:V58:line
+High airways:V59:line
+High airways:V60:line
+High airways:V62:line
+High airways:W511:line
+High airways:W512:line
+High airways:W599:line
+High airways:W600:line
+High airways:W601:line
+High airways:W89:line
+Geo:ZYTX:
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:centerline
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1 left base
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1 left ticks
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1 left vectoring
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1 right base
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1 right ticks
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1 right vectoring
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2 left base
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2 left ticks
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2 left vectoring
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2 right base
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2 right ticks
+Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:41.340014:123.183458:41.940014:123.783458

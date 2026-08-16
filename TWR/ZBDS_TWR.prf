@@ -1,0 +1,34 @@
+RecentFiles	Recent1	\..\All\ASRs\ZBDS_TWR.asr
+Settings	sector	\..\All\Sct\ZBPE.sct
+Settings	SettingsfileSYMBOLOGY	\..\Resource\Settings\Symbology.txt
+Settings	SettingsfileVOICE	\..\All\Profiles\Channels_ZBPE.txt
+Settings	SettingsfileTAGS	\..\Resource\Settings\Tag.txt
+Settings	SettingsfileSIL	\..\Resource\Settings\Lists.txt
+Settings	SettingsfileSEL	\..\Resource\Settings\Lists.txt
+Settings	SettingsfileDEP	\..\Resource\Settings\Lists.txt
+Settings	SettingsfileARR	\..\Resource\Settings\Lists.txt
+Settings	SettingsfileFP	\..\Resource\Settings\Lists.txt
+Settings	SettingsfilePLUGINS	\..\Resource\Settings\Plugin.txt
+Settings	Settingsfile	\..\Resource\Settings\General.txt
+Settings	SettingsfileSCREEN	\..\Resource\Settings\Layout.txt
+Settings	SettingsfileCONFLICT	\..\Resource\Settings\Lists.txt
+Settings	SettingsfileVCCS	\..\Resource\Settings\VCCS.txt
+Settings	SettingsfilePILOTING	\..\Resource\Settings\Lists.txt
+Settings	airways	\..\Resource\FSNavigator\AIRWAY.txt
+Settings	aircraft	\..\Resource\ICAO\ICAO_Aircraft.txt
+Settings	airlines	\..\Resource\ICAO\ICAO_Airlines.txt
+Settings	AtisFolder	\..\Resource\ATIS\ATIS.txt
+Plugins	Plugin0	\..\Resource\Plugins\Telephonics.dll
+Plugins	Plugin1	\..\Resource\Plugins\AfvEuroScopeBridge.dll
+Plugins	Plugin2	\..\Resource\Plugins\vSMR.dll
+Plugins	Plugin3	\..\Resource\Plugins\RDFPlugin.dll
+Plugins	Plugin3Display0	Standard ES radar screen
+LastSession	connecttype	0
+LastSession	callsign	Click here ---------------->
+LastSession	realname	EnterYourRealName
+LastSession	certificate	EnterYourCallsign
+LastSession	password	
+LastSession	tovatsim	0
+LastSession	range	300
+LastSession	proxyserver	localhost
+LastSession	simdatapublish	0

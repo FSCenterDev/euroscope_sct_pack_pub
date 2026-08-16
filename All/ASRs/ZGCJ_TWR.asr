@@ -1,0 +1,49 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZGCJ:symbol
+Airports:ZGCJ:name
+Fixes:P425:symbol
+Fixes:P425:name
+Fixes:P494:symbol
+Fixes:P494:name
+Fixes:P649:symbol
+Fixes:P649:name
+Fixes:P653:symbol
+Fixes:P653:name
+Fixes:P656:symbol
+Fixes:P656:name
+VORs:ZHJ:symbol
+VORs:ZHJ:name
+Geo:ZGCJ:
+Runways:ZGCJ 怀化/芷江 22-04:centerline
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 1
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 1 left base
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 1 left ticks
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 1 left vectoring
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 1 right base
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 1 right ticks
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 1 right vectoring
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 2
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 2 left base
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 2 left ticks
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 2 left vectoring
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 2 right base
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 2 right ticks
+Runways:ZGCJ 怀化/芷江 22-04:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:27.283889:109.545197:27.603889:109.865197

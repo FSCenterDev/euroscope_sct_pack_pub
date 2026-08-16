@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZBAR:symbol
+Airports:ZBAR:name
+VORs:BDA:symbol
+VORs:BDA:name
+Geo:ZBAR:
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:centerline
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 1
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 1 left base
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 1 left ticks
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 1 left vectoring
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 1 right base
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 1 right ticks
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 1 right vectoring
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 2
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 2 left base
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 2 left ticks
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 2 left vectoring
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 2 right base
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 2 right ticks
+Runways:ZBAR ∞¢¿≠…∆”“∆Ï/∞Õµ§º™¡÷ 13-31:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:39.065278:101.389444:39.385278:101.709444

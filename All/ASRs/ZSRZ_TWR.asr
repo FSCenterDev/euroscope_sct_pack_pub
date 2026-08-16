@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSRZ:symbol
+Airports:ZSRZ:name
+VORs:DRZ:symbol
+VORs:DRZ:name
+Geo:ZSRZ:
+Runways:ZSRZ 日照/山字河 13-31:centerline
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 1
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 1 left base
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 1 left ticks
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 1 left vectoring
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 1 right base
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 1 right ticks
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 1 right vectoring
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 2
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 2 left base
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 2 left ticks
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 2 left vectoring
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 2 right base
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 2 right ticks
+Runways:ZSRZ 日照/山字河 13-31:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:35.245556:119.163611:35.565556:119.483611

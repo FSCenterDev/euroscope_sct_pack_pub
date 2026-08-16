@@ -1,0 +1,43 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZHYC:symbol
+Airports:ZHYC:name
+Fixes:KAKSU:symbol
+Fixes:KAKSU:name
+Fixes:NIVUV:symbol
+Fixes:NIVUV:name
+VORs:YIH:symbol
+VORs:YIH:name
+Geo:ZHYC:
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:centerline
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 1
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 1 left base
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 1 left ticks
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 1 left vectoring
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 1 right base
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 1 right ticks
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 1 right vectoring
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 2
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 2 left base
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 2 left ticks
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 2 left vectoring
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 2 right base
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 2 right ticks
+Runways:ZHYC ÒË²ı/ÈıÏ¿ 14-32:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:30.396389:111.320000:30.716389:111.640000

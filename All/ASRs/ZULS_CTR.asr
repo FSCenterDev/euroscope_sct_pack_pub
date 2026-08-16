@@ -1,0 +1,300 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZLYS:symbol
+Airports:ZLYS:name
+Airports:ZUBD:symbol
+Airports:ZUBD:name
+Airports:ZUDR:symbol
+Airports:ZUDR:name
+Airports:ZULS:symbol
+Airports:ZULS:name
+Airports:ZUNZ:symbol
+Airports:ZUNZ:name
+Airports:ZURK:symbol
+Airports:ZURK:name
+Airports:ZUSH:symbol
+Airports:ZUSH:name
+Fixes:DUMIX:symbol
+Fixes:DUMIX:name
+Fixes:ELNUN:symbol
+Fixes:ELNUN:name
+Fixes:ENPAT:symbol
+Fixes:ENPAT:name
+Fixes:GOMON:symbol
+Fixes:GOMON:name
+Fixes:IBVUL:symbol
+Fixes:IBVUL:name
+Fixes:IDBON:symbol
+Fixes:IDBON:name
+Fixes:IGDAG:symbol
+Fixes:IGDAG:name
+Fixes:IGELA:symbol
+Fixes:IGELA:name
+Fixes:IKUBI:symbol
+Fixes:IKUBI:name
+Fixes:ISMUL:symbol
+Fixes:ISMUL:name
+Fixes:KADSA:symbol
+Fixes:KADSA:name
+Fixes:LEDIM:symbol
+Fixes:LEDIM:name
+Fixes:LUPMI:symbol
+Fixes:LUPMI:name
+Fixes:NINAP:symbol
+Fixes:NINAP:name
+Fixes:NONIM:symbol
+Fixes:NONIM:name
+Fixes:NOPIR:symbol
+Fixes:NOPIR:name
+Fixes:OLGUT:symbol
+Fixes:OLGUT:name
+Fixes:OMGEV:symbol
+Fixes:OMGEV:name
+Fixes:OPUNO:symbol
+Fixes:OPUNO:name
+Fixes:P114:symbol
+Fixes:P114:name
+Fixes:P341:symbol
+Fixes:P341:name
+Fixes:P447:symbol
+Fixes:P447:name
+Fixes:P462:symbol
+Fixes:P462:name
+Fixes:P482:symbol
+Fixes:P482:name
+Fixes:P483:symbol
+Fixes:P483:name
+Fixes:P529:symbol
+Fixes:P529:name
+Fixes:P621:symbol
+Fixes:P621:name
+Fixes:P622:symbol
+Fixes:P622:name
+Fixes:P705:symbol
+Fixes:P705:name
+Fixes:PARGU:symbol
+Fixes:PARGU:name
+Fixes:TAPUN:symbol
+Fixes:TAPUN:name
+Fixes:UBGEM:symbol
+Fixes:UBGEM:name
+Fixes:UGOVA:symbol
+Fixes:UGOVA:name
+Fixes:UGPIT:symbol
+Fixes:UGPIT:name
+VORs:DCH:symbol
+VORs:DCH:name
+VORs:DRD:symbol
+VORs:DRD:name
+VORs:LXA:symbol
+VORs:LXA:name
+VORs:LZP:symbol
+VORs:LZP:name
+VORs:RKZ:symbol
+VORs:RKZ:name
+VORs:YUS:symbol
+VORs:YUS:name
+NDBs:DM:symbol
+NDBs:DM:name
+NDBs:OQ:symbol
+NDBs:OQ:name
+NDBs:RG:symbol
+NDBs:RG:name
+High airways:B213:line
+High airways:B213:name
+High airways:B345:line
+High airways:B345:name
+High airways:H15:line
+High airways:H15:name
+High airways:H86:line
+High airways:H86:name
+High airways:H87:line
+High airways:H87:name
+High airways:J501:line
+High airways:J501:name
+High airways:J502:line
+High airways:J502:name
+High airways:J503:line
+High airways:J503:name
+High airways:J504:line
+High airways:J504:name
+High airways:J505:line
+High airways:J505:name
+High airways:J506:line
+High airways:J506:name
+High airways:J553:line
+High airways:J553:name
+High airways:J554:line
+High airways:J554:name
+High airways:W12:line
+High airways:W12:name
+High airways:W16:line
+High airways:W16:name
+High airways:W260:line
+High airways:W260:name
+High airways:W261:line
+High airways:W261:name
+High airways:W262:line
+High airways:W262:name
+High airways:W500:line
+High airways:W500:name
+High airways:W510:line
+High airways:W510:name
+High airways:W522:line
+High airways:W522:name
+High airways:W526:line
+High airways:W526:name
+High airways:W9:line
+High airways:W9:name
+High airways:Y3:line
+High airways:Y3:name
+High airways:Z1:line
+High airways:Z1:name
+High airways:Z3:line
+High airways:Z3:name
+High airways:Z6:line
+High airways:Z6:name
+Geo:ZLYS:
+Geo:ZUBD:
+Geo:ZUDR:
+Geo:ZULS:
+Geo:ZUNZ:
+Geo:ZURK:
+Geo:ZUSH:
+Runways:ZLYS 玉树/巴塘 10-28:centerline
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 1
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 1 left base
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 1 left ticks
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 1 left vectoring
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 1 right base
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 1 right ticks
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 1 right vectoring
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 2
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 2 left base
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 2 left ticks
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 2 left vectoring
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 2 right base
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 2 right ticks
+Runways:ZLYS 玉树/巴塘 10-28:extended centerline 2 right vectoring
+Runways:ZUBD 昌都/邦达 32-14:centerline
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 1
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 1 left base
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 1 left ticks
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 1 left vectoring
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 1 right base
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 1 right ticks
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 1 right vectoring
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 2
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 2 left base
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 2 left ticks
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 2 left vectoring
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 2 right base
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 2 right ticks
+Runways:ZUBD 昌都/邦达 32-14:extended centerline 2 right vectoring
+Runways:ZUDR 日喀则/定日 09-27:centerline
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 1
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 1 left base
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 1 left ticks
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 1 left vectoring
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 1 right base
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 1 right ticks
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 1 right vectoring
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 2
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 2 left base
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 2 left ticks
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 2 left vectoring
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 2 right base
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 2 right ticks
+Runways:ZUDR 日喀则/定日 09-27:extended centerline 2 right vectoring
+Runways:ZULS 拉萨/贡嘎 10R-28L:centerline
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 1
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 1 left base
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 1 left ticks
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 1 left vectoring
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 1 right base
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 1 right ticks
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 1 right vectoring
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 2
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 2 left base
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 2 left ticks
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 2 left vectoring
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 2 right base
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 2 right ticks
+Runways:ZULS 拉萨/贡嘎 10R-28L:extended centerline 2 right vectoring
+Runways:ZULS 拉萨/贡嘎 28R-10L:centerline
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 1
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 1 left base
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 1 left ticks
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 1 left vectoring
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 1 right base
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 1 right ticks
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 1 right vectoring
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 2
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 2 left base
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 2 left ticks
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 2 left vectoring
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 2 right base
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 2 right ticks
+Runways:ZULS 拉萨/贡嘎 28R-10L:extended centerline 2 right vectoring
+Runways:ZUNZ 林芝/米林 05-23:centerline
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1 left base
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1 left ticks
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1 left vectoring
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1 right base
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1 right ticks
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1 right vectoring
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2 left base
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2 left ticks
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2 left vectoring
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2 right base
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2 right ticks
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2 right vectoring
+Runways:ZURK 日喀则/和平 09-27:centerline
+Runways:ZURK 日喀则/和平 09-27:extended centerline 1
+Runways:ZURK 日喀则/和平 09-27:extended centerline 1 left base
+Runways:ZURK 日喀则/和平 09-27:extended centerline 1 left ticks
+Runways:ZURK 日喀则/和平 09-27:extended centerline 1 left vectoring
+Runways:ZURK 日喀则/和平 09-27:extended centerline 1 right base
+Runways:ZURK 日喀则/和平 09-27:extended centerline 1 right ticks
+Runways:ZURK 日喀则/和平 09-27:extended centerline 1 right vectoring
+Runways:ZURK 日喀则/和平 09-27:extended centerline 2
+Runways:ZURK 日喀则/和平 09-27:extended centerline 2 left base
+Runways:ZURK 日喀则/和平 09-27:extended centerline 2 left ticks
+Runways:ZURK 日喀则/和平 09-27:extended centerline 2 left vectoring
+Runways:ZURK 日喀则/和平 09-27:extended centerline 2 right base
+Runways:ZURK 日喀则/和平 09-27:extended centerline 2 right ticks
+Runways:ZURK 日喀则/和平 09-27:extended centerline 2 right vectoring
+Runways:ZUSH 山南/隆子 28-10:centerline
+Runways:ZUSH 山南/隆子 28-10:extended centerline 1
+Runways:ZUSH 山南/隆子 28-10:extended centerline 1 left base
+Runways:ZUSH 山南/隆子 28-10:extended centerline 1 left ticks
+Runways:ZUSH 山南/隆子 28-10:extended centerline 1 left vectoring
+Runways:ZUSH 山南/隆子 28-10:extended centerline 1 right base
+Runways:ZUSH 山南/隆子 28-10:extended centerline 1 right ticks
+Runways:ZUSH 山南/隆子 28-10:extended centerline 1 right vectoring
+Runways:ZUSH 山南/隆子 28-10:extended centerline 2
+Runways:ZUSH 山南/隆子 28-10:extended centerline 2 left base
+Runways:ZUSH 山南/隆子 28-10:extended centerline 2 left ticks
+Runways:ZUSH 山南/隆子 28-10:extended centerline 2 left vectoring
+Runways:ZUSH 山南/隆子 28-10:extended centerline 2 right base
+Runways:ZUSH 山南/隆子 28-10:extended centerline 2 right ticks
+Runways:ZUSH 山南/隆子 28-10:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:25.920118:80.521528:37.231504:99.736528

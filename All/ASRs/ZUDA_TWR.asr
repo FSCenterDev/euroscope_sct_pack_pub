@@ -1,0 +1,41 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZUDA:symbol
+Airports:ZUDA:name
+Fixes:VIBOD:symbol
+Fixes:VIBOD:name
+VORs:DJY:symbol
+VORs:DJY:name
+Geo:ZUDA:
+Runways:ZUDA 达州/金垭 02-20:centerline
+Runways:ZUDA 达州/金垭 02-20:extended centerline 1
+Runways:ZUDA 达州/金垭 02-20:extended centerline 1 left base
+Runways:ZUDA 达州/金垭 02-20:extended centerline 1 left ticks
+Runways:ZUDA 达州/金垭 02-20:extended centerline 1 left vectoring
+Runways:ZUDA 达州/金垭 02-20:extended centerline 1 right base
+Runways:ZUDA 达州/金垭 02-20:extended centerline 1 right ticks
+Runways:ZUDA 达州/金垭 02-20:extended centerline 1 right vectoring
+Runways:ZUDA 达州/金垭 02-20:extended centerline 2
+Runways:ZUDA 达州/金垭 02-20:extended centerline 2 left base
+Runways:ZUDA 达州/金垭 02-20:extended centerline 2 left ticks
+Runways:ZUDA 达州/金垭 02-20:extended centerline 2 left vectoring
+Runways:ZUDA 达州/金垭 02-20:extended centerline 2 right base
+Runways:ZUDA 达州/金垭 02-20:extended centerline 2 right ticks
+Runways:ZUDA 达州/金垭 02-20:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:30.888611:107.276111:31.208611:107.596111

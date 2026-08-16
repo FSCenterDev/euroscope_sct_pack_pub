@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZUKD:symbol
+Airports:ZUKD:name
+VORs:KDJ:symbol
+VORs:KDJ:name
+Geo:ZUKD:
+Runways:ZUKD 康定 33-15:centerline
+Runways:ZUKD 康定 33-15:extended centerline 1
+Runways:ZUKD 康定 33-15:extended centerline 1 left base
+Runways:ZUKD 康定 33-15:extended centerline 1 left ticks
+Runways:ZUKD 康定 33-15:extended centerline 1 left vectoring
+Runways:ZUKD 康定 33-15:extended centerline 1 right base
+Runways:ZUKD 康定 33-15:extended centerline 1 right ticks
+Runways:ZUKD 康定 33-15:extended centerline 1 right vectoring
+Runways:ZUKD 康定 33-15:extended centerline 2
+Runways:ZUKD 康定 33-15:extended centerline 2 left base
+Runways:ZUKD 康定 33-15:extended centerline 2 left ticks
+Runways:ZUKD 康定 33-15:extended centerline 2 left vectoring
+Runways:ZUKD 康定 33-15:extended centerline 2 right base
+Runways:ZUKD 康定 33-15:extended centerline 2 right ticks
+Runways:ZUKD 康定 33-15:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:29.983036:101.578608:30.303036:101.898608

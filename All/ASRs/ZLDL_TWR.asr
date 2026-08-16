@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZLDL:symbol
+Airports:ZLDL:name
+VORs:DLH:symbol
+VORs:DLH:name
+Geo:ZLDL:
+Runways:ZLDL 海西/德令哈 25-07:centerline
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 1
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 1 left base
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 1 left ticks
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 1 left vectoring
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 1 right base
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 1 right ticks
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 1 right vectoring
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 2
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 2 left base
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 2 left ticks
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 2 left vectoring
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 2 right base
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 2 right ticks
+Runways:ZLDL 海西/德令哈 25-07:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:36.965278:97.108611:37.285278:97.428611

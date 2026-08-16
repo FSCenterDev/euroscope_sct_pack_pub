@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZYBS:symbol
+Airports:ZYBS:name
+VORs:CBS:symbol
+VORs:CBS:name
+Geo:ZYBS:
+Runways:ZYBS 白山/长白山 01-19:centerline
+Runways:ZYBS 白山/长白山 01-19:extended centerline 1
+Runways:ZYBS 白山/长白山 01-19:extended centerline 1 left base
+Runways:ZYBS 白山/长白山 01-19:extended centerline 1 left ticks
+Runways:ZYBS 白山/长白山 01-19:extended centerline 1 left vectoring
+Runways:ZYBS 白山/长白山 01-19:extended centerline 1 right base
+Runways:ZYBS 白山/长白山 01-19:extended centerline 1 right ticks
+Runways:ZYBS 白山/长白山 01-19:extended centerline 1 right vectoring
+Runways:ZYBS 白山/长白山 01-19:extended centerline 2
+Runways:ZYBS 白山/长白山 01-19:extended centerline 2 left base
+Runways:ZYBS 白山/长白山 01-19:extended centerline 2 left ticks
+Runways:ZYBS 白山/长白山 01-19:extended centerline 2 left vectoring
+Runways:ZYBS 白山/长白山 01-19:extended centerline 2 right base
+Runways:ZYBS 白山/长白山 01-19:extended centerline 2 right ticks
+Runways:ZYBS 白山/长白山 01-19:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:41.906944:127.442275:42.226944:127.762275

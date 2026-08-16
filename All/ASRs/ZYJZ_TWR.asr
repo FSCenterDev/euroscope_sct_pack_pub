@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZYJZ:symbol
+Airports:ZYJZ:name
+VORs:MSN:symbol
+VORs:MSN:name
+Geo:ZYJZ:
+Runways:ZYJZ 锦州/锦州湾 22-04:centerline
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 1
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 1 left base
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 1 left ticks
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 1 left vectoring
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 1 right base
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 1 right ticks
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 1 right vectoring
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 2
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 2 left base
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 2 left ticks
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 2 left vectoring
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 2 right base
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 2 right ticks
+Runways:ZYJZ 锦州/锦州湾 22-04:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:40.776111:121.117222:41.096111:121.437222

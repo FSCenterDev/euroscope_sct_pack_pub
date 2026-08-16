@@ -1,0 +1,104 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZHHH:symbol
+Airports:ZHHH:name
+Fixes:DUBAS:symbol
+Fixes:DUBAS:name
+Fixes:ESKAM:symbol
+Fixes:ESKAM:name
+Fixes:OBDON:symbol
+Fixes:OBDON:name
+Fixes:OSIRU:symbol
+Fixes:OSIRU:name
+Fixes:UDUMI:symbol
+Fixes:UDUMI:name
+Fixes:VIMAK:symbol
+Fixes:VIMAK:name
+VORs:WHA:symbol
+VORs:WHA:name
+NDBs:D:symbol
+NDBs:D:name
+NDBs:H:symbol
+NDBs:H:name
+NDBs:HG:symbol
+NDBs:HG:name
+High airways:A461:line
+High airways:A581:line
+High airways:B213:line
+High airways:H76:line
+High airways:R343:line
+High airways:V106:line
+High airways:V108:line
+High airways:W37:line
+High airways:W50:line
+High airways:W56:line
+High airways:W668:line
+High airways:W673:line
+High airways:W674:line
+High airways:W676:line
+High airways:W686:line
+High airways:W80:line
+High airways:X253:line
+Geo:ZHHH:
+Runways:ZHHH 武汉/天河 04-22:centerline
+Runways:ZHHH 武汉/天河 04-22:extended centerline 1
+Runways:ZHHH 武汉/天河 04-22:extended centerline 1 left base
+Runways:ZHHH 武汉/天河 04-22:extended centerline 1 left ticks
+Runways:ZHHH 武汉/天河 04-22:extended centerline 1 left vectoring
+Runways:ZHHH 武汉/天河 04-22:extended centerline 1 right base
+Runways:ZHHH 武汉/天河 04-22:extended centerline 1 right ticks
+Runways:ZHHH 武汉/天河 04-22:extended centerline 1 right vectoring
+Runways:ZHHH 武汉/天河 04-22:extended centerline 2
+Runways:ZHHH 武汉/天河 04-22:extended centerline 2 left base
+Runways:ZHHH 武汉/天河 04-22:extended centerline 2 left ticks
+Runways:ZHHH 武汉/天河 04-22:extended centerline 2 left vectoring
+Runways:ZHHH 武汉/天河 04-22:extended centerline 2 right base
+Runways:ZHHH 武汉/天河 04-22:extended centerline 2 right ticks
+Runways:ZHHH 武汉/天河 04-22:extended centerline 2 right vectoring
+Runways:ZHHH 武汉/天河 05R-23L:centerline
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 1
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 1 left base
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 1 left ticks
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 1 left vectoring
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 1 right base
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 1 right ticks
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 1 right vectoring
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 2
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 2 left base
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 2 left ticks
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 2 left vectoring
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 2 right base
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 2 right ticks
+Runways:ZHHH 武汉/天河 05R-23L:extended centerline 2 right vectoring
+Runways:ZHHH 武汉/天河 23R-05L:centerline
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 1
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 1 left base
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 1 left ticks
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 1 left vectoring
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 1 right base
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 1 right ticks
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 1 right vectoring
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 2
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 2 left base
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 2 left ticks
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 2 left vectoring
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 2 right base
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 2 right ticks
+Runways:ZHHH 武汉/天河 23R-05L:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:30.483697:113.908122:31.083697:114.508122

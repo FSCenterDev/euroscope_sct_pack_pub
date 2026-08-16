@@ -1,0 +1,71 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZBAA:symbol
+Airports:ZBAA:name
+VORs:PEK:symbol
+VORs:PEK:name
+High airways:B339:line
+High airways:W64:line
+Geo:ZBAA:
+Runways:ZBAA 北京/首都 01-19:centerline
+Runways:ZBAA 北京/首都 01-19:extended centerline 1
+Runways:ZBAA 北京/首都 01-19:extended centerline 1 left base
+Runways:ZBAA 北京/首都 01-19:extended centerline 1 left ticks
+Runways:ZBAA 北京/首都 01-19:extended centerline 1 left vectoring
+Runways:ZBAA 北京/首都 01-19:extended centerline 1 right base
+Runways:ZBAA 北京/首都 01-19:extended centerline 1 right ticks
+Runways:ZBAA 北京/首都 01-19:extended centerline 1 right vectoring
+Runways:ZBAA 北京/首都 01-19:extended centerline 2
+Runways:ZBAA 北京/首都 01-19:extended centerline 2 left base
+Runways:ZBAA 北京/首都 01-19:extended centerline 2 left ticks
+Runways:ZBAA 北京/首都 01-19:extended centerline 2 left vectoring
+Runways:ZBAA 北京/首都 01-19:extended centerline 2 right base
+Runways:ZBAA 北京/首都 01-19:extended centerline 2 right ticks
+Runways:ZBAA 北京/首都 01-19:extended centerline 2 right vectoring
+Runways:ZBAA 北京/首都 36L-18R:centerline
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 1
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 1 left base
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 1 left ticks
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 1 left vectoring
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 1 right base
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 1 right ticks
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 1 right vectoring
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 2
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 2 left base
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 2 left ticks
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 2 left vectoring
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 2 right base
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 2 right ticks
+Runways:ZBAA 北京/首都 36L-18R:extended centerline 2 right vectoring
+Runways:ZBAA 北京/首都 36R-18L:centerline
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 1
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 1 left base
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 1 left ticks
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 1 left vectoring
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 1 right base
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 1 right ticks
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 1 right vectoring
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 2
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 2 left base
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 2 left ticks
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 2 left vectoring
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 2 right base
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 2 right ticks
+Runways:ZBAA 北京/首都 36R-18L:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:39.772436:116.297475:40.372436:116.897475

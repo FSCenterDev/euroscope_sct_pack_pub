@@ -1,0 +1,84 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZUCK:symbol
+Airports:ZUCK:name
+VORs:CKG:symbol
+VORs:CKG:name
+Geo:ZUCK:
+Runways:ZUCK 重庆/江北 02L-20R:centerline
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1 left base
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1 left ticks
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1 left vectoring
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1 right base
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1 right ticks
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1 right vectoring
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2 left base
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2 left ticks
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2 left vectoring
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2 right base
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2 right ticks
+Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2 right vectoring
+Runways:ZUCK 重庆/江北 02R-20L:centerline
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1 left base
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1 left ticks
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1 left vectoring
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1 right base
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1 right ticks
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1 right vectoring
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2 left base
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2 left ticks
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2 left vectoring
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2 right base
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2 right ticks
+Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2 right vectoring
+Runways:ZUCK 重庆/江北 03R-21L:centerline
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1 left base
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1 left ticks
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1 left vectoring
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1 right base
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1 right ticks
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1 right vectoring
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2 left base
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2 left ticks
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2 left vectoring
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2 right base
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2 right ticks
+Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2 right vectoring
+Runways:ZUCK 重庆/江北 21R-03L:centerline
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1 left base
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1 left ticks
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1 left vectoring
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1 right base
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1 right ticks
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1 right vectoring
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2 left base
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2 left ticks
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2 left vectoring
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2 right base
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2 right ticks
+Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:29.558997:106.481500:29.878997:106.801500

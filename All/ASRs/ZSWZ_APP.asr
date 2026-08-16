@@ -1,0 +1,52 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSWZ:symbol
+Airports:ZSWZ:name
+Fixes:AREPI:symbol
+Fixes:AREPI:name
+Fixes:EPGIG:symbol
+Fixes:EPGIG:name
+Fixes:OLBOK:symbol
+Fixes:OLBOK:name
+VORs:WNZ:symbol
+VORs:WNZ:name
+High airways:B221:line
+High airways:R596:line
+High airways:V150:line
+High airways:W117:line
+High airways:W74:line
+High airways:W76:line
+High airways:X11:line
+Geo:ZSWZ:
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:centerline
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 1
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 1 left base
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 1 left ticks
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 1 left vectoring
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 1 right base
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 1 right ticks
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 1 right vectoring
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 2
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 2 left base
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 2 left ticks
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 2 left vectoring
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 2 right base
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 2 right ticks
+Runways:ZSWZ ОВЦЭ/БъНе 03-21:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:27.608611:120.552222:28.208611:121.152222

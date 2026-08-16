@@ -1,0 +1,37 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSCG:symbol
+Airports:ZSCG:name
+Geo:ZSCG:
+Runways:ZSCG 常州/奔牛 29-11:centerline
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 1
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 1 left base
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 1 left ticks
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 1 left vectoring
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 1 right base
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 1 right ticks
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 1 right vectoring
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 2
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 2 left base
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 2 left ticks
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 2 left vectoring
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 2 right base
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 2 right ticks
+Runways:ZSCG 常州/奔牛 29-11:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:31.859588:119.718143:31.979588:119.838143

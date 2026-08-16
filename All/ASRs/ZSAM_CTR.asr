@@ -1,0 +1,546 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZGMX:symbol
+Airports:ZGMX:name
+Airports:ZGOW:symbol
+Airports:ZGOW:name
+Airports:ZSAM:symbol
+Airports:ZSAM:name
+Airports:ZSFZ:symbol
+Airports:ZSFZ:name
+Airports:ZSGS:symbol
+Airports:ZSGS:name
+Airports:ZSGZ:symbol
+Airports:ZSGZ:name
+Airports:ZSLO:symbol
+Airports:ZSLO:name
+Airports:ZSQZ:symbol
+Airports:ZSQZ:name
+Airports:ZSRJ:symbol
+Airports:ZSRJ:name
+Airports:ZSSM:symbol
+Airports:ZSSM:name
+Fixes:AKAVO:symbol
+Fixes:AKAVO:name
+Fixes:ALADU:symbol
+Fixes:ALADU:name
+Fixes:AMURI:symbol
+Fixes:AMURI:name
+Fixes:ANLUD:symbol
+Fixes:ANLUD:name
+Fixes:APAKA:symbol
+Fixes:APAKA:name
+Fixes:ATSAB:symbol
+Fixes:ATSAB:name
+Fixes:AVBEP:symbol
+Fixes:AVBEP:name
+Fixes:AVKUX:symbol
+Fixes:AVKUX:name
+Fixes:AVMAM:symbol
+Fixes:AVMAM:name
+Fixes:BEBEM:symbol
+Fixes:BEBEM:name
+Fixes:BINUS:symbol
+Fixes:BINUS:name
+Fixes:BUPDU:symbol
+Fixes:BUPDU:name
+Fixes:DABER:symbol
+Fixes:DABER:name
+Fixes:DAGMO:symbol
+Fixes:DAGMO:name
+Fixes:DOVOR:symbol
+Fixes:DOVOR:name
+Fixes:DOVPU:symbol
+Fixes:DOVPU:name
+Fixes:EGEDA:symbol
+Fixes:EGEDA:name
+Fixes:ELGIT:symbol
+Fixes:ELGIT:name
+Fixes:ENVEN:symbol
+Fixes:ENVEN:name
+Fixes:GORMU:symbol
+Fixes:GORMU:name
+Fixes:GUKUL:symbol
+Fixes:GUKUL:name
+Fixes:IKATA:symbol
+Fixes:IKATA:name
+Fixes:KADUG:symbol
+Fixes:KADUG:name
+Fixes:LAMIM:symbol
+Fixes:LAMIM:name
+Fixes:LAPUG:symbol
+Fixes:LAPUG:name
+Fixes:LEVGU:symbol
+Fixes:LEVGU:name
+Fixes:MASGU:symbol
+Fixes:MASGU:name
+Fixes:MUDOD:symbol
+Fixes:MUDOD:name
+Fixes:MUGPI:symbol
+Fixes:MUGPI:name
+Fixes:NUDPO:symbol
+Fixes:NUDPO:name
+Fixes:NUSPA:symbol
+Fixes:NUSPA:name
+Fixes:NUVGA:symbol
+Fixes:NUVGA:name
+Fixes:OBKEL:symbol
+Fixes:OBKEL:name
+Fixes:ODOPI:symbol
+Fixes:ODOPI:name
+Fixes:OLDID:symbol
+Fixes:OLDID:name
+Fixes:OMDUP:symbol
+Fixes:OMDUP:name
+Fixes:P120:symbol
+Fixes:P120:name
+Fixes:P121:symbol
+Fixes:P121:name
+Fixes:P132:symbol
+Fixes:P132:name
+Fixes:P147:symbol
+Fixes:P147:name
+Fixes:P150:symbol
+Fixes:P150:name
+Fixes:P154:symbol
+Fixes:P154:name
+Fixes:P176:symbol
+Fixes:P176:name
+Fixes:P177:symbol
+Fixes:P177:name
+Fixes:P181:symbol
+Fixes:P181:name
+Fixes:P21:symbol
+Fixes:P21:name
+Fixes:P305:symbol
+Fixes:P305:name
+Fixes:P306:symbol
+Fixes:P306:name
+Fixes:P326:symbol
+Fixes:P326:name
+Fixes:P379:symbol
+Fixes:P379:name
+Fixes:P380:symbol
+Fixes:P380:name
+Fixes:P381:symbol
+Fixes:P381:name
+Fixes:P382:symbol
+Fixes:P382:name
+Fixes:P452:symbol
+Fixes:P452:name
+Fixes:P454:symbol
+Fixes:P454:name
+Fixes:P456:symbol
+Fixes:P456:name
+Fixes:P476:symbol
+Fixes:P476:name
+Fixes:P508:symbol
+Fixes:P508:name
+Fixes:P509:symbol
+Fixes:P509:name
+Fixes:P510:symbol
+Fixes:P510:name
+Fixes:P554:symbol
+Fixes:P554:name
+Fixes:P563:symbol
+Fixes:P563:name
+Fixes:P605:symbol
+Fixes:P605:name
+Fixes:P606:symbol
+Fixes:P606:name
+Fixes:P608:symbol
+Fixes:P608:name
+Fixes:P615:symbol
+Fixes:P615:name
+Fixes:P716:symbol
+Fixes:P716:name
+Fixes:P717:symbol
+Fixes:P717:name
+Fixes:P718:symbol
+Fixes:P718:name
+Fixes:P719:symbol
+Fixes:P719:name
+Fixes:P733:symbol
+Fixes:P733:name
+Fixes:P84:symbol
+Fixes:P84:name
+Fixes:PADRU:symbol
+Fixes:PADRU:name
+Fixes:PANBO:symbol
+Fixes:PANBO:name
+Fixes:PONEN:symbol
+Fixes:PONEN:name
+Fixes:PUMID:symbol
+Fixes:PUMID:name
+Fixes:RUMTA:symbol
+Fixes:RUMTA:name
+Fixes:RUPOX:symbol
+Fixes:RUPOX:name
+Fixes:SAPUT:symbol
+Fixes:SAPUT:name
+Fixes:SEOGA:symbol
+Fixes:SEOGA:name
+Fixes:TEBON:symbol
+Fixes:TEBON:name
+Fixes:TOLAK:symbol
+Fixes:TOLAK:name
+Fixes:UNRUP:symbol
+Fixes:UNRUP:name
+Fixes:VAVSO:symbol
+Fixes:VAVSO:name
+Fixes:VETIB:symbol
+Fixes:VETIB:name
+VORs:DRJ:symbol
+VORs:DRJ:name
+VORs:FOC:symbol
+VORs:FOC:name
+VORs:FQG:symbol
+VORs:FQG:name
+VORs:JCS:symbol
+VORs:JCS:name
+VORs:JGS:symbol
+VORs:JGS:name
+VORs:JNJ:symbol
+VORs:JNJ:name
+VORs:LJG:symbol
+VORs:LJG:name
+VORs:MXZ:symbol
+VORs:MXZ:name
+VORs:PLT:symbol
+VORs:PLT:name
+VORs:SWA:symbol
+VORs:SWA:name
+VORs:XLN:symbol
+VORs:XLN:name
+VORs:XMN:symbol
+VORs:XMN:name
+NDBs:PV:symbol
+NDBs:PV:name
+NDBs:QO:symbol
+NDBs:QO:name
+NDBs:QU:symbol
+NDBs:QU:name
+High airways:A470:line
+High airways:A470:name
+High airways:A599:line
+High airways:A599:name
+High airways:B221:line
+High airways:B221:name
+High airways:G471:line
+High airways:G471:name
+High airways:H18:line
+High airways:H18:name
+High airways:H2:line
+High airways:H2:name
+High airways:H22:line
+High airways:H22:name
+High airways:H25:line
+High airways:H25:name
+High airways:H98:line
+High airways:H98:name
+High airways:J109:line
+High airways:J109:name
+High airways:J117:line
+High airways:J117:name
+High airways:J118:line
+High airways:J118:name
+High airways:J126:line
+High airways:J126:name
+High airways:J175:line
+High airways:J175:name
+High airways:J176:line
+High airways:J176:name
+High airways:J193:line
+High airways:J193:name
+High airways:J194:line
+High airways:J194:name
+High airways:J195:line
+High airways:J195:name
+High airways:J35:line
+High airways:J35:name
+High airways:J391:line
+High airways:J391:name
+High airways:J48:line
+High airways:J48:name
+High airways:J50:line
+High airways:J50:name
+High airways:J624/X44:line
+High airways:J624/X44:name
+High airways:J646:line
+High airways:J646:name
+High airways:J647:line
+High airways:J647:name
+High airways:M503:line
+High airways:M503:name
+High airways:R200:line
+High airways:R200:name
+High airways:V17:line
+High airways:V17:name
+High airways:V171:line
+High airways:V171:name
+High airways:V172:line
+High airways:V172:name
+High airways:V183:line
+High airways:V183:name
+High airways:V35:line
+High airways:V35:name
+High airways:V36:line
+High airways:V36:name
+High airways:V37:line
+High airways:V37:name
+High airways:V55:line
+High airways:V55:name
+High airways:W121:line
+High airways:W121:name
+High airways:W122:line
+High airways:W122:name
+High airways:W123:line
+High airways:W123:name
+High airways:W155:line
+High airways:W155:name
+High airways:W19:line
+High airways:W19:name
+High airways:W41:line
+High airways:W41:name
+High airways:W547:line
+High airways:W547:name
+High airways:W548:line
+High airways:W548:name
+High airways:W563:line
+High airways:W563:name
+High airways:W597:line
+High airways:W597:name
+High airways:W598:line
+High airways:W598:name
+High airways:W643:line
+High airways:W643:name
+High airways:W644:line
+High airways:W644:name
+High airways:W645:line
+High airways:W645:name
+High airways:W76:line
+High airways:W76:name
+High airways:X112:line
+High airways:X112:name
+High airways:X115:line
+High airways:X115:name
+High airways:X116:line
+High airways:X116:name
+High airways:X119:line
+High airways:X119:name
+High airways:X120:line
+High airways:X120:name
+High airways:X149:line
+High airways:X149:name
+High airways:X172:line
+High airways:X172:name
+High airways:X284:line
+High airways:X284:name
+High airways:X285:line
+High airways:X285:name
+High airways:X286:line
+High airways:X286:name
+High airways:X35:line
+High airways:X35:name
+High airways:X36:line
+High airways:X36:name
+High airways:X37:line
+High airways:X37:name
+High airways:X63:line
+High airways:X63:name
+High airways:X72:line
+High airways:X72:name
+High airways:X85:line
+High airways:X85:name
+Geo:ZGMX:
+Geo:ZGOW:
+Geo:ZSAM:
+Geo:ZSFZ:
+Geo:ZSGS:
+Geo:ZSGZ:
+Geo:ZSLO:
+Geo:ZSQZ:
+Geo:ZSRJ:
+Geo:ZSSM:
+Runways:ZGMX 梅州/梅县 22-04:centerline
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 left base
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 left ticks
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 left vectoring
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 right base
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 right ticks
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 right vectoring
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 left base
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 left ticks
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 left vectoring
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 right base
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 right ticks
+Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 right vectoring
+Runways:ZGOW 揭阳/潮汕 04-22:centerline
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 1
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 1 left base
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 1 left ticks
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 1 left vectoring
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 1 right base
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 1 right ticks
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 1 right vectoring
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 2
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 2 left base
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 2 left ticks
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 2 left vectoring
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 2 right base
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 2 right ticks
+Runways:ZGOW 揭阳/潮汕 04-22:extended centerline 2 right vectoring
+Runways:ZSAM 厦门/高崎 05-23:centerline
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 left base
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 left ticks
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 left vectoring
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 right base
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 right ticks
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 right vectoring
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 left base
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 left ticks
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 left vectoring
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 right base
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 right ticks
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 right vectoring
+Runways:ZSFZ 福州/长乐 04-22:centerline
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 1
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 1 left base
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 1 left ticks
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 1 left vectoring
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 1 right base
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 1 right ticks
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 1 right vectoring
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 2
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 2 left base
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 2 left ticks
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 2 left vectoring
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 2 right base
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 2 right ticks
+Runways:ZSFZ 福州/长乐 04-22:extended centerline 2 right vectoring
+Runways:ZSFZ 福州/长乐 21-03:centerline
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 1
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 1 left base
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 1 left ticks
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 1 left vectoring
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 1 right base
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 1 right ticks
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 1 right vectoring
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 2
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 2 left base
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 2 left ticks
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 2 left vectoring
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 2 right base
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 2 right ticks
+Runways:ZSFZ 福州/长乐 21-03:extended centerline 2 right vectoring
+Runways:ZSGS 井冈山 26-08:centerline
+Runways:ZSGS 井冈山 26-08:extended centerline 1
+Runways:ZSGS 井冈山 26-08:extended centerline 1 left base
+Runways:ZSGS 井冈山 26-08:extended centerline 1 left ticks
+Runways:ZSGS 井冈山 26-08:extended centerline 1 left vectoring
+Runways:ZSGS 井冈山 26-08:extended centerline 1 right base
+Runways:ZSGS 井冈山 26-08:extended centerline 1 right ticks
+Runways:ZSGS 井冈山 26-08:extended centerline 1 right vectoring
+Runways:ZSGS 井冈山 26-08:extended centerline 2
+Runways:ZSGS 井冈山 26-08:extended centerline 2 left base
+Runways:ZSGS 井冈山 26-08:extended centerline 2 left ticks
+Runways:ZSGS 井冈山 26-08:extended centerline 2 left vectoring
+Runways:ZSGS 井冈山 26-08:extended centerline 2 right base
+Runways:ZSGS 井冈山 26-08:extended centerline 2 right ticks
+Runways:ZSGS 井冈山 26-08:extended centerline 2 right vectoring
+Runways:ZSGZ 赣州/黄金 07-25:centerline
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 1
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 1 left base
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 1 left ticks
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 1 left vectoring
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 1 right base
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 1 right ticks
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 1 right vectoring
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 2
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 2 left base
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 2 left ticks
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 2 left vectoring
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 2 right base
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 2 right ticks
+Runways:ZSGZ 赣州/黄金 07-25:extended centerline 2 right vectoring
+Runways:ZSLO 连城/冠豸山 21-03:centerline
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1 left base
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1 left ticks
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1 left vectoring
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1 right base
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1 right ticks
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1 right vectoring
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2 left base
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2 left ticks
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2 left vectoring
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2 right base
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2 right ticks
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2 right vectoring
+Runways:ZSQZ 泉州/晋江 21-03:centerline
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1 left base
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1 left ticks
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1 left vectoring
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1 right base
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1 right ticks
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1 right vectoring
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2 left base
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2 left ticks
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2 left vectoring
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2 right base
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2 right ticks
+Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2 right vectoring
+Runways:ZSRJ 赣州/瑞金 07-25:centerline
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1 left base
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1 left ticks
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1 left vectoring
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1 right base
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1 right ticks
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1 right vectoring
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2 left base
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2 left ticks
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2 left vectoring
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2 right base
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2 right ticks
+Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2 right vectoring
+Runways:ZSSM 三明/沙县 24-06:centerline
+Runways:ZSSM 三明/沙县 24-06:extended centerline 1
+Runways:ZSSM 三明/沙县 24-06:extended centerline 1 left base
+Runways:ZSSM 三明/沙县 24-06:extended centerline 1 left ticks
+Runways:ZSSM 三明/沙县 24-06:extended centerline 1 left vectoring
+Runways:ZSSM 三明/沙县 24-06:extended centerline 1 right base
+Runways:ZSSM 三明/沙县 24-06:extended centerline 1 right ticks
+Runways:ZSSM 三明/沙县 24-06:extended centerline 1 right vectoring
+Runways:ZSSM 三明/沙县 24-06:extended centerline 2
+Runways:ZSSM 三明/沙县 24-06:extended centerline 2 left base
+Runways:ZSSM 三明/沙县 24-06:extended centerline 2 left ticks
+Runways:ZSSM 三明/沙县 24-06:extended centerline 2 left vectoring
+Runways:ZSSM 三明/沙县 24-06:extended centerline 2 right base
+Runways:ZSSM 三明/沙县 24-06:extended centerline 2 right ticks
+Runways:ZSSM 三明/沙县 24-06:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:22.200222:113.136000:27.987556:122.904000

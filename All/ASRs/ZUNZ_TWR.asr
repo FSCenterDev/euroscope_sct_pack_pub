@@ -1,0 +1,37 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZUNZ:symbol
+Airports:ZUNZ:name
+Geo:ZUNZ:
+Runways:ZUNZ 林芝/米林 05-23:centerline
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1 left base
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1 left ticks
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1 left vectoring
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1 right base
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1 right ticks
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 1 right vectoring
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2 left base
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2 left ticks
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2 left vectoring
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2 right base
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2 right ticks
+Runways:ZUNZ 林芝/米林 05-23:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:29.143611:94.175000:29.463611:94.495000

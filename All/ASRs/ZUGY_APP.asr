@@ -1,0 +1,79 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZUGY:symbol
+Airports:ZUGY:name
+Fixes:P428:symbol
+Fixes:P428:name
+Fixes:P475:symbol
+Fixes:P475:name
+Fixes:P650:symbol
+Fixes:P650:name
+Fixes:P654:symbol
+Fixes:P654:name
+Fixes:P660:symbol
+Fixes:P660:name
+Fixes:SUMUN:symbol
+Fixes:SUMUN:name
+Fixes:VIGAN:symbol
+Fixes:VIGAN:name
+VORs:KWE:symbol
+VORs:KWE:name
+High airways:B330:line
+High airways:H165:line
+High airways:H166:line
+High airways:H19:line
+High airways:H24:line
+High airways:W179:line
+High airways:W180:line
+High airways:W181:line
+High airways:W3:line
+High airways:W584:line
+High airways:W585:line
+Geo:ZUGY:
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:centerline
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1 left base
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1 left ticks
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1 left vectoring
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1 right base
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1 right ticks
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1 right vectoring
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2 left base
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2 left ticks
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2 left vectoring
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2 right base
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2 right ticks
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2 right vectoring
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:centerline
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1 left base
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1 left ticks
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1 left vectoring
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1 right base
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1 right ticks
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1 right vectoring
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2 left base
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2 left ticks
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2 left vectoring
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2 right base
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2 right ticks
+Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:26.238203:106.501164:26.838203:107.101164

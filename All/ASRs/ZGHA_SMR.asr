@@ -1,0 +1,54 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZGHA:symbol
+Airports:ZGHA:name
+NDBs:W:symbol
+NDBs:W:name
+Geo:ZGHA:
+Runways:ZGHA 长沙/黄花 36L-18R:centerline
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 1
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 1 left base
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 1 left ticks
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 1 left vectoring
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 1 right base
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 1 right ticks
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 1 right vectoring
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 2
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 2 left base
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 2 left ticks
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 2 left vectoring
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 2 right base
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 2 right ticks
+Runways:ZGHA 长沙/黄花 36L-18R:extended centerline 2 right vectoring
+Runways:ZGHA 长沙/黄花 36R-18L:centerline
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 1
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 1 left base
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 1 left ticks
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 1 left vectoring
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 1 right base
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 1 right ticks
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 1 right vectoring
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 2
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 2 left base
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 2 left ticks
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 2 left vectoring
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 2 right base
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 2 right ticks
+Runways:ZGHA 长沙/黄花 36R-18L:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:28.129092:113.159767:28.249092:113.279767

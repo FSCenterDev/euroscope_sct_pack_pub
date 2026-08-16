@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZWTS:symbol
+Airports:ZWTS:name
+VORs:TMS:symbol
+VORs:TMS:name
+Geo:ZWTS:
+Runways:ZWTS 图木舒克/唐王城 20-02:centerline
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 1
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 1 left base
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 1 left ticks
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 1 left vectoring
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 1 right base
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 1 right ticks
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 1 right vectoring
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 2
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 2 left base
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 2 left ticks
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 2 left vectoring
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 2 right base
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 2 right ticks
+Runways:ZWTS 图木舒克/唐王城 20-02:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:39.728333:79.074444:40.048333:79.394444

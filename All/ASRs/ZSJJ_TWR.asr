@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSJJ:symbol
+Airports:ZSJJ:name
+VORs:JIU:symbol
+VORs:JIU:name
+Geo:ZSJJ:
+Runways:ZSJJ 九江/庐山 04-22:centerline
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 1
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 1 left base
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 1 left ticks
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 1 left vectoring
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 1 right base
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 1 right ticks
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 1 right vectoring
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 2
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 2 left base
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 2 left ticks
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 2 left vectoring
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 2 right base
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 2 right ticks
+Runways:ZSJJ 九江/庐山 04-22:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:29.317225:115.641586:29.637225:115.961586

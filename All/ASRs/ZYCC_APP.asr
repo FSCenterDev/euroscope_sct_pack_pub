@@ -1,0 +1,53 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZYCC:symbol
+Airports:ZYCC:name
+Fixes:CC411:symbol
+Fixes:CC411:name
+Fixes:ENPEN:symbol
+Fixes:ENPEN:name
+Fixes:NIMEM:symbol
+Fixes:NIMEM:name
+Fixes:NULRA:symbol
+Fixes:NULRA:name
+High airways:A588:line
+High airways:G341:line
+High airways:W205:line
+High airways:W206:line
+High airways:W654:line
+High airways:W655:line
+High airways:W658:line
+High airways:W660:line
+Geo:ZYCC:
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:centerline
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1 left base
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1 left ticks
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1 left vectoring
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1 right base
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1 right ticks
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1 right vectoring
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2 left base
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2 left ticks
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2 left vectoring
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2 right base
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2 right ticks
+Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:43.697508:125.387042:44.297508:125.987042

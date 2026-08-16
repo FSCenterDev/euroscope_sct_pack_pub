@@ -1,0 +1,64 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZBSJ:symbol
+Airports:ZBSJ:name
+Fixes:AMVOG:symbol
+Fixes:AMVOG:name
+Fixes:DALUP:symbol
+Fixes:DALUP:name
+Fixes:ENTUD:symbol
+Fixes:ENTUD:name
+Fixes:OSVUL:symbol
+Fixes:OSVUL:name
+Fixes:PINAP:symbol
+Fixes:PINAP:name
+Fixes:VEMOT:symbol
+Fixes:VEMOT:name
+VORs:SJW:symbol
+VORs:SJW:name
+NDBs:FL:symbol
+NDBs:FL:name
+NDBs:OC:symbol
+NDBs:OC:name
+High airways:B458:line
+High airways:G212:line
+High airways:H8:line
+High airways:V152:line
+High airways:V79:line
+High airways:W61:line
+High airways:W623:line
+High airways:W631:line
+High airways:W640:line
+Geo:ZBSJ:
+Runways:ZBSJ 石家庄/正定 15-33:centerline
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 1
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 1 left base
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 1 left ticks
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 1 left vectoring
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 1 right base
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 1 right ticks
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 1 right vectoring
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 2
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 2 left base
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 2 left ticks
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 2 left vectoring
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 2 right base
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 2 right ticks
+Runways:ZBSJ 石家庄/正定 15-33:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:37.980783:114.397181:38.580783:114.997181

@@ -1,0 +1,46 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZGZJ:symbol
+Airports:ZGZJ:name
+Fixes:P469:symbol
+Fixes:P469:name
+VORs:WUQ:symbol
+VORs:WUQ:name
+High airways:H81:line
+High airways:J200:line
+High airways:J565:line
+High airways:V19:line
+High airways:X299:line
+Geo:ZGZJ:
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:centerline
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 1
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 1 left base
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 1 left ticks
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 1 left vectoring
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 1 right base
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 1 right ticks
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 1 right vectoring
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 2
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 2 left base
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 2 left ticks
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 2 left vectoring
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 2 right base
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 2 right ticks
+Runways:ZGZJ ’øΩ≠/Œ‚¥® 15-33:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:21.183706:110.293761:21.783706:110.893761

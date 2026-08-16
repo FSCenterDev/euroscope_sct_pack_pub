@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSLO:symbol
+Airports:ZSLO:name
+NDBs:PV:symbol
+NDBs:PV:name
+Geo:ZSLO:
+Runways:ZSLO 连城/冠豸山 21-03:centerline
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1 left base
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1 left ticks
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1 left vectoring
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1 right base
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1 right ticks
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 1 right vectoring
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2 left base
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2 left ticks
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2 left vectoring
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2 right base
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2 right ticks
+Runways:ZSLO 连城/冠豸山 21-03:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:25.516258:116.586267:25.836258:116.906267

@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSYC:symbol
+Airports:ZSYC:name
+VORs:JYC:symbol
+VORs:JYC:name
+Geo:ZSYC:
+Runways:ZSYC 宜春/明月山 06-24:centerline
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 1
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 1 left base
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 1 left ticks
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 1 left vectoring
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 1 right base
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 1 right ticks
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 1 right vectoring
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 2
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 2 left base
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 2 left ticks
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 2 left vectoring
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 2 right base
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 2 right ticks
+Runways:ZSYC 宜春/明月山 06-24:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:27.642458:114.146317:27.962458:114.466317

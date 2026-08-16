@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZGSD:symbol
+Airports:ZGSD:name
+NDBs:U:symbol
+NDBs:U:name
+Geo:ZGSD:
+Runways:ZGSD 珠海/金湾 05-23:centerline
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 left base
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 left ticks
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 left vectoring
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 right base
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 right ticks
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 right vectoring
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 left base
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 left ticks
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 left vectoring
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 right base
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 right ticks
+Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:21.946758:113.316662:22.066758:113.436662

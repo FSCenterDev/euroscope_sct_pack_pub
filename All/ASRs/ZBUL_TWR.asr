@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZBUL:symbol
+Airports:ZBUL:name
+VORs:HLH:symbol
+VORs:HLH:name
+Geo:ZBUL:
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:centerline
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1 left base
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1 left ticks
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1 left vectoring
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1 right base
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1 right ticks
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1 right vectoring
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2 left base
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2 left ticks
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2 left vectoring
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2 right base
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2 right ticks
+Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:46.041602:121.838757:46.361602:122.158757

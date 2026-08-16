@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSLQ:symbol
+Airports:ZSLQ:name
+NDBs:FK:symbol
+NDBs:FK:name
+Geo:ZSLQ:
+Runways:ZSLQ 台州/路桥 21-03:centerline
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 1
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 1 left base
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 1 left ticks
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 1 left vectoring
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 1 right base
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 1 right ticks
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 1 right vectoring
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 2
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 2 left base
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 2 left ticks
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 2 left vectoring
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 2 right base
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 2 right ticks
+Runways:ZSLQ 台州/路桥 21-03:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:28.402500:121.268753:28.722500:121.588753

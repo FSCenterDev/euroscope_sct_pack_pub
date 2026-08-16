@@ -1,0 +1,56 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSAM:symbol
+Airports:ZSAM:name
+Fixes:AMURI:symbol
+Fixes:AMURI:name
+Fixes:ELGIT:symbol
+Fixes:ELGIT:name
+Fixes:KADUG:symbol
+Fixes:KADUG:name
+VORs:XLN:symbol
+VORs:XLN:name
+VORs:XMN:symbol
+VORs:XMN:name
+High airways:A470:line
+High airways:H2:line
+High airways:J193:line
+High airways:J194:line
+High airways:V55:line
+High airways:W123:line
+High airways:W547:line
+High airways:W597:line
+High airways:X284:line
+Geo:ZSAM:
+Runways:ZSAM 厦门/高崎 05-23:centerline
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 left base
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 left ticks
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 left vectoring
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 right base
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 right ticks
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 right vectoring
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 left base
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 left ticks
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 left vectoring
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 right base
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 right ticks
+Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:24.244156:117.827658:24.844156:118.427658

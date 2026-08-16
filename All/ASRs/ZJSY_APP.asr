@@ -1,0 +1,50 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZJSY:symbol
+Airports:ZJSY:name
+Fixes:VEGDO:symbol
+Fixes:VEGDO:name
+VORs:SYX:symbol
+VORs:SYX:name
+NDBs:WL:symbol
+NDBs:WL:name
+High airways:G221:line
+High airways:V41:line
+High airways:W170:line
+High airways:W222:line
+High airways:X291:line
+High airways:X292:line
+High airways:X294:line
+Geo:ZJSY:
+Runways:ZJSY 三亚/凤凰 08-26:centerline
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1 left base
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1 left ticks
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1 left vectoring
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1 right base
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1 right ticks
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1 right vectoring
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2 left base
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2 left ticks
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2 left vectoring
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2 right base
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2 right ticks
+Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:18.002925:109.112272:18.602925:109.712272

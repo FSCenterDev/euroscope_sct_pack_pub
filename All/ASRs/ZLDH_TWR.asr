@@ -1,0 +1,41 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZLDH:symbol
+Airports:ZLDH:name
+Fixes:KARVI:symbol
+Fixes:KARVI:name
+VORs:DNH:symbol
+VORs:DNH:name
+Geo:ZLDH:
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:centerline
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1 left base
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1 left ticks
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1 left vectoring
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1 right base
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1 right ticks
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1 right vectoring
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2 left base
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2 left ticks
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2 left vectoring
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2 right base
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2 right ticks
+Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:40.001692:94.649014:40.321692:94.969014

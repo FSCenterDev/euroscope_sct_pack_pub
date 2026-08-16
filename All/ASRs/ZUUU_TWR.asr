@@ -1,0 +1,58 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZUUU:symbol
+Airports:ZUUU:name
+Fixes:OMKEG:symbol
+Fixes:OMKEG:name
+Fixes:P597:symbol
+Fixes:P597:name
+VORs:CTU:symbol
+VORs:CTU:name
+Geo:ZUUU:
+Runways:ZUUU 成都/双流 02L-20R:centerline
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 1
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 1 left base
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 1 left ticks
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 1 left vectoring
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 1 right base
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 1 right ticks
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 1 right vectoring
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 2
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 2 left base
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 2 left ticks
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 2 left vectoring
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 2 right base
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 2 right ticks
+Runways:ZUUU 成都/双流 02L-20R:extended centerline 2 right vectoring
+Runways:ZUUU 成都/双流 02R-20L:centerline
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 1
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 1 left base
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 1 left ticks
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 1 left vectoring
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 1 right base
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 1 right ticks
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 1 right vectoring
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 2
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 2 left base
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 2 left ticks
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 2 left vectoring
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 2 right base
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 2 right ticks
+Runways:ZUUU 成都/双流 02R-20L:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:30.418528:103.787000:30.738528:104.107000

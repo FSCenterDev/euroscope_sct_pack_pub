@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZSLG:symbol
+Airports:ZSLG:name
+VORs:GFK:symbol
+VORs:GFK:name
+Geo:ZSLG:
+Runways:ZSLG 连云港/花果山 03-21:centerline
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 1
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 1 left base
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 1 left ticks
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 1 left vectoring
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 1 right base
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 1 right ticks
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 1 right vectoring
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 2
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 2 left base
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 2 left ticks
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 2 left vectoring
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 2 right base
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 2 right ticks
+Runways:ZSLG 连云港/花果山 03-21:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:34.253056:119.018611:34.573056:119.338611

@@ -1,0 +1,39 @@
+DisplayTypeName:Standard ES radar screen
+DisplayTypeNeedRadarContent:1
+DisplayTypeGeoReferenced:1
+SECTORFILE:
+SECTORTITLE:
+Airports:ZULB:symbol
+Airports:ZULB:name
+VORs:GLB:symbol
+VORs:GLB:name
+Geo:ZULB:
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:centerline
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1 left base
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1 left ticks
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1 left vectoring
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1 right base
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1 right ticks
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1 right vectoring
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2 left base
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2 left ticks
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2 left vectoring
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2 right base
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2 right ticks
+Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2 right vectoring
+SHOWC:1
+SHOWSB:1
+BELOW:0
+ABOVE:0
+LEADER:5
+SHOWLEADER:1
+TURNLEADER:0
+HISTORY_DOTS:5
+SIMULATION_MODE:1
+DISABLEPANNING:0
+DISABLEZOOMING:0
+DisplayRotation:6.000
+TAGFAMILY:Matias for VATPRC
+WINDOWAREA:25.290972:107.802383:25.610972:108.122383
