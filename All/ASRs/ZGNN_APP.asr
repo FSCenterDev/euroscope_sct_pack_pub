@@ -5,6 +5,138 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZGNN:symbol
 Airports:ZGNN:name
+Fixes:13VOR:symbol
+Fixes:13VOR:name
+Fixes:52VOR:symbol
+Fixes:52VOR:name
+Fixes:65VOR:symbol
+Fixes:65VOR:name
+Fixes:CD05Y:symbol
+Fixes:CD05Y:name
+Fixes:CF04:symbol
+Fixes:CF04:name
+Fixes:CF22:symbol
+Fixes:CF22:name
+Fixes:CF23:symbol
+Fixes:CF23:name
+Fixes:D021L:symbol
+Fixes:D021L:name
+Fixes:D048J:symbol
+Fixes:D048J:name
+Fixes:D050H:symbol
+Fixes:D050H:name
+Fixes:D050N:symbol
+Fixes:D050N:name
+Fixes:D050S:symbol
+Fixes:D050S:name
+Fixes:D050U:symbol
+Fixes:D050U:name
+Fixes:D065J:symbol
+Fixes:D065J:name
+Fixes:D090J:symbol
+Fixes:D090J:name
+Fixes:D107N:symbol
+Fixes:D107N:name
+Fixes:D135G:symbol
+Fixes:D135G:name
+Fixes:D225K:symbol
+Fixes:D225K:name
+Fixes:D230G:symbol
+Fixes:D230G:name
+Fixes:D230M:symbol
+Fixes:D230M:name
+Fixes:D230T:symbol
+Fixes:D230T:name
+Fixes:D245H:symbol
+Fixes:D245H:name
+Fixes:D245N:symbol
+Fixes:D245N:name
+Fixes:D292O:symbol
+Fixes:D292O:name
+Fixes:D315G:symbol
+Fixes:D315G:name
+Fixes:DER04:symbol
+Fixes:DER04:name
+Fixes:DER05:symbol
+Fixes:DER05:name
+Fixes:DER22:symbol
+Fixes:DER22:name
+Fixes:DER23:symbol
+Fixes:DER23:name
+Fixes:FD05:symbol
+Fixes:FD05:name
+Fixes:FD23:symbol
+Fixes:FD23:name
+Fixes:FF04:symbol
+Fixes:FF04:name
+Fixes:FF22:symbol
+Fixes:FF22:name
+Fixes:FI04:symbol
+Fixes:FI04:name
+Fixes:FI22:symbol
+Fixes:FI22:name
+Fixes:FI23:symbol
+Fixes:FI23:name
+Fixes:IWQ07:symbol
+Fixes:IWQ07:name
+Fixes:MD23:symbol
+Fixes:MD23:name
+Fixes:NN503:symbol
+Fixes:NN503:name
+Fixes:NN505:symbol
+Fixes:NN505:name
+Fixes:NN506:symbol
+Fixes:NN506:name
+Fixes:NN507:symbol
+Fixes:NN507:name
+Fixes:NN508:symbol
+Fixes:NN508:name
+Fixes:NN509:symbol
+Fixes:NN509:name
+Fixes:NN515:symbol
+Fixes:NN515:name
+Fixes:NN516:symbol
+Fixes:NN516:name
+Fixes:NN551:symbol
+Fixes:NN551:name
+Fixes:NN552:symbol
+Fixes:NN552:name
+Fixes:NN553:symbol
+Fixes:NN553:name
+Fixes:NN562:symbol
+Fixes:NN562:name
+Fixes:NN563:symbol
+Fixes:NN563:name
+Fixes:NN604:symbol
+Fixes:NN604:name
+Fixes:NN606:symbol
+Fixes:NN606:name
+Fixes:NN651:symbol
+Fixes:NN651:name
+Fixes:NN652:symbol
+Fixes:NN652:name
+Fixes:NN661:symbol
+Fixes:NN661:name
+Fixes:NN665:symbol
+Fixes:NN665:name
+Fixes:NN701:symbol
+Fixes:NN701:name
+Fixes:NN702:symbol
+Fixes:NN702:name
+Fixes:NN703:symbol
+Fixes:NN703:name
+Fixes:NN781:symbol
+Fixes:NN781:name
+Fixes:NN782:symbol
+Fixes:NN782:name
+Fixes:NN788:symbol
+Fixes:NN788:name
+Fixes:VOR15:symbol
+Fixes:VOR15:name
+Fixes:YNG27:symbol
+Fixes:YNG27:name
+Fixes:YNG31:symbol
+Fixes:YNG31:name
 VORs:WUY:symbol
 VORs:WUY:name
 High airways:R339:line
@@ -17,36 +149,36 @@ High airways:W169:line
 High airways:W693:line
 High airways:X53:line
 Geo:ZGNN:
-Runways:ZGNN 南宁/吴圩 04-22:centerline
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 1
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 1 left base
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 1 left ticks
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 1 left vectoring
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 1 right base
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 1 right ticks
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 1 right vectoring
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 2
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 2 left base
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 2 left ticks
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 2 left vectoring
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 2 right base
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 2 right ticks
-Runways:ZGNN 南宁/吴圩 04-22:extended centerline 2 right vectoring
-Runways:ZGNN 南宁/吴圩 23-05:centerline
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 1
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 1 left base
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 1 left ticks
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 1 left vectoring
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 1 right base
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 1 right ticks
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 1 right vectoring
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 2
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 2 left base
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 2 left ticks
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 2 left vectoring
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 2 right base
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 2 right ticks
-Runways:ZGNN 南宁/吴圩 23-05:extended centerline 2 right vectoring
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:centerline
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 1
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 1 left base
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 1 left ticks
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 1 left vectoring
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 1 right base
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 1 right ticks
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 1 right vectoring
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 2
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 2 left base
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 2 left ticks
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 2 left vectoring
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 2 right base
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 2 right ticks
+Runways:ZGNN 鍗楀畞/鍚村湬 04-22:extended centerline 2 right vectoring
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:centerline
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 1
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 1 left base
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 1 left ticks
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 1 left vectoring
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 1 right base
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 1 right ticks
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 1 right vectoring
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 2
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 2 left base
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 2 left ticks
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 2 left vectoring
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 2 right base
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 2 right ticks
+Runways:ZGNN 鍗楀畞/鍚村湬 23-05:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

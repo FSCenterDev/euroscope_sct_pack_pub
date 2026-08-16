@@ -5,24 +5,44 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSCN:symbol
 Airports:ZSCN:name
+Fixes:20VOR:symbol
+Fixes:20VOR:name
+Fixes:59VOR:symbol
+Fixes:59VOR:name
+Fixes:CN102:symbol
+Fixes:CN102:name
+Fixes:CN211:symbol
+Fixes:CN211:name
+Fixes:CN302:symbol
+Fixes:CN302:name
+Fixes:CN304:symbol
+Fixes:CN304:name
+Fixes:FD21:symbol
+Fixes:FD21:name
+Fixes:FI21:symbol
+Fixes:FI21:name
+Fixes:MD03:symbol
+Fixes:MD03:name
+Fixes:MD21:symbol
+Fixes:MD21:name
 VORs:NCH:symbol
 VORs:NCH:name
 Geo:ZSCN:
-Runways:ZSCN 南昌/昌北 03-21:centerline
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 1
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 1 left base
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 1 left ticks
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 1 left vectoring
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 1 right base
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 1 right ticks
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 1 right vectoring
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 2
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 2 left base
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 2 left ticks
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 2 left vectoring
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 2 right base
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 2 right ticks
-Runways:ZSCN 南昌/昌北 03-21:extended centerline 2 right vectoring
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:centerline
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 1
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 1 left base
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 1 left ticks
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 1 left vectoring
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 1 right base
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 1 right ticks
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 1 right vectoring
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 2
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 2 left base
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 2 left ticks
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 2 left vectoring
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 2 right base
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 2 right ticks
+Runways:ZSCN 鍗楁槍/鏄屽寳 03-21:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

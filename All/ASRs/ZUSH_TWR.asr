@@ -8,21 +8,21 @@ Airports:ZUSH:name
 VORs:LZP:symbol
 VORs:LZP:name
 Geo:ZUSH:
-Runways:ZUSH 山南/隆子 28-10:centerline
-Runways:ZUSH 山南/隆子 28-10:extended centerline 1
-Runways:ZUSH 山南/隆子 28-10:extended centerline 1 left base
-Runways:ZUSH 山南/隆子 28-10:extended centerline 1 left ticks
-Runways:ZUSH 山南/隆子 28-10:extended centerline 1 left vectoring
-Runways:ZUSH 山南/隆子 28-10:extended centerline 1 right base
-Runways:ZUSH 山南/隆子 28-10:extended centerline 1 right ticks
-Runways:ZUSH 山南/隆子 28-10:extended centerline 1 right vectoring
-Runways:ZUSH 山南/隆子 28-10:extended centerline 2
-Runways:ZUSH 山南/隆子 28-10:extended centerline 2 left base
-Runways:ZUSH 山南/隆子 28-10:extended centerline 2 left ticks
-Runways:ZUSH 山南/隆子 28-10:extended centerline 2 left vectoring
-Runways:ZUSH 山南/隆子 28-10:extended centerline 2 right base
-Runways:ZUSH 山南/隆子 28-10:extended centerline 2 right ticks
-Runways:ZUSH 山南/隆子 28-10:extended centerline 2 right vectoring
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:centerline
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 1
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 1 left base
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 1 left ticks
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 1 left vectoring
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 1 right base
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 1 right ticks
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 1 right vectoring
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 2
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 2 left base
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 2 left ticks
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 2 left vectoring
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 2 right base
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 2 right ticks
+Runways:ZUSH 灞卞崡/闅嗗瓙 28-10:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

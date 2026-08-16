@@ -5,39 +5,103 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZULS:symbol
 Airports:ZULS:name
+Fixes:LS001:symbol
+Fixes:LS001:name
+Fixes:LS015:symbol
+Fixes:LS015:name
+Fixes:LS016:symbol
+Fixes:LS016:name
+Fixes:LS030:symbol
+Fixes:LS030:name
+Fixes:LS032:symbol
+Fixes:LS032:name
+Fixes:LS037:symbol
+Fixes:LS037:name
+Fixes:LS041:symbol
+Fixes:LS041:name
+Fixes:LS042:symbol
+Fixes:LS042:name
+Fixes:LS075:symbol
+Fixes:LS075:name
+Fixes:LS077:symbol
+Fixes:LS077:name
+Fixes:LS078:symbol
+Fixes:LS078:name
+Fixes:LS414:symbol
+Fixes:LS414:name
+Fixes:LS418:symbol
+Fixes:LS418:name
+Fixes:LS420:symbol
+Fixes:LS420:name
+Fixes:LS422:symbol
+Fixes:LS422:name
+Fixes:LS504:symbol
+Fixes:LS504:name
+Fixes:LS508:symbol
+Fixes:LS508:name
+Fixes:LS574:symbol
+Fixes:LS574:name
+Fixes:LS600:symbol
+Fixes:LS600:name
+Fixes:LS602:symbol
+Fixes:LS602:name
+Fixes:LS608:symbol
+Fixes:LS608:name
+Fixes:LS610:symbol
+Fixes:LS610:name
+Fixes:LS612:symbol
+Fixes:LS612:name
+Fixes:LS800:symbol
+Fixes:LS800:name
+Fixes:LS803:symbol
+Fixes:LS803:name
+Fixes:LS804:symbol
+Fixes:LS804:name
+Fixes:LS811:symbol
+Fixes:LS811:name
+Fixes:LS815:symbol
+Fixes:LS815:name
+Fixes:LS900:symbol
+Fixes:LS900:name
+Fixes:LS978:symbol
+Fixes:LS978:name
+Fixes:LS979:symbol
+Fixes:LS979:name
+Fixes:LS980:symbol
+Fixes:LS980:name
 VORs:LXA:symbol
 VORs:LXA:name
 Geo:ZULS:
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:centerline
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 1
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 1 left base
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 1 left ticks
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 1 left vectoring
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 1 right base
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 1 right ticks
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 1 right vectoring
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 2
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 2 left base
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 2 left ticks
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 2 left vectoring
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 2 right base
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 2 right ticks
-Runways:ZULS À­Èø/¹±¸Â 10R-28L:extended centerline 2 right vectoring
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:centerline
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 1
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 1 left base
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 1 left ticks
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 1 left vectoring
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 1 right base
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 1 right ticks
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 1 right vectoring
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 2
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 2 left base
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 2 left ticks
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 2 left vectoring
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 2 right base
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 2 right ticks
-Runways:ZULS À­Èø/¹±¸Â 28R-10L:extended centerline 2 right vectoring
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:centerline
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 1
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 1 left base
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 1 left ticks
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 1 left vectoring
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 1 right base
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 1 right ticks
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 1 right vectoring
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 2
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 2 left base
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 2 left ticks
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 2 left vectoring
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 2 right base
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 2 right ticks
+Runways:ZULS æ‹‰è¨/è´¡å˜ 10R-28L:extended centerline 2 right vectoring
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:centerline
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 1
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 1 left base
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 1 left ticks
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 1 left vectoring
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 1 right base
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 1 right ticks
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 1 right vectoring
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 2
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 2 left base
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 2 left ticks
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 2 left vectoring
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 2 right base
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 2 right ticks
+Runways:ZULS æ‹‰è¨/è´¡å˜ 28R-10L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

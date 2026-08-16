@@ -8,21 +8,21 @@ Airports:ZPZT:name
 VORs:ZAT:symbol
 VORs:ZAT:name
 Geo:ZPZT:
-Runways:ZPZT ÕÑÍ¨ 22-04:centerline
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1 left base
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1 left ticks
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1 left vectoring
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1 right base
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1 right ticks
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1 right vectoring
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2 left base
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2 left ticks
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2 left vectoring
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2 right base
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2 right ticks
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2 right vectoring
+Runways:ZPZT æ˜­é€š 22-04:centerline
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1 left base
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1 left ticks
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1 left vectoring
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1 right base
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1 right ticks
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1 right vectoring
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2 left base
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2 left ticks
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2 left vectoring
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2 right base
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2 right ticks
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -7,39 +7,57 @@ Airports:ZSFZ:symbol
 Airports:ZSFZ:name
 Fixes:AVMAM:symbol
 Fixes:AVMAM:name
+Fixes:D032C:symbol
+Fixes:D032C:name
+Fixes:D212C:symbol
+Fixes:D212C:name
+Fixes:DE03:symbol
+Fixes:DE03:name
+Fixes:DE04:symbol
+Fixes:DE04:name
+Fixes:DE21:symbol
+Fixes:DE21:name
+Fixes:DE22:symbol
+Fixes:DE22:name
+Fixes:FZ510:symbol
+Fixes:FZ510:name
+Fixes:MD03:symbol
+Fixes:MD03:name
+Fixes:MD21:symbol
+Fixes:MD21:name
 VORs:FOC:symbol
 VORs:FOC:name
 Geo:ZSFZ:
-Runways:ZSFZ 福州/长乐 04-22:centerline
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 1
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 1 left base
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 1 left ticks
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 1 left vectoring
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 1 right base
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 1 right ticks
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 1 right vectoring
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 2
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 2 left base
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 2 left ticks
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 2 left vectoring
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 2 right base
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 2 right ticks
-Runways:ZSFZ 福州/长乐 04-22:extended centerline 2 right vectoring
-Runways:ZSFZ 福州/长乐 21-03:centerline
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 1
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 1 left base
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 1 left ticks
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 1 left vectoring
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 1 right base
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 1 right ticks
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 1 right vectoring
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 2
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 2 left base
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 2 left ticks
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 2 left vectoring
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 2 right base
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 2 right ticks
-Runways:ZSFZ 福州/长乐 21-03:extended centerline 2 right vectoring
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:centerline
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 1
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 1 left base
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 1 left ticks
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 1 left vectoring
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 1 right base
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 1 right ticks
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 1 right vectoring
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 2
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 2 left base
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 2 left ticks
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 2 left vectoring
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 2 right base
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 2 right ticks
+Runways:ZSFZ 绂忓窞/闀夸箰 04-22:extended centerline 2 right vectoring
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:centerline
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 1
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 1 left base
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 1 left ticks
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 1 left vectoring
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 1 right base
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 1 right ticks
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 1 right vectoring
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 2
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 2 left base
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 2 left ticks
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 2 left vectoring
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 2 right base
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 2 right ticks
+Runways:ZSFZ 绂忓窞/闀夸箰 21-03:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

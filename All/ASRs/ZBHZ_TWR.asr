@@ -8,21 +8,21 @@ Airports:ZBHZ:name
 VORs:DGL:symbol
 VORs:DGL:name
 Geo:ZBHZ:
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:centerline
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 1
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 1 left base
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 1 left ticks
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 1 left vectoring
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 1 right base
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 1 right ticks
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 1 right vectoring
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 2
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 2 left base
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 2 left ticks
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 2 left vectoring
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 2 right base
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 2 right ticks
-Runways:ZBHZ »ôÁÖ¹ùÀÕ/»ôÁÖºÓ 11-29:extended centerline 2 right vectoring
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:centerline
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 1
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 1 left base
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 1 left ticks
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 1 left vectoring
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 1 right base
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 1 right ticks
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 1 right vectoring
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 2
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 2 left base
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 2 left ticks
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 2 left vectoring
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 2 right base
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 2 right ticks
+Runways:ZBHZ éœæ—éƒ­å‹’/éœæ—æ²³ 11-29:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

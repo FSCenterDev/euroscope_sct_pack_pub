@@ -5,24 +5,46 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZBDS:symbol
 Airports:ZBDS:name
+Fixes:31VOR:symbol
+Fixes:31VOR:name
+Fixes:32VOR:symbol
+Fixes:32VOR:name
+Fixes:D011E:symbol
+Fixes:D011E:name
+Fixes:D196E:symbol
+Fixes:D196E:name
+Fixes:DS407:symbol
+Fixes:DS407:name
+Fixes:DS408:symbol
+Fixes:DS408:name
+Fixes:DS417:symbol
+Fixes:DS417:name
+Fixes:DS418:symbol
+Fixes:DS418:name
+Fixes:DS901:symbol
+Fixes:DS901:name
+Fixes:MD13:symbol
+Fixes:MD13:name
+Fixes:MD31:symbol
+Fixes:MD31:name
 VORs:HDS:symbol
 VORs:HDS:name
 Geo:ZBDS:
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:centerline
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 1
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 1 left base
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 1 left ticks
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 1 left vectoring
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 1 right base
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 1 right ticks
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 1 right vectoring
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 2
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 2 left base
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 2 left ticks
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 2 left vectoring
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 2 right base
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 2 right ticks
-Runways:ZBDS 鄂尔多斯/伊金霍洛 13-31:extended centerline 2 right vectoring
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:centerline
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 1
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 1 left base
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 1 left ticks
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 1 left vectoring
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 1 right base
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 1 right ticks
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 1 right vectoring
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 2
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 2 left base
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 2 left ticks
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 2 left vectoring
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 2 right base
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 2 right ticks
+Runways:ZBDS 閯傚皵澶氭柉/浼婇噾闇嶆礇 13-31:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

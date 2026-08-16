@@ -8,21 +8,21 @@ Airports:ZWRQ:name
 VORs:DRQ:symbol
 VORs:DRQ:name
 Geo:ZWRQ:
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:centerline
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 1
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 1 left base
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 1 left ticks
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 1 left vectoring
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 1 right base
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 1 right ticks
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 1 right vectoring
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 2
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 2 left base
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 2 left ticks
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 2 left vectoring
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 2 right base
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 2 right ticks
-Runways:ZWRQ ÈôÇ¼/Â¥À¼ 04-22:extended centerline 2 right vectoring
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:centerline
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 1
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 1 left base
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 1 left ticks
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 1 left vectoring
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 1 right base
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 1 right ticks
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 1 right vectoring
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 2
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 2 left base
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 2 left ticks
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 2 left vectoring
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 2 right base
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 2 right ticks
+Runways:ZWRQ è‹¥ç¾Œ/æ¥¼å…° 04-22:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -5,24 +5,36 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZPMS:symbol
 Airports:ZPMS:name
+Fixes:52VOR:symbol
+Fixes:52VOR:name
+Fixes:D041B:symbol
+Fixes:D041B:name
+Fixes:MD23:symbol
+Fixes:MD23:name
+Fixes:MS301:symbol
+Fixes:MS301:name
+Fixes:MS401:symbol
+Fixes:MS401:name
+Fixes:MS409:symbol
+Fixes:MS409:name
 VORs:LUM:symbol
 VORs:LUM:name
 Geo:ZPMS:
-Runways:ZPMS 德宏/芒市 05-23:centerline
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 1
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 1 left base
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 1 left ticks
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 1 left vectoring
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 1 right base
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 1 right ticks
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 1 right vectoring
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 2
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 2 left base
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 2 left ticks
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 2 left vectoring
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 2 right base
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 2 right ticks
-Runways:ZPMS 德宏/芒市 05-23:extended centerline 2 right vectoring
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:centerline
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 1
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 1 left base
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 1 left ticks
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 1 left vectoring
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 1 right base
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 1 right ticks
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 1 right vectoring
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 2
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 2 left base
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 2 left ticks
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 2 left vectoring
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 2 right base
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 2 right ticks
+Runways:ZPMS 寰峰畯/鑺掑競 05-23:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

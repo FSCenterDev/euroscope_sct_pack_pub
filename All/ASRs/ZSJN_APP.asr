@@ -5,10 +5,36 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSJN:symbol
 Airports:ZSJN:name
+Fixes:22VOR:symbol
+Fixes:22VOR:name
+Fixes:52VOR:symbol
+Fixes:52VOR:name
+Fixes:CF01:symbol
+Fixes:CF01:name
+Fixes:CF19:symbol
+Fixes:CF19:name
+Fixes:D006P:symbol
+Fixes:D006P:name
+Fixes:D186K:symbol
+Fixes:D186K:name
+Fixes:FF01:symbol
+Fixes:FF01:name
+Fixes:FF19:symbol
+Fixes:FF19:name
 Fixes:GOLAL:symbol
 Fixes:GOLAL:name
+Fixes:JN110:symbol
+Fixes:JN110:name
+Fixes:JN111:symbol
+Fixes:JN111:name
+Fixes:JN204:symbol
+Fixes:JN204:name
 Fixes:LEDOV:symbol
 Fixes:LEDOV:name
+Fixes:MD01:symbol
+Fixes:MD01:name
+Fixes:MD19:symbol
+Fixes:MD19:name
 Fixes:METOG:symbol
 Fixes:METOG:name
 VORs:YQG:symbol
@@ -29,21 +55,21 @@ High airways:W569:line
 High airways:X15:line
 High airways:X19:line
 Geo:ZSJN:
-Runways:ZSJN 济南/遥墙 01-19:centerline
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 1
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 1 left base
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 1 left ticks
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 1 left vectoring
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 1 right base
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 1 right ticks
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 1 right vectoring
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 2
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 2 left base
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 2 left ticks
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 2 left vectoring
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 2 right base
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 2 right ticks
-Runways:ZSJN 济南/遥墙 01-19:extended centerline 2 right vectoring
+Runways:ZSJN 娴庡崡/閬ュ 01-19:centerline
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 1
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 1 left base
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 1 left ticks
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 1 left vectoring
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 1 right base
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 1 right ticks
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 1 right vectoring
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 2
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 2 left base
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 2 left ticks
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 2 left vectoring
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 2 right base
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 2 right ticks
+Runways:ZSJN 娴庡崡/閬ュ 01-19:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

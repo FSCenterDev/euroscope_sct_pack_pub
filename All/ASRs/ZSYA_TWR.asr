@@ -5,24 +5,36 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSYA:symbol
 Airports:ZSYA:name
+Fixes:D173E:symbol
+Fixes:D173E:name
+Fixes:D353H:symbol
+Fixes:D353H:name
+Fixes:FD35:symbol
+Fixes:FD35:name
+Fixes:MD17:symbol
+Fixes:MD17:name
+Fixes:MD35:symbol
+Fixes:MD35:name
+Fixes:YA105:symbol
+Fixes:YA105:name
 VORs:SJD:symbol
 VORs:SJD:name
 Geo:ZSYA:
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:centerline
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 1
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 1 left base
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 1 left ticks
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 1 left vectoring
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 1 right base
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 1 right ticks
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 1 right vectoring
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 2
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 2 left base
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 2 left ticks
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 2 left vectoring
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 2 right base
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 2 right ticks
-Runways:ZSYA —Ô÷›/Ã©÷› 17-35:extended centerline 2 right vectoring
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:centerline
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 1
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 1 left base
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 1 left ticks
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 1 left vectoring
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 1 right base
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 1 right ticks
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 1 right vectoring
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 2
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 2 left base
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 2 left ticks
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 2 left vectoring
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 2 right base
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 2 right ticks
+Runways:ZSYA Êâ¨Â∑û/Ê≥∞Â∑û 17-35:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

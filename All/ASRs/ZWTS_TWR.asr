@@ -8,21 +8,21 @@ Airports:ZWTS:name
 VORs:TMS:symbol
 VORs:TMS:name
 Geo:ZWTS:
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:centerline
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 1
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 1 left base
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 1 left ticks
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 1 left vectoring
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 1 right base
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 1 right ticks
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 1 right vectoring
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 2
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 2 left base
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 2 left ticks
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 2 left vectoring
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 2 right base
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 2 right ticks
-Runways:ZWTS Í¼Ä¾Êæ¿Ë/ÌÆÍõ³Ç 20-02:extended centerline 2 right vectoring
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:centerline
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 1
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 1 left base
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 1 left ticks
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 1 left vectoring
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 1 right base
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 1 right ticks
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 1 right vectoring
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 2
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 2 left base
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 2 left ticks
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 2 left vectoring
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 2 right base
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 2 right ticks
+Runways:ZWTS å›¾æœ¨èˆ’å…‹/å”ç‹åŸ 20-02:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

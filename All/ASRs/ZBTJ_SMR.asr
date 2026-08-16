@@ -5,39 +5,43 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZBTJ:symbol
 Airports:ZBTJ:name
+Fixes:MD16R:symbol
+Fixes:MD16R:name
+Fixes:MD34L:symbol
+Fixes:MD34L:name
 VORs:TAJ:symbol
 VORs:TAJ:name
 Geo:ZBTJ:
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:centerline
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1 left base
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1 left ticks
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1 left vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1 right base
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1 right ticks
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1 right vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2 left base
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2 left ticks
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2 left vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2 right base
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2 right ticks
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2 right vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:centerline
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1 left base
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1 left ticks
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1 left vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1 right base
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1 right ticks
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1 right vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2 left base
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2 left ticks
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2 left vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2 right base
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2 right ticks
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2 right vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:centerline
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1 left base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1 left ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1 left vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1 right base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1 right ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1 right vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2 left base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2 left ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2 left vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2 right base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2 right ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2 right vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:centerline
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1 left base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1 left ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1 left vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1 right base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1 right ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1 right vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2 left base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2 left ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2 left vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2 right base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2 right ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

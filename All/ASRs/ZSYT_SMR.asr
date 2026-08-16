@@ -5,24 +5,26 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSYT:symbol
 Airports:ZSYT:name
+Fixes:MD05:symbol
+Fixes:MD05:name
 VORs:YCS:symbol
 VORs:YCS:name
 Geo:ZSYT:
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:centerline
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 left base
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 left ticks
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 left vectoring
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 right base
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 right ticks
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 right vectoring
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 left base
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 left ticks
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 left vectoring
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 right base
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 right ticks
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 right vectoring
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:centerline
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1 left base
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1 left ticks
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1 left vectoring
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1 right base
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1 right ticks
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1 right vectoring
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2 left base
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2 left ticks
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2 left vectoring
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2 right base
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2 right ticks
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

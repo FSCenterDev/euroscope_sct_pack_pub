@@ -5,10 +5,90 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZHHH:symbol
 Airports:ZHHH:name
+Fixes:D046L:symbol
+Fixes:D046L:name
+Fixes:D136G:symbol
+Fixes:D136G:name
+Fixes:D226M:symbol
+Fixes:D226M:name
+Fixes:DCD12:symbol
+Fixes:DCD12:name
+Fixes:DE05L:symbol
+Fixes:DE05L:name
+Fixes:DE05R:symbol
+Fixes:DE05R:name
+Fixes:DE23L:symbol
+Fixes:DE23L:name
+Fixes:DE23R:symbol
+Fixes:DE23R:name
+Fixes:DER04:symbol
+Fixes:DER04:name
+Fixes:DER22:symbol
+Fixes:DER22:name
 Fixes:DUBAS:symbol
 Fixes:DUBAS:name
 Fixes:ESKAM:symbol
 Fixes:ESKAM:name
+Fixes:FF05L:symbol
+Fixes:FF05L:name
+Fixes:FF05R:symbol
+Fixes:FF05R:name
+Fixes:FI04:symbol
+Fixes:FI04:name
+Fixes:FI05L:symbol
+Fixes:FI05L:name
+Fixes:FI05R:symbol
+Fixes:FI05R:name
+Fixes:FI22:symbol
+Fixes:FI22:name
+Fixes:FI23L:symbol
+Fixes:FI23L:name
+Fixes:FI23R:symbol
+Fixes:FI23R:name
+Fixes:HH101:symbol
+Fixes:HH101:name
+Fixes:HH102:symbol
+Fixes:HH102:name
+Fixes:HH104:symbol
+Fixes:HH104:name
+Fixes:HH111:symbol
+Fixes:HH111:name
+Fixes:HH112:symbol
+Fixes:HH112:name
+Fixes:HH115:symbol
+Fixes:HH115:name
+Fixes:HH121:symbol
+Fixes:HH121:name
+Fixes:HH124:symbol
+Fixes:HH124:name
+Fixes:HH151:symbol
+Fixes:HH151:name
+Fixes:HH152:symbol
+Fixes:HH152:name
+Fixes:HH161:symbol
+Fixes:HH161:name
+Fixes:HH171:symbol
+Fixes:HH171:name
+Fixes:HH173:symbol
+Fixes:HH173:name
+Fixes:HH311:symbol
+Fixes:HH311:name
+Fixes:HH312:symbol
+Fixes:HH312:name
+Fixes:HH360:symbol
+Fixes:HH360:name
+Fixes:HH711:symbol
+Fixes:HH711:name
+Fixes:HH758:symbol
+Fixes:HH758:name
+Fixes:HH801:symbol
+Fixes:HH801:name
+Fixes:HH802:symbol
+Fixes:HH802:name
+Fixes:HH803:symbol
+Fixes:HH803:name
+Fixes:HH804:symbol
+Fixes:HH804:name
 Fixes:OBDON:symbol
 Fixes:OBDON:name
 Fixes:OSIRU:symbol
@@ -17,6 +97,8 @@ Fixes:UDUMI:symbol
 Fixes:UDUMI:name
 Fixes:VIMAK:symbol
 Fixes:VIMAK:name
+Fixes:WTM55:symbol
+Fixes:WTM55:name
 VORs:WHA:symbol
 VORs:WHA:name
 NDBs:D:symbol
@@ -43,51 +125,51 @@ High airways:W686:line
 High airways:W80:line
 High airways:X253:line
 Geo:ZHHH:
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:centerline
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1 left base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1 left ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1 left vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1 right base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1 right ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1 right vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2 left base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2 left ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2 left vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2 right base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2 right ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2 right vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:centerline
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1 left base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1 left ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1 left vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1 right base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1 right ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1 right vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2 left base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2 left ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2 left vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2 right base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2 right ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2 right vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:centerline
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1 left base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1 left ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1 left vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1 right base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1 right ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1 right vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2 left base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2 left ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2 left vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2 right base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2 right ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2 right vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:centerline
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1 left base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1 left ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1 left vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1 right base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1 right ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1 right vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2 left base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2 left ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2 left vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2 right base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2 right ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2 right vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:centerline
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1 left base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1 left ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1 left vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1 right base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1 right ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1 right vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2 left base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2 left ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2 left vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2 right base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2 right ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2 right vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:centerline
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1 left base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1 left ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1 left vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1 right base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1 right ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1 right vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2 left base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2 left ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2 left vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2 right base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2 right ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

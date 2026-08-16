@@ -7,6 +7,64 @@ Airports:ZHEC:symbol
 Airports:ZHEC:name
 Fixes:AGUXI:symbol
 Fixes:AGUXI:name
+Fixes:CI01R:symbol
+Fixes:CI01R:name
+Fixes:CI0LY:symbol
+Fixes:CI0LY:name
+Fixes:D015P:symbol
+Fixes:D015P:name
+Fixes:D195O:symbol
+Fixes:D195O:name
+Fixes:D195R:symbol
+Fixes:D195R:name
+Fixes:D195Z:symbol
+Fixes:D195Z:name
+Fixes:D207S:symbol
+Fixes:D207S:name
+Fixes:D218L:symbol
+Fixes:D218L:name
+Fixes:D288O:symbol
+Fixes:D288O:name
+Fixes:D288T:symbol
+Fixes:D288T:name
+Fixes:D307N:symbol
+Fixes:D307N:name
+Fixes:D310L:symbol
+Fixes:D310L:name
+Fixes:DHB49:symbol
+Fixes:DHB49:name
+Fixes:EC404:symbol
+Fixes:EC404:name
+Fixes:EC407:symbol
+Fixes:EC407:name
+Fixes:EC423:symbol
+Fixes:EC423:name
+Fixes:EC504:symbol
+Fixes:EC504:name
+Fixes:EC506:symbol
+Fixes:EC506:name
+Fixes:EC518:symbol
+Fixes:EC518:name
+Fixes:EC565:symbol
+Fixes:EC565:name
+Fixes:FF01L:symbol
+Fixes:FF01L:name
+Fixes:FF01R:symbol
+Fixes:FF01R:name
+Fixes:FI01L:symbol
+Fixes:FI01L:name
+Fixes:FI01R:symbol
+Fixes:FI01R:name
+Fixes:FI19L:symbol
+Fixes:FI19L:name
+Fixes:FI19R:symbol
+Fixes:FI19R:name
+Fixes:HH123:symbol
+Fixes:HH123:name
+Fixes:HH641:symbol
+Fixes:HH641:name
+Fixes:HH736:symbol
+Fixes:HH736:name
 Fixes:P175:symbol
 Fixes:P175:name
 High airways:V108:line
@@ -16,36 +74,36 @@ High airways:W668:line
 High airways:W80:line
 High airways:X252:line
 Geo:ZHEC:
-Runways:ZHEC 鄂州/花湖 19L-01R:centerline
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1 left base
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1 left ticks
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1 left vectoring
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1 right base
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1 right ticks
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 1 right vectoring
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2 left base
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2 left ticks
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2 left vectoring
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2 right base
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2 right ticks
-Runways:ZHEC 鄂州/花湖 19L-01R:extended centerline 2 right vectoring
-Runways:ZHEC 鄂州/花湖 19R-01L:centerline
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1 left base
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1 left ticks
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1 left vectoring
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1 right base
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1 right ticks
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 1 right vectoring
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2 left base
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2 left ticks
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2 left vectoring
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2 right base
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2 right ticks
-Runways:ZHEC 鄂州/花湖 19R-01L:extended centerline 2 right vectoring
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:centerline
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 1
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 1 left base
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 1 left ticks
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 1 left vectoring
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 1 right base
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 1 right ticks
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 1 right vectoring
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 2
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 2 left base
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 2 left ticks
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 2 left vectoring
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 2 right base
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 2 right ticks
+Runways:ZHEC 閯傚窞/鑺辨箹 19L-01R:extended centerline 2 right vectoring
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:centerline
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 1
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 1 left base
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 1 left ticks
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 1 left vectoring
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 1 right base
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 1 right ticks
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 1 right vectoring
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 2
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 2 left base
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 2 left ticks
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 2 left vectoring
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 2 right base
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 2 right ticks
+Runways:ZHEC 閯傚窞/鑺辨箹 19R-01L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

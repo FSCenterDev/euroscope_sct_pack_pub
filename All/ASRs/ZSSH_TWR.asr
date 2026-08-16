@@ -5,26 +5,46 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSSH:symbol
 Airports:ZSSH:name
+Fixes:18VOR:symbol
+Fixes:18VOR:name
+Fixes:44VOR:symbol
+Fixes:44VOR:name
+Fixes:FD04:symbol
+Fixes:FD04:name
+Fixes:FD22:symbol
+Fixes:FD22:name
+Fixes:MD04:symbol
+Fixes:MD04:name
+Fixes:MD22:symbol
+Fixes:MD22:name
 Fixes:P496:symbol
 Fixes:P496:name
+Fixes:SH607:symbol
+Fixes:SH607:name
+Fixes:SH706:symbol
+Fixes:SH706:name
+Fixes:SH801:symbol
+Fixes:SH801:name
+Fixes:SH901:symbol
+Fixes:SH901:name
 VORs:HUN:symbol
 VORs:HUN:name
 Geo:ZSSH:
-Runways:ZSSH 淮安/涟水 04-22:centerline
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 1
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 1 left base
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 1 left ticks
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 1 left vectoring
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 1 right base
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 1 right ticks
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 1 right vectoring
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 2
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 2 left base
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 2 left ticks
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 2 left vectoring
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 2 right base
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 2 right ticks
-Runways:ZSSH 淮安/涟水 04-22:extended centerline 2 right vectoring
+Runways:ZSSH 娣畨/娑熸按 04-22:centerline
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 1
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 1 left base
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 1 left ticks
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 1 left vectoring
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 1 right base
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 1 right ticks
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 1 right vectoring
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 2
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 2 left base
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 2 left ticks
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 2 left vectoring
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 2 right base
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 2 right ticks
+Runways:ZSSH 娣畨/娑熸按 04-22:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

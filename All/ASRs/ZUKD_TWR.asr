@@ -8,21 +8,21 @@ Airports:ZUKD:name
 VORs:KDJ:symbol
 VORs:KDJ:name
 Geo:ZUKD:
-Runways:ZUKD ¿µ¶¨ 33-15:centerline
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 1
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 1 left base
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 1 left ticks
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 1 left vectoring
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 1 right base
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 1 right ticks
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 1 right vectoring
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 2
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 2 left base
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 2 left ticks
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 2 left vectoring
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 2 right base
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 2 right ticks
-Runways:ZUKD ¿µ¶¨ 33-15:extended centerline 2 right vectoring
+Runways:ZUKD åº·å®š 33-15:centerline
+Runways:ZUKD åº·å®š 33-15:extended centerline 1
+Runways:ZUKD åº·å®š 33-15:extended centerline 1 left base
+Runways:ZUKD åº·å®š 33-15:extended centerline 1 left ticks
+Runways:ZUKD åº·å®š 33-15:extended centerline 1 left vectoring
+Runways:ZUKD åº·å®š 33-15:extended centerline 1 right base
+Runways:ZUKD åº·å®š 33-15:extended centerline 1 right ticks
+Runways:ZUKD åº·å®š 33-15:extended centerline 1 right vectoring
+Runways:ZUKD åº·å®š 33-15:extended centerline 2
+Runways:ZUKD åº·å®š 33-15:extended centerline 2 left base
+Runways:ZUKD åº·å®š 33-15:extended centerline 2 left ticks
+Runways:ZUKD åº·å®š 33-15:extended centerline 2 left vectoring
+Runways:ZUKD åº·å®š 33-15:extended centerline 2 right base
+Runways:ZUKD åº·å®š 33-15:extended centerline 2 right ticks
+Runways:ZUKD åº·å®š 33-15:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

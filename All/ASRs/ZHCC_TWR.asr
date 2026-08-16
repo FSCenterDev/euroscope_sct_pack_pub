@@ -5,39 +5,67 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZHCC:symbol
 Airports:ZHCC:name
+Fixes:CC306:symbol
+Fixes:CC306:name
+Fixes:CC350:symbol
+Fixes:CC350:name
+Fixes:CC408:symbol
+Fixes:CC408:name
+Fixes:CC449:symbol
+Fixes:CC449:name
+Fixes:CC585:symbol
+Fixes:CC585:name
+Fixes:CC591:symbol
+Fixes:CC591:name
+Fixes:CC631:symbol
+Fixes:CC631:name
+Fixes:D296Q:symbol
+Fixes:D296Q:name
+Fixes:D296R:symbol
+Fixes:D296R:name
+Fixes:DE12L:symbol
+Fixes:DE12L:name
+Fixes:DE12R:symbol
+Fixes:DE12R:name
+Fixes:DE30L:symbol
+Fixes:DE30L:name
+Fixes:DE30R:symbol
+Fixes:DE30R:name
+Fixes:FF1LX:symbol
+Fixes:FF1LX:name
 VORs:CGO:symbol
 VORs:CGO:name
 Geo:ZHCC:
-Runways:ZHCC 郑州/新郑 12L-30R:centerline
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 1
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 1 left base
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 1 left ticks
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 1 left vectoring
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 1 right base
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 1 right ticks
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 1 right vectoring
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 2
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 2 left base
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 2 left ticks
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 2 left vectoring
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 2 right base
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 2 right ticks
-Runways:ZHCC 郑州/新郑 12L-30R:extended centerline 2 right vectoring
-Runways:ZHCC 郑州/新郑 12R-30L:centerline
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 1
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 1 left base
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 1 left ticks
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 1 left vectoring
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 1 right base
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 1 right ticks
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 1 right vectoring
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 2
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 2 left base
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 2 left ticks
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 2 left vectoring
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 2 right base
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 2 right ticks
-Runways:ZHCC 郑州/新郑 12R-30L:extended centerline 2 right vectoring
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:centerline
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 1
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 1 left base
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 1 left ticks
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 1 left vectoring
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 1 right base
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 1 right ticks
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 1 right vectoring
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 2
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 2 left base
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 2 left ticks
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 2 left vectoring
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 2 right base
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 2 right ticks
+Runways:ZHCC 閮戝窞/鏂伴儜 12L-30R:extended centerline 2 right vectoring
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:centerline
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 1
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 1 left base
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 1 left ticks
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 1 left vectoring
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 1 right base
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 1 right ticks
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 1 right vectoring
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 2
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 2 left base
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 2 left ticks
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 2 left vectoring
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 2 right base
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 2 right ticks
+Runways:ZHCC 閮戝窞/鏂伴儜 12R-30L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

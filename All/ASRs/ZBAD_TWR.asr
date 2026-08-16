@@ -5,67 +5,95 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZBAD:symbol
 Airports:ZBAD:name
+Fixes:AA122:symbol
+Fixes:AA122:name
+Fixes:AD430:symbol
+Fixes:AD430:name
+Fixes:AD450:symbol
+Fixes:AD450:name
+Fixes:AD470:symbol
+Fixes:AD470:name
+Fixes:AD531:symbol
+Fixes:AD531:name
+Fixes:AD550:symbol
+Fixes:AD550:name
+Fixes:AD571:symbol
+Fixes:AD571:name
+Fixes:AD607:symbol
+Fixes:AD607:name
+Fixes:AD718:symbol
+Fixes:AD718:name
+Fixes:DE01L:symbol
+Fixes:DE01L:name
+Fixes:DE19R:symbol
+Fixes:DE19R:name
+Fixes:FI19R:symbol
+Fixes:FI19R:name
+Fixes:FI7LY:symbol
+Fixes:FI7LY:name
+Fixes:FI7RY:symbol
+Fixes:FI7RY:name
 Geo:ZBAD:
-Runways:ZBAD 北京/大兴 17L-35R:centerline
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 1
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 1 left base
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 1 left ticks
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 1 left vectoring
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 1 right base
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 1 right ticks
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 1 right vectoring
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 2
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 2 left base
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 2 left ticks
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 2 left vectoring
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 2 right base
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 2 right ticks
-Runways:ZBAD 北京/大兴 17L-35R:extended centerline 2 right vectoring
-Runways:ZBAD 北京/大兴 19R-01L:centerline
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 1
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 1 left base
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 1 left ticks
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 1 left vectoring
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 1 right base
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 1 right ticks
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 1 right vectoring
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 2
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 2 left base
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 2 left ticks
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 2 left vectoring
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 2 right base
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 2 right ticks
-Runways:ZBAD 北京/大兴 19R-01L:extended centerline 2 right vectoring
-Runways:ZBAD 北京/大兴 29R-11L:centerline
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 1
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 1 left base
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 1 left ticks
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 1 left vectoring
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 1 right base
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 1 right ticks
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 1 right vectoring
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 2
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 2 left base
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 2 left ticks
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 2 left vectoring
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 2 right base
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 2 right ticks
-Runways:ZBAD 北京/大兴 29R-11L:extended centerline 2 right vectoring
-Runways:ZBAD 北京/大兴 35L-17R:centerline
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 1
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 1 left base
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 1 left ticks
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 1 left vectoring
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 1 right base
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 1 right ticks
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 1 right vectoring
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 2
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 2 left base
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 2 left ticks
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 2 left vectoring
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 2 right base
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 2 right ticks
-Runways:ZBAD 北京/大兴 35L-17R:extended centerline 2 right vectoring
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:centerline
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 1
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 1 left base
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 1 left ticks
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 1 left vectoring
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 1 right base
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 1 right ticks
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 1 right vectoring
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 2
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 2 left base
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 2 left ticks
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 2 left vectoring
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 2 right base
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 2 right ticks
+Runways:ZBAD 鍖椾含/澶у叴 17L-35R:extended centerline 2 right vectoring
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:centerline
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 1
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 1 left base
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 1 left ticks
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 1 left vectoring
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 1 right base
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 1 right ticks
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 1 right vectoring
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 2
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 2 left base
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 2 left ticks
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 2 left vectoring
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 2 right base
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 2 right ticks
+Runways:ZBAD 鍖椾含/澶у叴 19R-01L:extended centerline 2 right vectoring
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:centerline
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 1
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 1 left base
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 1 left ticks
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 1 left vectoring
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 1 right base
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 1 right ticks
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 1 right vectoring
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 2
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 2 left base
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 2 left ticks
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 2 left vectoring
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 2 right base
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 2 right ticks
+Runways:ZBAD 鍖椾含/澶у叴 29R-11L:extended centerline 2 right vectoring
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:centerline
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 1
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 1 left base
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 1 left ticks
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 1 left vectoring
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 1 right base
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 1 right ticks
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 1 right vectoring
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 2
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 2 left base
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 2 left ticks
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 2 left vectoring
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 2 right base
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 2 right ticks
+Runways:ZBAD 鍖椾含/澶у叴 35L-17R:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

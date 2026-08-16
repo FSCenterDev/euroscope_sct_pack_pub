@@ -5,24 +5,50 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSWZ:symbol
 Airports:ZSWZ:name
+Fixes:29VOR:symbol
+Fixes:29VOR:name
+Fixes:46VOR:symbol
+Fixes:46VOR:name
+Fixes:C:symbol
+Fixes:C:name
+Fixes:D032O:symbol
+Fixes:D032O:name
+Fixes:D034P:symbol
+Fixes:D034P:name
+Fixes:D036Q:symbol
+Fixes:D036Q:name
+Fixes:D204F:symbol
+Fixes:D204F:name
+Fixes:D215F:symbol
+Fixes:D215F:name
+Fixes:D279G:symbol
+Fixes:D279G:name
+Fixes:DER03:symbol
+Fixes:DER03:name
+Fixes:MD03:symbol
+Fixes:MD03:name
+Fixes:WZ505:symbol
+Fixes:WZ505:name
+Fixes:WZ513:symbol
+Fixes:WZ513:name
 VORs:WNZ:symbol
 VORs:WNZ:name
 Geo:ZSWZ:
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:centerline
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 1
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 1 left base
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 1 left ticks
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 1 left vectoring
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 1 right base
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 1 right ticks
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 1 right vectoring
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 2
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 2 left base
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 2 left ticks
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 2 left vectoring
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 2 right base
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 2 right ticks
-Runways:ZSWZ ÎÂÖİ/ÁúÍå 03-21:extended centerline 2 right vectoring
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:centerline
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 1
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 1 left base
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 1 left ticks
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 1 left vectoring
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 1 right base
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 1 right ticks
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 1 right vectoring
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 2
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 2 left base
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 2 left ticks
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 2 left vectoring
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 2 right base
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 2 right ticks
+Runways:ZSWZ æ¸©å·/é¾™æ¹¾ 03-21:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

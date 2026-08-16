@@ -5,6 +5,40 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZUGH:symbol
 Airports:ZUGH:name
+Fixes:ATAPU:symbol
+Fixes:ATAPU:name
+Fixes:D294L:symbol
+Fixes:D294L:name
+Fixes:D294M:symbol
+Fixes:D294M:name
+Fixes:JTG12:symbol
+Fixes:JTG12:name
+Fixes:MADEM:symbol
+Fixes:MADEM:name
+Fixes:TT926:symbol
+Fixes:TT926:name
+Fixes:UU403:symbol
+Fixes:UU403:name
+Fixes:UU409:symbol
+Fixes:UU409:name
+Fixes:UU413:symbol
+Fixes:UU413:name
+Fixes:UU414:symbol
+Fixes:UU414:name
+Fixes:UU514:symbol
+Fixes:UU514:name
+Fixes:UU515:symbol
+Fixes:UU515:name
+Fixes:UU624:symbol
+Fixes:UU624:name
+Fixes:UU625:symbol
+Fixes:UU625:name
+Fixes:UU725:symbol
+Fixes:UU725:name
+Fixes:UU733:symbol
+Fixes:UU733:name
+Fixes:UU821:symbol
+Fixes:UU821:name
 VORs:JTG:symbol
 VORs:JTG:name
 High airways:G212:line
@@ -14,21 +48,21 @@ High airways:W235:line
 High airways:W236:line
 High airways:W277:line
 Geo:ZUGH:
-Runways:ZUGH �㺺 13-31:centerline
-Runways:ZUGH �㺺 13-31:extended centerline 1
-Runways:ZUGH �㺺 13-31:extended centerline 1 left base
-Runways:ZUGH �㺺 13-31:extended centerline 1 left ticks
-Runways:ZUGH �㺺 13-31:extended centerline 1 left vectoring
-Runways:ZUGH �㺺 13-31:extended centerline 1 right base
-Runways:ZUGH �㺺 13-31:extended centerline 1 right ticks
-Runways:ZUGH �㺺 13-31:extended centerline 1 right vectoring
-Runways:ZUGH �㺺 13-31:extended centerline 2
-Runways:ZUGH �㺺 13-31:extended centerline 2 left base
-Runways:ZUGH �㺺 13-31:extended centerline 2 left ticks
-Runways:ZUGH �㺺 13-31:extended centerline 2 left vectoring
-Runways:ZUGH �㺺 13-31:extended centerline 2 right base
-Runways:ZUGH �㺺 13-31:extended centerline 2 right ticks
-Runways:ZUGH �㺺 13-31:extended centerline 2 right vectoring
+Runways:ZUGH 广汉 13-31:centerline
+Runways:ZUGH 广汉 13-31:extended centerline 1
+Runways:ZUGH 广汉 13-31:extended centerline 1 left base
+Runways:ZUGH 广汉 13-31:extended centerline 1 left ticks
+Runways:ZUGH 广汉 13-31:extended centerline 1 left vectoring
+Runways:ZUGH 广汉 13-31:extended centerline 1 right base
+Runways:ZUGH 广汉 13-31:extended centerline 1 right ticks
+Runways:ZUGH 广汉 13-31:extended centerline 1 right vectoring
+Runways:ZUGH 广汉 13-31:extended centerline 2
+Runways:ZUGH 广汉 13-31:extended centerline 2 left base
+Runways:ZUGH 广汉 13-31:extended centerline 2 left ticks
+Runways:ZUGH 广汉 13-31:extended centerline 2 left vectoring
+Runways:ZUGH 广汉 13-31:extended centerline 2 right base
+Runways:ZUGH 广汉 13-31:extended centerline 2 right ticks
+Runways:ZUGH 广汉 13-31:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

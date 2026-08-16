@@ -8,21 +8,21 @@ Airports:ZWFY:name
 VORs:XFY:symbol
 VORs:XFY:name
 Geo:ZWFY:
-Runways:ZWFY 富蕴/可可托海 30-12:centerline
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 1
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 1 left base
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 1 left ticks
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 1 left vectoring
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 1 right base
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 1 right ticks
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 1 right vectoring
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 2
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 2 left base
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 2 left ticks
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 2 left vectoring
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 2 right base
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 2 right ticks
-Runways:ZWFY 富蕴/可可托海 30-12:extended centerline 2 right vectoring
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:centerline
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 1
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 1 left base
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 1 left ticks
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 1 left vectoring
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 1 right base
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 1 right ticks
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 1 right vectoring
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 2
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 2 left base
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 2 left ticks
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 2 left vectoring
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 2 right base
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 2 right ticks
+Runways:ZWFY 瀵岃暣/鍙彲鎵樻捣 30-12:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

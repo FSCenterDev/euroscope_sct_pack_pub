@@ -5,24 +5,36 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZYJM:symbol
 Airports:ZYJM:name
+Fixes:40VOR:symbol
+Fixes:40VOR:name
+Fixes:42DME:symbol
+Fixes:42DME:name
+Fixes:JM405:symbol
+Fixes:JM405:name
+Fixes:JM511:symbol
+Fixes:JM511:name
+Fixes:MD06:symbol
+Fixes:MD06:name
+Fixes:MD24:symbol
+Fixes:MD24:name
 VORs:JMU:symbol
 VORs:JMU:name
 Geo:ZYJM:
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:centerline
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 1
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 1 left base
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 1 left ticks
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 1 left vectoring
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 1 right base
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 1 right ticks
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 1 right vectoring
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 2
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 2 left base
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 2 left ticks
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 2 left vectoring
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 2 right base
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 2 right ticks
-Runways:ZYJM ��ľ˹/�ɽ� 24-06:extended centerline 2 right vectoring
+Runways:ZYJM 佳木斯/松江 24-06:centerline
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1 left base
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1 left ticks
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1 left vectoring
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1 right base
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1 right ticks
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 1 right vectoring
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2 left base
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2 left ticks
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2 left vectoring
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2 right base
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2 right ticks
+Runways:ZYJM 佳木斯/松江 24-06:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

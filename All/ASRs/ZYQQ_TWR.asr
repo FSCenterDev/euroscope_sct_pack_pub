@@ -5,24 +5,42 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZYQQ:symbol
 Airports:ZYQQ:name
+Fixes:D169F:symbol
+Fixes:D169F:name
+Fixes:FD17L:symbol
+Fixes:FD17L:name
+Fixes:FD35R:symbol
+Fixes:FD35R:name
+Fixes:FI17L:symbol
+Fixes:FI17L:name
+Fixes:MD17L:symbol
+Fixes:MD17L:name
+Fixes:MD35R:symbol
+Fixes:MD35R:name
+Fixes:QQ405:symbol
+Fixes:QQ405:name
+Fixes:QQ570:symbol
+Fixes:QQ570:name
+Fixes:QQ670:symbol
+Fixes:QQ670:name
 VORs:NDG:symbol
 VORs:NDG:name
 Geo:ZYQQ:
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:centerline
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 1
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 1 left base
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 1 left ticks
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 1 left vectoring
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 1 right base
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 1 right ticks
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 1 right vectoring
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 2
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 2 left base
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 2 left ticks
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 2 left vectoring
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 2 right base
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 2 right ticks
-Runways:ZYQQ ÆëÆë¹ş¶û/Èı¼Ò×Ó 35R-17L:extended centerline 2 right vectoring
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:centerline
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 1
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 1 left base
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 1 left ticks
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 1 left vectoring
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 1 right base
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 1 right ticks
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 1 right vectoring
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 2
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 2 left base
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 2 left ticks
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 2 left vectoring
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 2 right base
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 2 right ticks
+Runways:ZYQQ é½é½å“ˆå°”/ä¸‰å®¶å­ 35R-17L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

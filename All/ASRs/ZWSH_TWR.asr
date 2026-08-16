@@ -5,24 +5,32 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZWSH:symbol
 Airports:ZWSH:name
+Fixes:44VOR:symbol
+Fixes:44VOR:name
+Fixes:MD08:symbol
+Fixes:MD08:name
+Fixes:MD26:symbol
+Fixes:MD26:name
+Fixes:SH808:symbol
+Fixes:SH808:name
 VORs:KHG:symbol
 VORs:KHG:name
 Geo:ZWSH:
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:centerline
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 1
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 1 left base
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 1 left ticks
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 1 left vectoring
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 1 right base
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 1 right ticks
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 1 right vectoring
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 2
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 2 left base
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 2 left ticks
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 2 left vectoring
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 2 right base
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 2 right ticks
-Runways:ZWSH ¿¦Ê²/áâÄş 26-08:extended centerline 2 right vectoring
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:centerline
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 1
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 1 left base
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 1 left ticks
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 1 left vectoring
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 1 right base
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 1 right ticks
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 1 right vectoring
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 2
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 2 left base
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 2 left ticks
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 2 left vectoring
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 2 right base
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 2 right ticks
+Runways:ZWSH å–€ä»€/å¾•å® 26-08:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

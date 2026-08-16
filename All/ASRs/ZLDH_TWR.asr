@@ -5,26 +5,32 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZLDH:symbol
 Airports:ZLDH:name
+Fixes:FD08:symbol
+Fixes:FD08:name
+Fixes:FI08:symbol
+Fixes:FI08:name
 Fixes:KARVI:symbol
 Fixes:KARVI:name
+Fixes:MD08:symbol
+Fixes:MD08:name
 VORs:DNH:symbol
 VORs:DNH:name
 Geo:ZLDH:
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:centerline
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1 left base
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1 left ticks
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1 left vectoring
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1 right base
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1 right ticks
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 1 right vectoring
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2 left base
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2 left ticks
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2 left vectoring
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2 right base
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2 right ticks
-Runways:ZLDH ¶Ø»Í/Äª¸ß 08-26:extended centerline 2 right vectoring
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:centerline
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 1
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 1 left base
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 1 left ticks
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 1 left vectoring
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 1 right base
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 1 right ticks
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 1 right vectoring
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 2
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 2 left base
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 2 left ticks
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 2 left vectoring
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 2 right base
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 2 right ticks
+Runways:ZLDH æ•¦ç…Œ/èŽ«é«˜ 08-26:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

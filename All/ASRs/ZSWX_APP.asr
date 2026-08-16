@@ -5,10 +5,76 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSWX:symbol
 Airports:ZSWX:name
+Fixes:30VOR:symbol
+Fixes:30VOR:name
+Fixes:A:symbol
+Fixes:A:name
+Fixes:B:symbol
+Fixes:B:name
+Fixes:CD03:symbol
+Fixes:CD03:name
+Fixes:CD21:symbol
+Fixes:CD21:name
+Fixes:CI03Y:symbol
+Fixes:CI03Y:name
+Fixes:CI21Y:symbol
+Fixes:CI21Y:name
+Fixes:D016J:symbol
+Fixes:D016J:name
+Fixes:D025D:symbol
+Fixes:D025D:name
+Fixes:D025G:symbol
+Fixes:D025G:name
+Fixes:D040J:symbol
+Fixes:D040J:name
+Fixes:D044J:symbol
+Fixes:D044J:name
+Fixes:D205F:symbol
+Fixes:D205F:name
+Fixes:D224J:symbol
+Fixes:D224J:name
+Fixes:D228J:symbol
+Fixes:D228J:name
+Fixes:D319D:symbol
+Fixes:D319D:name
+Fixes:FD03:symbol
+Fixes:FD03:name
+Fixes:FD21:symbol
+Fixes:FD21:name
+Fixes:FI03:symbol
+Fixes:FI03:name
+Fixes:FI21:symbol
+Fixes:FI21:name
+Fixes:MD03:symbol
+Fixes:MD03:name
+Fixes:MD21:symbol
+Fixes:MD21:name
 Fixes:SASAN:symbol
 Fixes:SASAN:name
 Fixes:TEPAG:symbol
 Fixes:TEPAG:name
+Fixes:WX203:symbol
+Fixes:WX203:name
+Fixes:WX204:symbol
+Fixes:WX204:name
+Fixes:WX205:symbol
+Fixes:WX205:name
+Fixes:WX206:symbol
+Fixes:WX206:name
+Fixes:WX210:symbol
+Fixes:WX210:name
+Fixes:WX211:symbol
+Fixes:WX211:name
+Fixes:WX303:symbol
+Fixes:WX303:name
+Fixes:WX304:symbol
+Fixes:WX304:name
+Fixes:WX306:symbol
+Fixes:WX306:name
+Fixes:WX307:symbol
+Fixes:WX307:name
+Fixes:WX309:symbol
+Fixes:WX309:name
 VORs:SUF:symbol
 VORs:SUF:name
 High airways:A593:line
@@ -21,21 +87,21 @@ High airways:X74:line
 High airways:X74/V16:line
 High airways:X86:line
 Geo:ZSWX:
-Runways:ZSWX 无锡/硕放 03-21:centerline
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 left base
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 left ticks
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 left vectoring
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 right base
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 right ticks
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 right vectoring
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 left base
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 left ticks
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 left vectoring
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 right base
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 right ticks
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 right vectoring
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:centerline
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1 left base
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1 left ticks
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1 left vectoring
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1 right base
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1 right ticks
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1 right vectoring
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2 left base
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2 left ticks
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2 left vectoring
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2 right base
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2 right ticks
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

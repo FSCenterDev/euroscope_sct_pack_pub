@@ -6,21 +6,21 @@ SECTORTITLE:
 Airports:ZSJU:symbol
 Airports:ZSJU:name
 Geo:ZSJU:
-Runways:ZSJU ·È÷› 24-06:centerline
-Runways:ZSJU ·È÷› 24-06:extended centerline 1
-Runways:ZSJU ·È÷› 24-06:extended centerline 1 left base
-Runways:ZSJU ·È÷› 24-06:extended centerline 1 left ticks
-Runways:ZSJU ·È÷› 24-06:extended centerline 1 left vectoring
-Runways:ZSJU ·È÷› 24-06:extended centerline 1 right base
-Runways:ZSJU ·È÷› 24-06:extended centerline 1 right ticks
-Runways:ZSJU ·È÷› 24-06:extended centerline 1 right vectoring
-Runways:ZSJU ·È÷› 24-06:extended centerline 2
-Runways:ZSJU ·È÷› 24-06:extended centerline 2 left base
-Runways:ZSJU ·È÷› 24-06:extended centerline 2 left ticks
-Runways:ZSJU ·È÷› 24-06:extended centerline 2 left vectoring
-Runways:ZSJU ·È÷› 24-06:extended centerline 2 right base
-Runways:ZSJU ·È÷› 24-06:extended centerline 2 right ticks
-Runways:ZSJU ·È÷› 24-06:extended centerline 2 right vectoring
+Runways:ZSJU Ë°¢Â∑û 24-06:centerline
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 1
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 1 left base
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 1 left ticks
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 1 left vectoring
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 1 right base
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 1 right ticks
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 1 right vectoring
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 2
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 2 left base
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 2 left ticks
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 2 left vectoring
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 2 right base
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 2 right ticks
+Runways:ZSJU Ë°¢Â∑û 24-06:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

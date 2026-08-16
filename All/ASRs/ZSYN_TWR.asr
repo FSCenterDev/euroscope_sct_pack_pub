@@ -5,24 +5,58 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSYN:symbol
 Airports:ZSYN:name
+Fixes:26VOR:symbol
+Fixes:26VOR:name
+Fixes:40VOR:symbol
+Fixes:40VOR:name
+Fixes:D257E:symbol
+Fixes:D257E:name
+Fixes:D297F:symbol
+Fixes:D297F:name
+Fixes:FD04:symbol
+Fixes:FD04:name
+Fixes:FD22:symbol
+Fixes:FD22:name
+Fixes:FI04:symbol
+Fixes:FI04:name
+Fixes:FI22:symbol
+Fixes:FI22:name
+Fixes:MD04:symbol
+Fixes:MD04:name
+Fixes:MD22:symbol
+Fixes:MD22:name
+Fixes:YN106:symbol
+Fixes:YN106:name
+Fixes:YN107:symbol
+Fixes:YN107:name
+Fixes:YN109:symbol
+Fixes:YN109:name
+Fixes:YN205:symbol
+Fixes:YN205:name
+Fixes:YN300:symbol
+Fixes:YN300:name
+Fixes:YN301:symbol
+Fixes:YN301:name
+Fixes:YN302:symbol
+Fixes:YN302:name
 VORs:YCH:symbol
 VORs:YCH:name
 Geo:ZSYN:
-Runways:ZSYN 盐城/南洋 04-22:centerline
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 1
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 1 left base
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 1 left ticks
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 1 left vectoring
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 1 right base
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 1 right ticks
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 1 right vectoring
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 2
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 2 left base
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 2 left ticks
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 2 left vectoring
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 2 right base
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 2 right ticks
-Runways:ZSYN 盐城/南洋 04-22:extended centerline 2 right vectoring
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:centerline
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 1
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 1 left base
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 1 left ticks
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 1 left vectoring
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 1 right base
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 1 right ticks
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 1 right vectoring
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 2
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 2 left base
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 2 left ticks
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 2 left vectoring
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 2 right base
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 2 right ticks
+Runways:ZSYN 鐩愬煄/鍗楁磱 04-22:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

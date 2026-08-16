@@ -5,41 +5,77 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZGHA:symbol
 Airports:ZGHA:name
+Fixes:D001I:symbol
+Fixes:D001I:name
+Fixes:D001L:symbol
+Fixes:D001L:name
+Fixes:D001N:symbol
+Fixes:D001N:name
+Fixes:D183J:symbol
+Fixes:D183J:name
+Fixes:D217I:symbol
+Fixes:D217I:name
+Fixes:FI18L:symbol
+Fixes:FI18L:name
+Fixes:FI18R:symbol
+Fixes:FI18R:name
+Fixes:FI36L:symbol
+Fixes:FI36L:name
+Fixes:FI36R:symbol
+Fixes:FI36R:name
+Fixes:HA301:symbol
+Fixes:HA301:name
+Fixes:HA305:symbol
+Fixes:HA305:name
+Fixes:HA321:symbol
+Fixes:HA321:name
+Fixes:HA341:symbol
+Fixes:HA341:name
+Fixes:HA342:symbol
+Fixes:HA342:name
+Fixes:HA351:symbol
+Fixes:HA351:name
+Fixes:HA352:symbol
+Fixes:HA352:name
+Fixes:HA353:symbol
+Fixes:HA353:name
+Fixes:HA380:symbol
+Fixes:HA380:name
 NDBs:SV:symbol
 NDBs:SV:name
 NDBs:W:symbol
 NDBs:W:name
 Geo:ZGHA:
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:centerline
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1 left base
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1 left ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1 left vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1 right base
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1 right ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1 right vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2 left base
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2 left ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2 left vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2 right base
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2 right ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2 right vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:centerline
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1 left base
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1 left ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1 left vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1 right base
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1 right ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1 right vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2 left base
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2 left ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2 left vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2 right base
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2 right ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2 right vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:centerline
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1 left base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1 left ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1 left vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1 right base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1 right ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1 right vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2 left base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2 left ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2 left vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2 right base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2 right ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2 right vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:centerline
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1 left base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1 left ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1 left vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1 right base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1 right ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1 right vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2 left base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2 left ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2 left vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2 right base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2 right ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

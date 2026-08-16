@@ -8,21 +8,21 @@ Airports:ZLYS:name
 VORs:YUS:symbol
 VORs:YUS:name
 Geo:ZLYS:
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:centerline
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 1
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 1 left base
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 1 left ticks
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 1 left vectoring
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 1 right base
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 1 right ticks
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 1 right vectoring
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 2
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 2 left base
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 2 left ticks
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 2 left vectoring
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 2 right base
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 2 right ticks
-Runways:ZLYS ÓñÊ÷/°ÍÌÁ 10-28:extended centerline 2 right vectoring
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:centerline
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 1
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 1 left base
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 1 left ticks
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 1 left vectoring
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 1 right base
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 1 right ticks
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 1 right vectoring
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 2
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 2 left base
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 2 left ticks
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 2 left vectoring
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 2 right base
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 2 right ticks
+Runways:ZLYS ç‰æ ‘/å·´å¡˜ 10-28:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

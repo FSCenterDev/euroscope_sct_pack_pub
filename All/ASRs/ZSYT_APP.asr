@@ -5,6 +5,38 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSYT:symbol
 Airports:ZSYT:name
+Fixes:55VOR:symbol
+Fixes:55VOR:name
+Fixes:86VOR:symbol
+Fixes:86VOR:name
+Fixes:CF23:symbol
+Fixes:CF23:name
+Fixes:D051G:symbol
+Fixes:D051G:name
+Fixes:D076R:symbol
+Fixes:D076R:name
+Fixes:D076W:symbol
+Fixes:D076W:name
+Fixes:D196G:symbol
+Fixes:D196G:name
+Fixes:D343K:symbol
+Fixes:D343K:name
+Fixes:FF05:symbol
+Fixes:FF05:name
+Fixes:FF23:symbol
+Fixes:FF23:name
+Fixes:MD05:symbol
+Fixes:MD05:name
+Fixes:PL234:symbol
+Fixes:PL234:name
+Fixes:PL238:symbol
+Fixes:PL238:name
+Fixes:PL239:symbol
+Fixes:PL239:name
+Fixes:PL252:symbol
+Fixes:PL252:name
+Fixes:PL254:symbol
+Fixes:PL254:name
 Fixes:TEKAM:symbol
 Fixes:TEKAM:name
 VORs:YCS:symbol
@@ -19,21 +51,21 @@ High airways:W589:line
 High airways:W590:line
 High airways:W652:line
 Geo:ZSYT:
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:centerline
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 left base
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 left ticks
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 left vectoring
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 right base
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 right ticks
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 1 right vectoring
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 left base
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 left ticks
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 left vectoring
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 right base
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 right ticks
-Runways:ZSYT ÑÌÌ¨/ÅîÀ³ 05-23:extended centerline 2 right vectoring
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:centerline
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1 left base
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1 left ticks
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1 left vectoring
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1 right base
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1 right ticks
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 1 right vectoring
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2 left base
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2 left ticks
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2 left vectoring
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2 right base
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2 right ticks
+Runways:ZSYT çƒŸå°/è“¬è± 05-23:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

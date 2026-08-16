@@ -5,39 +5,65 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZBYN:symbol
 Airports:ZBYN:name
+Fixes:49VO1:symbol
+Fixes:49VO1:name
+Fixes:49VO2:symbol
+Fixes:49VO2:name
+Fixes:D065E:symbol
+Fixes:D065E:name
+Fixes:FD31L:symbol
+Fixes:FD31L:name
+Fixes:FD31R:symbol
+Fixes:FD31R:name
+Fixes:MD13L:symbol
+Fixes:MD13L:name
+Fixes:MD13R:symbol
+Fixes:MD13R:name
+Fixes:MD31L:symbol
+Fixes:MD31L:name
+Fixes:MD31R:symbol
+Fixes:MD31R:name
 Fixes:OVKOM:symbol
 Fixes:OVKOM:name
+Fixes:YN506:symbol
+Fixes:YN506:name
+Fixes:YN519:symbol
+Fixes:YN519:name
+Fixes:YN709:symbol
+Fixes:YN709:name
+Fixes:YN722:symbol
+Fixes:YN722:name
 Geo:ZBYN:
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:centerline
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 1
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 1 left base
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 1 left ticks
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 1 left vectoring
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 1 right base
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 1 right ticks
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 1 right vectoring
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 2
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 2 left base
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 2 left ticks
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 2 left vectoring
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 2 right base
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 2 right ticks
-Runways:ZBYN Ì«Ô­/ÎäËŞ 13L-31R:extended centerline 2 right vectoring
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:centerline
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 1
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 1 left base
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 1 left ticks
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 1 left vectoring
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 1 right base
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 1 right ticks
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 1 right vectoring
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 2
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 2 left base
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 2 left ticks
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 2 left vectoring
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 2 right base
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 2 right ticks
-Runways:ZBYN Ì«Ô­/ÎäËŞ 31L-13R:extended centerline 2 right vectoring
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:centerline
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 1
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 1 left base
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 1 left ticks
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 1 left vectoring
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 1 right base
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 1 right ticks
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 1 right vectoring
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 2
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 2 left base
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 2 left ticks
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 2 left vectoring
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 2 right base
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 2 right ticks
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 13L-31R:extended centerline 2 right vectoring
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:centerline
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 1
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 1 left base
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 1 left ticks
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 1 left vectoring
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 1 right base
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 1 right ticks
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 1 right vectoring
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 2
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 2 left base
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 2 left ticks
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 2 left vectoring
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 2 right base
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 2 right ticks
+Runways:ZBYN å¤ªåŸ/æ­¦å®¿ 31L-13R:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

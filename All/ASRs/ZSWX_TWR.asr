@@ -5,26 +5,54 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSWX:symbol
 Airports:ZSWX:name
+Fixes:30VOR:symbol
+Fixes:30VOR:name
+Fixes:D025D:symbol
+Fixes:D025D:name
+Fixes:D025G:symbol
+Fixes:D025G:name
+Fixes:D205F:symbol
+Fixes:D205F:name
+Fixes:D319D:symbol
+Fixes:D319D:name
+Fixes:FD03:symbol
+Fixes:FD03:name
+Fixes:FD21:symbol
+Fixes:FD21:name
+Fixes:FI03:symbol
+Fixes:FI03:name
+Fixes:FI21:symbol
+Fixes:FI21:name
+Fixes:MD03:symbol
+Fixes:MD03:name
+Fixes:MD21:symbol
+Fixes:MD21:name
 Fixes:TEPAG:symbol
 Fixes:TEPAG:name
+Fixes:WX205:symbol
+Fixes:WX205:name
+Fixes:WX206:symbol
+Fixes:WX206:name
+Fixes:WX211:symbol
+Fixes:WX211:name
 VORs:SUF:symbol
 VORs:SUF:name
 Geo:ZSWX:
-Runways:ZSWX 无锡/硕放 03-21:centerline
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 left base
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 left ticks
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 left vectoring
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 right base
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 right ticks
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 1 right vectoring
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 left base
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 left ticks
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 left vectoring
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 right base
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 right ticks
-Runways:ZSWX 无锡/硕放 03-21:extended centerline 2 right vectoring
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:centerline
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1 left base
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1 left ticks
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1 left vectoring
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1 right base
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1 right ticks
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 1 right vectoring
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2 left base
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2 left ticks
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2 left vectoring
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2 right base
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2 right ticks
+Runways:ZSWX 鏃犻敗/纭曟斁 03-21:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

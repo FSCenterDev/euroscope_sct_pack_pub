@@ -5,54 +5,74 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZWWW:symbol
 Airports:ZWWW:name
+Fixes:D350G:symbol
+Fixes:D350G:name
+Fixes:IGBAV:symbol
+Fixes:IGBAV:name
+Fixes:WW410:symbol
+Fixes:WW410:name
+Fixes:WW413:symbol
+Fixes:WW413:name
+Fixes:WW414:symbol
+Fixes:WW414:name
+Fixes:WW510:symbol
+Fixes:WW510:name
+Fixes:WW555:symbol
+Fixes:WW555:name
+Fixes:WW601:symbol
+Fixes:WW601:name
+Fixes:WW633:symbol
+Fixes:WW633:name
+Fixes:WW773:symbol
+Fixes:WW773:name
 VORs:WUR:symbol
 VORs:WUR:name
 Geo:ZWWW:
-Runways:ZWWW 乌鲁木齐/天山 07-25:centerline
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 1
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 1 left base
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 1 left ticks
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 1 left vectoring
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 1 right base
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 1 right ticks
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 1 right vectoring
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 2
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 2 left base
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 2 left ticks
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 2 left vectoring
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 2 right base
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 2 right ticks
-Runways:ZWWW 乌鲁木齐/天山 07-25:extended centerline 2 right vectoring
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:centerline
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 1
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 1 left base
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 1 left ticks
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 1 left vectoring
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 1 right base
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 1 right ticks
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 1 right vectoring
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 2
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 2 left base
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 2 left ticks
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 2 left vectoring
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 2 right base
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 2 right ticks
-Runways:ZWWW 乌鲁木齐/天山 08R-26L:extended centerline 2 right vectoring
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:centerline
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 1
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 1 left base
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 1 left ticks
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 1 left vectoring
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 1 right base
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 1 right ticks
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 1 right vectoring
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 2
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 2 left base
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 2 left ticks
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 2 left vectoring
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 2 right base
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 2 right ticks
-Runways:ZWWW 乌鲁木齐/天山 26R-08L:extended centerline 2 right vectoring
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:centerline
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 1
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 1 left base
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 1 left ticks
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 1 left vectoring
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 1 right base
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 1 right ticks
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 1 right vectoring
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 2
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 2 left base
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 2 left ticks
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 2 left vectoring
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 2 right base
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 2 right ticks
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 07-25:extended centerline 2 right vectoring
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:centerline
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 1
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 1 left base
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 1 left ticks
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 1 left vectoring
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 1 right base
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 1 right ticks
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 1 right vectoring
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 2
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 2 left base
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 2 left ticks
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 2 left vectoring
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 2 right base
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 2 right ticks
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 08R-26L:extended centerline 2 right vectoring
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:centerline
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 1
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 1 left base
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 1 left ticks
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 1 left vectoring
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 1 right base
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 1 right ticks
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 1 right vectoring
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 2
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 2 left base
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 2 left ticks
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 2 left vectoring
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 2 right base
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 2 right ticks
+Runways:ZWWW 涔岄瞾鏈ㄩ綈/澶╁北 26R-08L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

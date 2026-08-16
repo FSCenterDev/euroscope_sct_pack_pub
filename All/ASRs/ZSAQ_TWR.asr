@@ -8,21 +8,21 @@ Airports:ZSAQ:name
 NDBs:PA:symbol
 NDBs:PA:name
 Geo:ZSAQ:
-Runways:ZSAQ °²Çì 24-06:centerline
-Runways:ZSAQ °²Çì 24-06:extended centerline 1
-Runways:ZSAQ °²Çì 24-06:extended centerline 1 left base
-Runways:ZSAQ °²Çì 24-06:extended centerline 1 left ticks
-Runways:ZSAQ °²Çì 24-06:extended centerline 1 left vectoring
-Runways:ZSAQ °²Çì 24-06:extended centerline 1 right base
-Runways:ZSAQ °²Çì 24-06:extended centerline 1 right ticks
-Runways:ZSAQ °²Çì 24-06:extended centerline 1 right vectoring
-Runways:ZSAQ °²Çì 24-06:extended centerline 2
-Runways:ZSAQ °²Çì 24-06:extended centerline 2 left base
-Runways:ZSAQ °²Çì 24-06:extended centerline 2 left ticks
-Runways:ZSAQ °²Çì 24-06:extended centerline 2 left vectoring
-Runways:ZSAQ °²Çì 24-06:extended centerline 2 right base
-Runways:ZSAQ °²Çì 24-06:extended centerline 2 right ticks
-Runways:ZSAQ °²Çì 24-06:extended centerline 2 right vectoring
+Runways:ZSAQ å®‰åº† 24-06:centerline
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 1
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 1 left base
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 1 left ticks
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 1 left vectoring
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 1 right base
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 1 right ticks
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 1 right vectoring
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 2
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 2 left base
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 2 left ticks
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 2 left vectoring
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 2 right base
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 2 right ticks
+Runways:ZSAQ å®‰åº† 24-06:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

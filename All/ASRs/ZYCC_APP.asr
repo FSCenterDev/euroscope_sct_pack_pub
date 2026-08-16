@@ -5,10 +5,56 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZYCC:symbol
 Airports:ZYCC:name
+Fixes:40DME:symbol
+Fixes:40DME:name
+Fixes:CC410:symbol
+Fixes:CC410:name
 Fixes:CC411:symbol
 Fixes:CC411:name
+Fixes:CC503:symbol
+Fixes:CC503:name
+Fixes:CC507:symbol
+Fixes:CC507:name
+Fixes:CC508:symbol
+Fixes:CC508:name
+Fixes:CC509:symbol
+Fixes:CC509:name
+Fixes:CC510:symbol
+Fixes:CC510:name
+Fixes:CC562:symbol
+Fixes:CC562:name
+Fixes:CC568:symbol
+Fixes:CC568:name
+Fixes:CC602:symbol
+Fixes:CC602:name
+Fixes:CC603:symbol
+Fixes:CC603:name
+Fixes:CC609:symbol
+Fixes:CC609:name
+Fixes:CC610:symbol
+Fixes:CC610:name
+Fixes:CC651:symbol
+Fixes:CC651:name
+Fixes:CC652:symbol
+Fixes:CC652:name
+Fixes:CC653:symbol
+Fixes:CC653:name
+Fixes:CC654:symbol
+Fixes:CC654:name
+Fixes:CC657:symbol
+Fixes:CC657:name
+Fixes:CC658:symbol
+Fixes:CC658:name
+Fixes:CF06:symbol
+Fixes:CF06:name
+Fixes:CF24:symbol
+Fixes:CF24:name
+Fixes:D308C:symbol
+Fixes:D308C:name
 Fixes:ENPEN:symbol
 Fixes:ENPEN:name
+Fixes:FF06:symbol
+Fixes:FF06:name
 Fixes:NIMEM:symbol
 Fixes:NIMEM:name
 Fixes:NULRA:symbol
@@ -22,21 +68,21 @@ High airways:W655:line
 High airways:W658:line
 High airways:W660:line
 Geo:ZYCC:
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:centerline
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1 left base
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1 left ticks
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1 left vectoring
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1 right base
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1 right ticks
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 1 right vectoring
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2 left base
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2 left ticks
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2 left vectoring
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2 right base
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2 right ticks
-Runways:ZYCC ³¤´º/Áú¼Î 06-24:extended centerline 2 right vectoring
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:centerline
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 1
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 1 left base
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 1 left ticks
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 1 left vectoring
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 1 right base
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 1 right ticks
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 1 right vectoring
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 2
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 2 left base
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 2 left ticks
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 2 left vectoring
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 2 right base
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 2 right ticks
+Runways:ZYCC é•¿æ˜¥/é¾™å˜‰ 06-24:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

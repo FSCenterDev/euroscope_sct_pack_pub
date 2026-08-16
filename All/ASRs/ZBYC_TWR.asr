@@ -5,26 +5,40 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZBYC:symbol
 Airports:ZBYC:name
+Fixes:FD08:symbol
+Fixes:FD08:name
+Fixes:FI08:symbol
+Fixes:FI08:name
 Fixes:PONAV:symbol
 Fixes:PONAV:name
+Fixes:YC609:symbol
+Fixes:YC609:name
+Fixes:YC611:symbol
+Fixes:YC611:name
+Fixes:YC806:symbol
+Fixes:YC806:name
+Fixes:YC809:symbol
+Fixes:YC809:name
+Fixes:YC851:symbol
+Fixes:YC851:name
 VORs:YCE:symbol
 VORs:YCE:name
 Geo:ZBYC:
-Runways:ZBYC 运城/盐湖 26-08:centerline
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 1
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 1 left base
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 1 left ticks
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 1 left vectoring
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 1 right base
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 1 right ticks
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 1 right vectoring
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 2
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 2 left base
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 2 left ticks
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 2 left vectoring
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 2 right base
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 2 right ticks
-Runways:ZBYC 运城/盐湖 26-08:extended centerline 2 right vectoring
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:centerline
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 1
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 1 left base
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 1 left ticks
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 1 left vectoring
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 1 right base
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 1 right ticks
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 1 right vectoring
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 2
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 2 left base
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 2 left ticks
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 2 left vectoring
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 2 right base
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 2 right ticks
+Runways:ZBYC 杩愬煄/鐩愭箹 26-08:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

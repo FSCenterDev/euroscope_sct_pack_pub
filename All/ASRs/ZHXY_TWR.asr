@@ -8,21 +8,21 @@ Airports:ZHXY:name
 VORs:DXM:symbol
 VORs:DXM:name
 Geo:ZHXY:
-Runways:ZHXY 信阳/明港 07-25:centerline
-Runways:ZHXY 信阳/明港 07-25:extended centerline 1
-Runways:ZHXY 信阳/明港 07-25:extended centerline 1 left base
-Runways:ZHXY 信阳/明港 07-25:extended centerline 1 left ticks
-Runways:ZHXY 信阳/明港 07-25:extended centerline 1 left vectoring
-Runways:ZHXY 信阳/明港 07-25:extended centerline 1 right base
-Runways:ZHXY 信阳/明港 07-25:extended centerline 1 right ticks
-Runways:ZHXY 信阳/明港 07-25:extended centerline 1 right vectoring
-Runways:ZHXY 信阳/明港 07-25:extended centerline 2
-Runways:ZHXY 信阳/明港 07-25:extended centerline 2 left base
-Runways:ZHXY 信阳/明港 07-25:extended centerline 2 left ticks
-Runways:ZHXY 信阳/明港 07-25:extended centerline 2 left vectoring
-Runways:ZHXY 信阳/明港 07-25:extended centerline 2 right base
-Runways:ZHXY 信阳/明港 07-25:extended centerline 2 right ticks
-Runways:ZHXY 信阳/明港 07-25:extended centerline 2 right vectoring
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:centerline
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 1
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 1 left base
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 1 left ticks
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 1 left vectoring
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 1 right base
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 1 right ticks
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 1 right vectoring
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 2
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 2 left base
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 2 left ticks
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 2 left vectoring
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 2 right base
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 2 right ticks
+Runways:ZHXY 淇￠槼/鏄庢腐 07-25:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

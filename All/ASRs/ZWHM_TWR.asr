@@ -8,21 +8,21 @@ Airports:ZWHM:name
 VORs:HAM:symbol
 VORs:HAM:name
 Geo:ZWHM:
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:centerline
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 1
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 1 left base
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 1 left ticks
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 1 left vectoring
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 1 right base
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 1 right ticks
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 1 right vectoring
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 2
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 2 left base
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 2 left ticks
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 2 left vectoring
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 2 right base
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 2 right ticks
-Runways:ZWHM ¹şÃÜ/ÒÁÖİ 29-11:extended centerline 2 right vectoring
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:centerline
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 1
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 1 left base
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 1 left ticks
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 1 left vectoring
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 1 right base
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 1 right ticks
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 1 right vectoring
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 2
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 2 left base
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 2 left ticks
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 2 left vectoring
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 2 right base
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 2 right ticks
+Runways:ZWHM å“ˆå¯†/ä¼Šå· 29-11:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

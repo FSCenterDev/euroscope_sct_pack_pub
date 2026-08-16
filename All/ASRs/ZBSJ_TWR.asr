@@ -5,24 +5,60 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZBSJ:symbol
 Airports:ZBSJ:name
+Fixes:36VO2:symbol
+Fixes:36VO2:name
+Fixes:36VOR:symbol
+Fixes:36VOR:name
+Fixes:38VO2:symbol
+Fixes:38VO2:name
+Fixes:38VOR:symbol
+Fixes:38VOR:name
+Fixes:AP912:symbol
+Fixes:AP912:name
+Fixes:FD15:symbol
+Fixes:FD15:name
+Fixes:FD33:symbol
+Fixes:FD33:name
+Fixes:FF33:symbol
+Fixes:FF33:name
+Fixes:FI15:symbol
+Fixes:FI15:name
+Fixes:FI33:symbol
+Fixes:FI33:name
+Fixes:FQ15:symbol
+Fixes:FQ15:name
+Fixes:MA916:symbol
+Fixes:MA916:name
+Fixes:MA925:symbol
+Fixes:MA925:name
+Fixes:MA926:symbol
+Fixes:MA926:name
+Fixes:MD15:symbol
+Fixes:MD15:name
+Fixes:MD33:symbol
+Fixes:MD33:name
+Fixes:SJ912:symbol
+Fixes:SJ912:name
+Fixes:SJ913:symbol
+Fixes:SJ913:name
 VORs:SJW:symbol
 VORs:SJW:name
 Geo:ZBSJ:
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:centerline
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 1
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 1 left base
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 1 left ticks
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 1 left vectoring
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 1 right base
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 1 right ticks
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 1 right vectoring
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 2
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 2 left base
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 2 left ticks
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 2 left vectoring
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 2 right base
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 2 right ticks
-Runways:ZBSJ Ê¯¼Ò×¯/Õý¶¨ 15-33:extended centerline 2 right vectoring
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:centerline
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 1
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 1 left base
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 1 left ticks
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 1 left vectoring
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 1 right base
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 1 right ticks
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 1 right vectoring
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 2
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 2 left base
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 2 left ticks
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 2 left vectoring
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 2 right base
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 2 right ticks
+Runways:ZBSJ çŸ³å®¶åº„/æ­£å®š 15-33:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

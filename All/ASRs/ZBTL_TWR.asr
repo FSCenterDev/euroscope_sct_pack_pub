@@ -8,21 +8,21 @@ Airports:ZBTL:name
 VORs:TGO:symbol
 VORs:TGO:name
 Geo:ZBTL:
-Runways:ZBTL м╗аи 20-02:centerline
-Runways:ZBTL м╗аи 20-02:extended centerline 1
-Runways:ZBTL м╗аи 20-02:extended centerline 1 left base
-Runways:ZBTL м╗аи 20-02:extended centerline 1 left ticks
-Runways:ZBTL м╗аи 20-02:extended centerline 1 left vectoring
-Runways:ZBTL м╗аи 20-02:extended centerline 1 right base
-Runways:ZBTL м╗аи 20-02:extended centerline 1 right ticks
-Runways:ZBTL м╗аи 20-02:extended centerline 1 right vectoring
-Runways:ZBTL м╗аи 20-02:extended centerline 2
-Runways:ZBTL м╗аи 20-02:extended centerline 2 left base
-Runways:ZBTL м╗аи 20-02:extended centerline 2 left ticks
-Runways:ZBTL м╗аи 20-02:extended centerline 2 left vectoring
-Runways:ZBTL м╗аи 20-02:extended centerline 2 right base
-Runways:ZBTL м╗аи 20-02:extended centerline 2 right ticks
-Runways:ZBTL м╗аи 20-02:extended centerline 2 right vectoring
+Runways:ZBTL И─ Х╬╫ 20-02:centerline
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 1
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 1 left base
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 1 left ticks
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 1 left vectoring
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 1 right base
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 1 right ticks
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 1 right vectoring
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 2
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 2 left base
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 2 left ticks
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 2 left vectoring
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 2 right base
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 2 right ticks
+Runways:ZBTL И─ Х╬╫ 20-02:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

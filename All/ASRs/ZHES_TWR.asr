@@ -5,28 +5,52 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZHES:symbol
 Airports:ZHES:name
+Fixes:51VOR:symbol
+Fixes:51VOR:name
+Fixes:52VOR:symbol
+Fixes:52VOR:name
+Fixes:D030B:symbol
+Fixes:D030B:name
+Fixes:D030E:symbol
+Fixes:D030E:name
+Fixes:D030G:symbol
+Fixes:D030G:name
+Fixes:D189E:symbol
+Fixes:D189E:name
+Fixes:ES411:symbol
+Fixes:ES411:name
+Fixes:ES421:symbol
+Fixes:ES421:name
+Fixes:ES531:symbol
+Fixes:ES531:name
+Fixes:FI01:symbol
+Fixes:FI01:name
 Fixes:IGITA:symbol
 Fixes:IGITA:name
+Fixes:MD01:symbol
+Fixes:MD01:name
+Fixes:MD19:symbol
+Fixes:MD19:name
 Fixes:P239:symbol
 Fixes:P239:name
 VORs:ENH:symbol
 VORs:ENH:name
 Geo:ZHES:
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:centerline
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 1
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 1 left base
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 1 left ticks
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 1 left vectoring
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 1 right base
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 1 right ticks
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 1 right vectoring
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 2
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 2 left base
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 2 left ticks
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 2 left vectoring
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 2 right base
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 2 right ticks
-Runways:ZHES ¶÷Ê©/Ğí¼ÒÆº 01-19:extended centerline 2 right vectoring
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:centerline
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 1
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 1 left base
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 1 left ticks
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 1 left vectoring
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 1 right base
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 1 right ticks
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 1 right vectoring
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 2
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 2 left base
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 2 left ticks
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 2 left vectoring
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 2 right base
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 2 right ticks
+Runways:ZHES æ©æ–½/è®¸å®¶åª 01-19:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

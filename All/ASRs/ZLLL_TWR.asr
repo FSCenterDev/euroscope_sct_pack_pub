@@ -5,39 +5,53 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZLLL:symbol
 Airports:ZLLL:name
+Fixes:30VOR:symbol
+Fixes:30VOR:name
+Fixes:64VOR:symbol
+Fixes:64VOR:name
+Fixes:D360C:symbol
+Fixes:D360C:name
+Fixes:DER01:symbol
+Fixes:DER01:name
+Fixes:DER19:symbol
+Fixes:DER19:name
+Fixes:LL881:symbol
+Fixes:LL881:name
+Fixes:MD36L:symbol
+Fixes:MD36L:name
 VORs:DNC:symbol
 VORs:DNC:name
 Geo:ZLLL:
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:centerline
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 1
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 1 left base
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 1 left ticks
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 1 left vectoring
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 1 right base
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 1 right ticks
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 1 right vectoring
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 2
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 2 left base
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 2 left ticks
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 2 left vectoring
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 2 right base
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 2 right ticks
-Runways:ZLLL ¿º÷›/÷–¥® 01-19:extended centerline 2 right vectoring
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:centerline
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 1
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 1 left base
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 1 left ticks
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 1 left vectoring
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 1 right base
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 1 right ticks
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 1 right vectoring
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 2
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 2 left base
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 2 left ticks
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 2 left vectoring
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 2 right base
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 2 right ticks
-Runways:ZLLL ¿º÷›/÷–¥® 36R-18L:extended centerline 2 right vectoring
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:centerline
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 1
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 1 left base
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 1 left ticks
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 1 left vectoring
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 1 right base
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 1 right ticks
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 1 right vectoring
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 2
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 2 left base
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 2 left ticks
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 2 left vectoring
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 2 right base
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 2 right ticks
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 01-19:extended centerline 2 right vectoring
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:centerline
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 1
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 1 left base
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 1 left ticks
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 1 left vectoring
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 1 right base
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 1 right ticks
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 1 right vectoring
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 2
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 2 left base
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 2 left ticks
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 2 left vectoring
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 2 right base
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 2 right ticks
+Runways:ZLLL ÂÖ∞Â∑û/‰∏≠Â∑ù 36R-18L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

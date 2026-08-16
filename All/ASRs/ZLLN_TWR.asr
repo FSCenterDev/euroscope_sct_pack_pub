@@ -8,21 +8,21 @@ Airports:ZLLN:name
 VORs:DCX:symbol
 VORs:DCX:name
 Geo:ZLLN:
-Runways:ZLLN 陇南/成县 09-27:centerline
-Runways:ZLLN 陇南/成县 09-27:extended centerline 1
-Runways:ZLLN 陇南/成县 09-27:extended centerline 1 left base
-Runways:ZLLN 陇南/成县 09-27:extended centerline 1 left ticks
-Runways:ZLLN 陇南/成县 09-27:extended centerline 1 left vectoring
-Runways:ZLLN 陇南/成县 09-27:extended centerline 1 right base
-Runways:ZLLN 陇南/成县 09-27:extended centerline 1 right ticks
-Runways:ZLLN 陇南/成县 09-27:extended centerline 1 right vectoring
-Runways:ZLLN 陇南/成县 09-27:extended centerline 2
-Runways:ZLLN 陇南/成县 09-27:extended centerline 2 left base
-Runways:ZLLN 陇南/成县 09-27:extended centerline 2 left ticks
-Runways:ZLLN 陇南/成县 09-27:extended centerline 2 left vectoring
-Runways:ZLLN 陇南/成县 09-27:extended centerline 2 right base
-Runways:ZLLN 陇南/成县 09-27:extended centerline 2 right ticks
-Runways:ZLLN 陇南/成县 09-27:extended centerline 2 right vectoring
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:centerline
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 1
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 1 left base
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 1 left ticks
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 1 left vectoring
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 1 right base
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 1 right ticks
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 1 right vectoring
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 2
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 2 left base
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 2 left ticks
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 2 left vectoring
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 2 right base
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 2 right ticks
+Runways:ZLLN 闄囧崡/鎴愬幙 09-27:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

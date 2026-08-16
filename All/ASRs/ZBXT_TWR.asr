@@ -8,21 +8,21 @@ Airports:ZBXT:name
 VORs:XAX:symbol
 VORs:XAX:name
 Geo:ZBXT:
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:centerline
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 1
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 1 left base
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 1 left ticks
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 1 left vectoring
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 1 right base
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 1 right ticks
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 1 right vectoring
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 2
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 2 left base
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 2 left ticks
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 2 left vectoring
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 2 right base
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 2 right ticks
-Runways:ZBXT ĞÏÌ¨/ñ×ñÍ 35-17:extended centerline 2 right vectoring
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:centerline
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 1
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 1 left base
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 1 left ticks
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 1 left vectoring
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 1 right base
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 1 right ticks
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 1 right vectoring
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 2
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 2 left base
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 2 left ticks
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 2 left vectoring
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 2 right base
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 2 right ticks
+Runways:ZBXT é‚¢å°/è¤¡è£¢ 35-17:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

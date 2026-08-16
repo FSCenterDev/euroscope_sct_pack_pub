@@ -8,21 +8,21 @@ Airports:ZPJM:name
 VORs:DJM:symbol
 VORs:DJM:name
 Geo:ZPJM:
-Runways:ZPJM À½²×/¾°Âõ 30-12:centerline
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1 left base
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1 left ticks
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1 left vectoring
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1 right base
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1 right ticks
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1 right vectoring
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2 left base
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2 left ticks
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2 left vectoring
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2 right base
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2 right ticks
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2 right vectoring
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:centerline
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1 left base
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1 left ticks
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1 left vectoring
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1 right base
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1 right ticks
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1 right vectoring
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2 left base
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2 left ticks
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2 left vectoring
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2 right base
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2 right ticks
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -8,21 +8,21 @@ Airports:ZBUL:name
 VORs:HLH:symbol
 VORs:HLH:name
 Geo:ZBUL:
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:centerline
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1 left base
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1 left ticks
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1 left vectoring
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1 right base
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1 right ticks
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 1 right vectoring
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2 left base
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2 left ticks
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2 left vectoring
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2 right base
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2 right ticks
-Runways:ZBUL 乌兰浩特/义勒力特 14-32:extended centerline 2 right vectoring
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:centerline
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 1
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 1 left base
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 1 left ticks
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 1 left vectoring
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 1 right base
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 1 right ticks
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 1 right vectoring
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 2
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 2 left base
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 2 left ticks
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 2 left vectoring
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 2 right base
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 2 right ticks
+Runways:ZBUL 涔屽叞娴╃壒/涔夊嫆鍔涚壒 14-32:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

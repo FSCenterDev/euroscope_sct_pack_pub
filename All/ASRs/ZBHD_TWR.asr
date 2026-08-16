@@ -8,21 +8,21 @@ Airports:ZBHD:name
 VORs:HDH:symbol
 VORs:HDH:name
 Geo:ZBHD:
-Runways:ZBHD ºªµ¦ 23-05:centerline
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 1
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 1 left base
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 1 left ticks
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 1 left vectoring
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 1 right base
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 1 right ticks
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 1 right vectoring
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 2
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 2 left base
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 2 left ticks
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 2 left vectoring
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 2 right base
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 2 right ticks
-Runways:ZBHD ºªµ¦ 23-05:extended centerline 2 right vectoring
+Runways:ZBHD é‚¯éƒ¸ 23-05:centerline
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 1
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 1 left base
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 1 left ticks
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 1 left vectoring
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 1 right base
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 1 right ticks
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 1 right vectoring
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 2
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 2 left base
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 2 left ticks
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 2 left vectoring
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 2 right base
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 2 right ticks
+Runways:ZBHD é‚¯éƒ¸ 23-05:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

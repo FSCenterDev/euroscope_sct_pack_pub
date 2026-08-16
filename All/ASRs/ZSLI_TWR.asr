@@ -8,21 +8,21 @@ Airports:ZSLI:name
 VORs:LXU:symbol
 VORs:LXU:name
 Geo:ZSLI:
-Runways:ZSLI 丽水 24-06:centerline
-Runways:ZSLI 丽水 24-06:extended centerline 1
-Runways:ZSLI 丽水 24-06:extended centerline 1 left base
-Runways:ZSLI 丽水 24-06:extended centerline 1 left ticks
-Runways:ZSLI 丽水 24-06:extended centerline 1 left vectoring
-Runways:ZSLI 丽水 24-06:extended centerline 1 right base
-Runways:ZSLI 丽水 24-06:extended centerline 1 right ticks
-Runways:ZSLI 丽水 24-06:extended centerline 1 right vectoring
-Runways:ZSLI 丽水 24-06:extended centerline 2
-Runways:ZSLI 丽水 24-06:extended centerline 2 left base
-Runways:ZSLI 丽水 24-06:extended centerline 2 left ticks
-Runways:ZSLI 丽水 24-06:extended centerline 2 left vectoring
-Runways:ZSLI 丽水 24-06:extended centerline 2 right base
-Runways:ZSLI 丽水 24-06:extended centerline 2 right ticks
-Runways:ZSLI 丽水 24-06:extended centerline 2 right vectoring
+Runways:ZSLI 涓芥按 24-06:centerline
+Runways:ZSLI 涓芥按 24-06:extended centerline 1
+Runways:ZSLI 涓芥按 24-06:extended centerline 1 left base
+Runways:ZSLI 涓芥按 24-06:extended centerline 1 left ticks
+Runways:ZSLI 涓芥按 24-06:extended centerline 1 left vectoring
+Runways:ZSLI 涓芥按 24-06:extended centerline 1 right base
+Runways:ZSLI 涓芥按 24-06:extended centerline 1 right ticks
+Runways:ZSLI 涓芥按 24-06:extended centerline 1 right vectoring
+Runways:ZSLI 涓芥按 24-06:extended centerline 2
+Runways:ZSLI 涓芥按 24-06:extended centerline 2 left base
+Runways:ZSLI 涓芥按 24-06:extended centerline 2 left ticks
+Runways:ZSLI 涓芥按 24-06:extended centerline 2 left vectoring
+Runways:ZSLI 涓芥按 24-06:extended centerline 2 right base
+Runways:ZSLI 涓芥按 24-06:extended centerline 2 right ticks
+Runways:ZSLI 涓芥按 24-06:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

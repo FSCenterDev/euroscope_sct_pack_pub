@@ -8,21 +8,21 @@ Airports:ZSFY:name
 VORs:FYG:symbol
 VORs:FYG:name
 Geo:ZSFY:
-Runways:ZSFY ¸·Ñô 21-03:centerline
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 1
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 1 left base
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 1 left ticks
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 1 left vectoring
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 1 right base
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 1 right ticks
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 1 right vectoring
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 2
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 2 left base
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 2 left ticks
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 2 left vectoring
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 2 right base
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 2 right ticks
-Runways:ZSFY ¸·Ñô 21-03:extended centerline 2 right vectoring
+Runways:ZSFY é˜œé˜³ 21-03:centerline
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 1
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 1 left base
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 1 left ticks
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 1 left vectoring
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 1 right base
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 1 right ticks
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 1 right vectoring
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 2
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 2 left base
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 2 left ticks
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 2 left vectoring
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 2 right base
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 2 right ticks
+Runways:ZSFY é˜œé˜³ 21-03:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

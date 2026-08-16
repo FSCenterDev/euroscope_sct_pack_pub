@@ -7,6 +7,42 @@ Airports:ZBHH:symbol
 Airports:ZBHH:name
 Fixes:BAXOD:symbol
 Fixes:BAXOD:name
+Fixes:CI08:symbol
+Fixes:CI08:name
+Fixes:D170M:symbol
+Fixes:D170M:name
+Fixes:FI08:symbol
+Fixes:FI08:name
+Fixes:FI08Y:symbol
+Fixes:FI08Y:name
+Fixes:FI26X:symbol
+Fixes:FI26X:name
+Fixes:HH403:symbol
+Fixes:HH403:name
+Fixes:HH501:symbol
+Fixes:HH501:name
+Fixes:HH502:symbol
+Fixes:HH502:name
+Fixes:HH609:symbol
+Fixes:HH609:name
+Fixes:HH610:symbol
+Fixes:HH610:name
+Fixes:HH611:symbol
+Fixes:HH611:name
+Fixes:HH617:symbol
+Fixes:HH617:name
+Fixes:HH618:symbol
+Fixes:HH618:name
+Fixes:HH710:symbol
+Fixes:HH710:name
+Fixes:HH719:symbol
+Fixes:HH719:name
+Fixes:HH720:symbol
+Fixes:HH720:name
+Fixes:HH721:symbol
+Fixes:HH721:name
+Fixes:HH722:symbol
+Fixes:HH722:name
 Fixes:P304:symbol
 Fixes:P304:name
 Fixes:PADSA:symbol
@@ -25,21 +61,21 @@ High airways:W561:line
 High airways:W69:line
 High airways:W84:line
 Geo:ZBHH:
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:centerline
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 1
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 1 left base
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 1 left ticks
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 1 left vectoring
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 1 right base
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 1 right ticks
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 1 right vectoring
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 2
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 2 left base
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 2 left ticks
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 2 left vectoring
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 2 right base
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 2 right ticks
-Runways:ZBHH ºôºÍºÆÌØ/°×Ëþ 08-26:extended centerline 2 right vectoring
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:centerline
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 1
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 1 left base
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 1 left ticks
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 1 left vectoring
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 1 right base
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 1 right ticks
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 1 right vectoring
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 2
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 2 left base
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 2 left ticks
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 2 left vectoring
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 2 right base
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 2 right ticks
+Runways:ZBHH å‘¼å’Œæµ©ç‰¹/ç™½å¡” 08-26:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

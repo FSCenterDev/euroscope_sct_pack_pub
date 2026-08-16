@@ -5,43 +5,125 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZJHK:symbol
 Airports:ZJHK:name
+Fixes:D089X:symbol
+Fixes:D089X:name
+Fixes:D164H:symbol
+Fixes:D164H:name
+Fixes:D218V:symbol
+Fixes:D218V:name
+Fixes:D257K:symbol
+Fixes:D257K:name
+Fixes:D257N:symbol
+Fixes:D257N:name
+Fixes:D257X:symbol
+Fixes:D257X:name
+Fixes:D260Q:symbol
+Fixes:D260Q:name
+Fixes:D272M:symbol
+Fixes:D272M:name
+Fixes:D272O:symbol
+Fixes:D272O:name
+Fixes:D272P:symbol
+Fixes:D272P:name
+Fixes:D272T:symbol
+Fixes:D272T:name
+Fixes:D272X:symbol
+Fixes:D272X:name
+Fixes:D323P:symbol
+Fixes:D323P:name
+Fixes:DER09:symbol
+Fixes:DER09:name
+Fixes:DER10:symbol
+Fixes:DER10:name
+Fixes:DER27:symbol
+Fixes:DER27:name
+Fixes:DER28:symbol
+Fixes:DER28:name
+Fixes:FI09:symbol
+Fixes:FI09:name
+Fixes:FI10:symbol
+Fixes:FI10:name
+Fixes:FI27:symbol
+Fixes:FI27:name
+Fixes:FI28:symbol
+Fixes:FI28:name
+Fixes:HK411:symbol
+Fixes:HK411:name
+Fixes:HK412:symbol
+Fixes:HK412:name
+Fixes:HK413:symbol
+Fixes:HK413:name
+Fixes:HK431:symbol
+Fixes:HK431:name
+Fixes:HK441:symbol
+Fixes:HK441:name
+Fixes:HK442:symbol
+Fixes:HK442:name
+Fixes:HK443:symbol
+Fixes:HK443:name
+Fixes:HK510:symbol
+Fixes:HK510:name
+Fixes:HK530:symbol
+Fixes:HK530:name
+Fixes:HK550:symbol
+Fixes:HK550:name
+Fixes:HK601:symbol
+Fixes:HK601:name
+Fixes:HK602:symbol
+Fixes:HK602:name
+Fixes:HK603:symbol
+Fixes:HK603:name
+Fixes:HK607:symbol
+Fixes:HK607:name
+Fixes:HK617:symbol
+Fixes:HK617:name
+Fixes:HK692:symbol
+Fixes:HK692:name
+Fixes:HK694:symbol
+Fixes:HK694:name
+Fixes:LH64:symbol
+Fixes:LH64:name
 Fixes:NUMKU:symbol
 Fixes:NUMKU:name
+Fixes:WC30A:symbol
+Fixes:WC30A:name
+Fixes:WC30B:symbol
+Fixes:WC30B:name
 High airways:W222:line
 High airways:W223:line
 High airways:X164:line
 High airways:X165:line
 Geo:ZJHK:
-Runways:ZJHK 海口/美兰 09-27:centerline
-Runways:ZJHK 海口/美兰 09-27:extended centerline 1
-Runways:ZJHK 海口/美兰 09-27:extended centerline 1 left base
-Runways:ZJHK 海口/美兰 09-27:extended centerline 1 left ticks
-Runways:ZJHK 海口/美兰 09-27:extended centerline 1 left vectoring
-Runways:ZJHK 海口/美兰 09-27:extended centerline 1 right base
-Runways:ZJHK 海口/美兰 09-27:extended centerline 1 right ticks
-Runways:ZJHK 海口/美兰 09-27:extended centerline 1 right vectoring
-Runways:ZJHK 海口/美兰 09-27:extended centerline 2
-Runways:ZJHK 海口/美兰 09-27:extended centerline 2 left base
-Runways:ZJHK 海口/美兰 09-27:extended centerline 2 left ticks
-Runways:ZJHK 海口/美兰 09-27:extended centerline 2 left vectoring
-Runways:ZJHK 海口/美兰 09-27:extended centerline 2 right base
-Runways:ZJHK 海口/美兰 09-27:extended centerline 2 right ticks
-Runways:ZJHK 海口/美兰 09-27:extended centerline 2 right vectoring
-Runways:ZJHK 海口/美兰 28-10:centerline
-Runways:ZJHK 海口/美兰 28-10:extended centerline 1
-Runways:ZJHK 海口/美兰 28-10:extended centerline 1 left base
-Runways:ZJHK 海口/美兰 28-10:extended centerline 1 left ticks
-Runways:ZJHK 海口/美兰 28-10:extended centerline 1 left vectoring
-Runways:ZJHK 海口/美兰 28-10:extended centerline 1 right base
-Runways:ZJHK 海口/美兰 28-10:extended centerline 1 right ticks
-Runways:ZJHK 海口/美兰 28-10:extended centerline 1 right vectoring
-Runways:ZJHK 海口/美兰 28-10:extended centerline 2
-Runways:ZJHK 海口/美兰 28-10:extended centerline 2 left base
-Runways:ZJHK 海口/美兰 28-10:extended centerline 2 left ticks
-Runways:ZJHK 海口/美兰 28-10:extended centerline 2 left vectoring
-Runways:ZJHK 海口/美兰 28-10:extended centerline 2 right base
-Runways:ZJHK 海口/美兰 28-10:extended centerline 2 right ticks
-Runways:ZJHK 海口/美兰 28-10:extended centerline 2 right vectoring
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:centerline
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 1
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 1 left base
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 1 left ticks
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 1 left vectoring
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 1 right base
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 1 right ticks
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 1 right vectoring
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 2
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 2 left base
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 2 left ticks
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 2 left vectoring
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 2 right base
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 2 right ticks
+Runways:ZJHK 娴峰彛/缇庡叞 09-27:extended centerline 2 right vectoring
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:centerline
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 1
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 1 left base
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 1 left ticks
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 1 left vectoring
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 1 right base
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 1 right ticks
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 1 right vectoring
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 2
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 2 left base
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 2 left ticks
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 2 left vectoring
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 2 right base
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 2 right ticks
+Runways:ZJHK 娴峰彛/缇庡叞 28-10:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

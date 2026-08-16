@@ -5,6 +5,58 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZJQH:symbol
 Airports:ZJQH:name
+Fixes:BA403:symbol
+Fixes:BA403:name
+Fixes:BA404:symbol
+Fixes:BA404:name
+Fixes:BA503:symbol
+Fixes:BA503:name
+Fixes:BA504:symbol
+Fixes:BA504:name
+Fixes:BA507:symbol
+Fixes:BA507:name
+Fixes:BA508:symbol
+Fixes:BA508:name
+Fixes:BA509:symbol
+Fixes:BA509:name
+Fixes:BA605:symbol
+Fixes:BA605:name
+Fixes:BA609:symbol
+Fixes:BA609:name
+Fixes:BA610:symbol
+Fixes:BA610:name
+Fixes:D153I:symbol
+Fixes:D153I:name
+Fixes:D153L:symbol
+Fixes:D153L:name
+Fixes:D160L:symbol
+Fixes:D160L:name
+Fixes:D180L:symbol
+Fixes:D180L:name
+Fixes:D272L:symbol
+Fixes:D272L:name
+Fixes:D324J:symbol
+Fixes:D324J:name
+Fixes:D333J:symbol
+Fixes:D333J:name
+Fixes:D333K:symbol
+Fixes:D333K:name
+Fixes:DB12A:symbol
+Fixes:DB12A:name
+Fixes:DB12B:symbol
+Fixes:DB12B:name
+Fixes:DB13A:symbol
+Fixes:DB13A:name
+Fixes:DB13B:symbol
+Fixes:DB13B:name
+Fixes:FD15:symbol
+Fixes:FD15:name
+Fixes:FF15:symbol
+Fixes:FF15:name
+Fixes:FF33:symbol
+Fixes:FF33:name
+Fixes:MD33:symbol
+Fixes:MD33:name
 VORs:DBA:symbol
 VORs:DBA:name
 High airways:W527:line
@@ -13,21 +65,21 @@ High airways:X163:line
 High airways:X166:line
 High airways:X297:line
 Geo:ZJQH:
-Runways:ZJQH Çíº£/²©÷¡ 33-15:centerline
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 1
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 1 left base
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 1 left ticks
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 1 left vectoring
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 1 right base
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 1 right ticks
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 1 right vectoring
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 2
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 2 left base
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 2 left ticks
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 2 left vectoring
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 2 right base
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 2 right ticks
-Runways:ZJQH Çíº£/²©÷¡ 33-15:extended centerline 2 right vectoring
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:centerline
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 1
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 1 left base
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 1 left ticks
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 1 left vectoring
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 1 right base
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 1 right ticks
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 1 right vectoring
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 2
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 2 left base
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 2 left ticks
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 2 left vectoring
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 2 right base
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 2 right ticks
+Runways:ZJQH ç¼æµ·/åšé³Œ 33-15:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

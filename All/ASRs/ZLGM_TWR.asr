@@ -8,21 +8,21 @@ Airports:ZLGM:name
 VORs:GRM:symbol
 VORs:GRM:name
 Geo:ZLGM:
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:centerline
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 1
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 1 left base
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 1 left ticks
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 1 left vectoring
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 1 right base
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 1 right ticks
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 1 right vectoring
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 2
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 2 left base
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 2 left ticks
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 2 left vectoring
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 2 right base
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 2 right ticks
-Runways:ZLGM ¸ñ¶ûÄ¾ 09-27:extended centerline 2 right vectoring
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:centerline
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 1
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 1 left base
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 1 left ticks
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 1 left vectoring
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 1 right base
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 1 right ticks
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 1 right vectoring
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 2
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 2 left base
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 2 left ticks
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 2 left vectoring
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 2 right base
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 2 right ticks
+Runways:ZLGM æ ¼å°”æœ¨ 09-27:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -5,22 +5,26 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSCG:symbol
 Airports:ZSCG:name
+Fixes:MD11:symbol
+Fixes:MD11:name
+Fixes:MD29:symbol
+Fixes:MD29:name
 Geo:ZSCG:
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:centerline
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1 left base
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1 left ticks
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1 left vectoring
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1 right base
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1 right ticks
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1 right vectoring
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2 left base
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2 left ticks
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2 left vectoring
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2 right base
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2 right ticks
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2 right vectoring
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:centerline
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1 left base
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1 left ticks
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1 left vectoring
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1 right base
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1 right ticks
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1 right vectoring
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2 left base
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2 left ticks
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2 left vectoring
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2 right base
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2 right ticks
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

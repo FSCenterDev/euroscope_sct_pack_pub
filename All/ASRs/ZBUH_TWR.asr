@@ -8,21 +8,21 @@ Airports:ZBUH:name
 VORs:WUH:symbol
 VORs:WUH:name
 Geo:ZBUH:
-Runways:ZBUH ÎÚº£ 19-01:centerline
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 1
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 1 left base
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 1 left ticks
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 1 left vectoring
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 1 right base
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 1 right ticks
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 1 right vectoring
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 2
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 2 left base
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 2 left ticks
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 2 left vectoring
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 2 right base
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 2 right ticks
-Runways:ZBUH ÎÚº£ 19-01:extended centerline 2 right vectoring
+Runways:ZBUH ä¹Œæµ· 19-01:centerline
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 1
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 1 left base
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 1 left ticks
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 1 left vectoring
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 1 right base
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 1 right ticks
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 1 right vectoring
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 2
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 2 left base
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 2 left ticks
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 2 left vectoring
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 2 right base
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 2 right ticks
+Runways:ZBUH ä¹Œæµ· 19-01:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

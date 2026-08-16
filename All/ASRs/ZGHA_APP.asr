@@ -5,8 +5,118 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZGHA:symbol
 Airports:ZGHA:name
+Fixes:CI18L:symbol
+Fixes:CI18L:name
+Fixes:CI18R:symbol
+Fixes:CI18R:name
+Fixes:CI36L:symbol
+Fixes:CI36L:name
+Fixes:CI36R:symbol
+Fixes:CI36R:name
+Fixes:D001F:symbol
+Fixes:D001F:name
+Fixes:D001I:symbol
+Fixes:D001I:name
+Fixes:D001L:symbol
+Fixes:D001L:name
+Fixes:D001N:symbol
+Fixes:D001N:name
+Fixes:D001X:symbol
+Fixes:D001X:name
+Fixes:D091M:symbol
+Fixes:D091M:name
+Fixes:D181Q:symbol
+Fixes:D181Q:name
+Fixes:D183F:symbol
+Fixes:D183F:name
+Fixes:D183J:symbol
+Fixes:D183J:name
+Fixes:D217I:symbol
+Fixes:D217I:name
+Fixes:D271M:symbol
+Fixes:D271M:name
+Fixes:D306G:symbol
+Fixes:D306G:name
+Fixes:D319H:symbol
+Fixes:D319H:name
 Fixes:ESBIX:symbol
 Fixes:ESBIX:name
+Fixes:FI18L:symbol
+Fixes:FI18L:name
+Fixes:FI18R:symbol
+Fixes:FI18R:name
+Fixes:FI36L:symbol
+Fixes:FI36L:name
+Fixes:FI36R:symbol
+Fixes:FI36R:name
+Fixes:HA301:symbol
+Fixes:HA301:name
+Fixes:HA302:symbol
+Fixes:HA302:name
+Fixes:HA303:symbol
+Fixes:HA303:name
+Fixes:HA305:symbol
+Fixes:HA305:name
+Fixes:HA306:symbol
+Fixes:HA306:name
+Fixes:HA308:symbol
+Fixes:HA308:name
+Fixes:HA321:symbol
+Fixes:HA321:name
+Fixes:HA322:symbol
+Fixes:HA322:name
+Fixes:HA323:symbol
+Fixes:HA323:name
+Fixes:HA324:symbol
+Fixes:HA324:name
+Fixes:HA326:symbol
+Fixes:HA326:name
+Fixes:HA341:symbol
+Fixes:HA341:name
+Fixes:HA342:symbol
+Fixes:HA342:name
+Fixes:HA351:symbol
+Fixes:HA351:name
+Fixes:HA352:symbol
+Fixes:HA352:name
+Fixes:HA353:symbol
+Fixes:HA353:name
+Fixes:HA354:symbol
+Fixes:HA354:name
+Fixes:HA355:symbol
+Fixes:HA355:name
+Fixes:HA356:symbol
+Fixes:HA356:name
+Fixes:HA362:symbol
+Fixes:HA362:name
+Fixes:HA364:symbol
+Fixes:HA364:name
+Fixes:HA365:symbol
+Fixes:HA365:name
+Fixes:HA368:symbol
+Fixes:HA368:name
+Fixes:HA372:symbol
+Fixes:HA372:name
+Fixes:HA374:symbol
+Fixes:HA374:name
+Fixes:HA375:symbol
+Fixes:HA375:name
+Fixes:HA376:symbol
+Fixes:HA376:name
+Fixes:HA378:symbol
+Fixes:HA378:name
+Fixes:HA379:symbol
+Fixes:HA379:name
+Fixes:HA380:symbol
+Fixes:HA380:name
+Fixes:HA385:symbol
+Fixes:HA385:name
+Fixes:HA388:symbol
+Fixes:HA388:name
+Fixes:KAPSA:symbol
+Fixes:KAPSA:name
+Fixes:LLC61:symbol
+Fixes:LLC61:name
 Fixes:OBLUV:symbol
 Fixes:OBLUV:name
 VORs:LYH:symbol
@@ -28,36 +138,36 @@ High airways:W613:line
 High airways:W616:line
 High airways:X168:line
 Geo:ZGHA:
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:centerline
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1 left base
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1 left ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1 left vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1 right base
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1 right ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 1 right vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2 left base
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2 left ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2 left vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2 right base
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2 right ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36L-18R:extended centerline 2 right vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:centerline
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1 left base
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1 left ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1 left vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1 right base
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1 right ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 1 right vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2 left base
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2 left ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2 left vectoring
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2 right base
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2 right ticks
-Runways:ZGHA ³¤É³/»Æ»¨ 36R-18L:extended centerline 2 right vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:centerline
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1 left base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1 left ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1 left vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1 right base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1 right ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 1 right vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2 left base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2 left ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2 left vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2 right base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2 right ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36L-18R:extended centerline 2 right vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:centerline
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1 left base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1 left ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1 left vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1 right base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1 right ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 1 right vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2 left base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2 left ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2 left vectoring
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2 right base
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2 right ticks
+Runways:ZGHA é•¿æ²™/é»„èŠ± 36R-18L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

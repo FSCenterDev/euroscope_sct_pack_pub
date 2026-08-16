@@ -8,21 +8,21 @@ Airports:ZSJG:name
 VORs:KDB:symbol
 VORs:KDB:name
 Geo:ZSJG:
-Runways:ZSJG 济宁/大安 27-09:centerline
-Runways:ZSJG 济宁/大安 27-09:extended centerline 1
-Runways:ZSJG 济宁/大安 27-09:extended centerline 1 left base
-Runways:ZSJG 济宁/大安 27-09:extended centerline 1 left ticks
-Runways:ZSJG 济宁/大安 27-09:extended centerline 1 left vectoring
-Runways:ZSJG 济宁/大安 27-09:extended centerline 1 right base
-Runways:ZSJG 济宁/大安 27-09:extended centerline 1 right ticks
-Runways:ZSJG 济宁/大安 27-09:extended centerline 1 right vectoring
-Runways:ZSJG 济宁/大安 27-09:extended centerline 2
-Runways:ZSJG 济宁/大安 27-09:extended centerline 2 left base
-Runways:ZSJG 济宁/大安 27-09:extended centerline 2 left ticks
-Runways:ZSJG 济宁/大安 27-09:extended centerline 2 left vectoring
-Runways:ZSJG 济宁/大安 27-09:extended centerline 2 right base
-Runways:ZSJG 济宁/大安 27-09:extended centerline 2 right ticks
-Runways:ZSJG 济宁/大安 27-09:extended centerline 2 right vectoring
+Runways:ZSJG 娴庡畞/澶у畨 27-09:centerline
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 1
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 1 left base
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 1 left ticks
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 1 left vectoring
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 1 right base
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 1 right ticks
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 1 right vectoring
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 2
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 2 left base
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 2 left ticks
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 2 left vectoring
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 2 right base
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 2 right ticks
+Runways:ZSJG 娴庡畞/澶у畨 27-09:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

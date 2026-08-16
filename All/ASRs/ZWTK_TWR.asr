@@ -6,21 +6,21 @@ SECTORTITLE:
 Airports:ZWTK:symbol
 Airports:ZWTK:name
 Geo:ZWTK:
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:centerline
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 1
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 1 left base
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 1 left ticks
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 1 left vectoring
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 1 right base
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 1 right ticks
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 1 right vectoring
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 2
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 2 left base
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 2 left ticks
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 2 left vectoring
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 2 right base
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 2 right ticks
-Runways:ZWTK ËþÊ²¿â¶û¸É/ºìÆäÀ­¸¦ 33-15:extended centerline 2 right vectoring
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:centerline
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 1
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 1 left base
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 1 left ticks
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 1 left vectoring
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 1 right base
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 1 right ticks
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 1 right vectoring
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 2
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 2 left base
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 2 left ticks
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 2 left vectoring
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 2 right base
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 2 right ticks
+Runways:ZWTK å¡”ä»€åº“å°”å¹²/çº¢å…¶æ‹‰ç”« 33-15:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

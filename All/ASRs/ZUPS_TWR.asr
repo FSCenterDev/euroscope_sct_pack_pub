@@ -8,21 +8,21 @@ Airports:ZUPS:name
 VORs:LPS:symbol
 VORs:LPS:name
 Geo:ZUPS:
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:centerline
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 1
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 1 left base
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 1 left ticks
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 1 left vectoring
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 1 right base
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 1 right ticks
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 1 right vectoring
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 2
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 2 left base
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 2 left ticks
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 2 left vectoring
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 2 right base
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 2 right ticks
-Runways:ZUPS ÁùÅÌË®/ÔÂÕÕ 05-23:extended centerline 2 right vectoring
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:centerline
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 1
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 1 left base
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 1 left ticks
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 1 left vectoring
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 1 right base
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 1 right ticks
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 1 right vectoring
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 2
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 2 left base
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 2 left ticks
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 2 left vectoring
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 2 right base
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 2 right ticks
+Runways:ZUPS å…­ç›˜æ°´/æœˆç…§ 05-23:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -8,21 +8,21 @@ Airports:ZUXC:name
 VORs:XIC:symbol
 VORs:XIC:name
 Geo:ZUXC:
-Runways:ZUXC 西昌/青山 36-18:centerline
-Runways:ZUXC 西昌/青山 36-18:extended centerline 1
-Runways:ZUXC 西昌/青山 36-18:extended centerline 1 left base
-Runways:ZUXC 西昌/青山 36-18:extended centerline 1 left ticks
-Runways:ZUXC 西昌/青山 36-18:extended centerline 1 left vectoring
-Runways:ZUXC 西昌/青山 36-18:extended centerline 1 right base
-Runways:ZUXC 西昌/青山 36-18:extended centerline 1 right ticks
-Runways:ZUXC 西昌/青山 36-18:extended centerline 1 right vectoring
-Runways:ZUXC 西昌/青山 36-18:extended centerline 2
-Runways:ZUXC 西昌/青山 36-18:extended centerline 2 left base
-Runways:ZUXC 西昌/青山 36-18:extended centerline 2 left ticks
-Runways:ZUXC 西昌/青山 36-18:extended centerline 2 left vectoring
-Runways:ZUXC 西昌/青山 36-18:extended centerline 2 right base
-Runways:ZUXC 西昌/青山 36-18:extended centerline 2 right ticks
-Runways:ZUXC 西昌/青山 36-18:extended centerline 2 right vectoring
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:centerline
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 1
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 1 left base
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 1 left ticks
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 1 left vectoring
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 1 right base
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 1 right ticks
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 1 right vectoring
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 2
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 2 left base
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 2 left ticks
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 2 left vectoring
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 2 right base
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 2 right ticks
+Runways:ZUXC 瑗挎槍/闈掑北 36-18:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

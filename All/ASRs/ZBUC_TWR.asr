@@ -8,21 +8,21 @@ Airports:ZBUC:name
 VORs:DCB:symbol
 VORs:DCB:name
 Geo:ZBUC:
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:centerline
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 1
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 1 left base
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 1 left ticks
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 1 left vectoring
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 1 right base
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 1 right ticks
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 1 right vectoring
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 2
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 2 left base
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 2 left ticks
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 2 left vectoring
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 2 right base
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 2 right ticks
-Runways:ZBUC ÎÚÀ¼²ì²¼/¼¯Äş 09-27:extended centerline 2 right vectoring
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:centerline
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 1
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 1 left base
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 1 left ticks
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 1 left vectoring
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 1 right base
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 1 right ticks
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 1 right vectoring
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 2
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 2 left base
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 2 left ticks
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 2 left vectoring
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 2 right base
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 2 right ticks
+Runways:ZBUC ä¹Œå…°å¯Ÿå¸ƒ/é›†å® 09-27:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

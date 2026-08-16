@@ -5,52 +5,55 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZPPP:symbol
 Airports:ZPPP:name
+Fixes:D040C:symbol
+Fixes:D040C:name
+Fixes:D040D:symbol
+Fixes:D040D:name
+Fixes:D220D:symbol
+Fixes:D220D:name
+Fixes:DE04R:symbol
+Fixes:DE04R:name
+Fixes:DE22L:symbol
+Fixes:DE22L:name
+Fixes:DER03:symbol
+Fixes:DER03:name
+Fixes:DER21:symbol
+Fixes:DER21:name
+Fixes:PP411:symbol
+Fixes:PP411:name
+Fixes:PP612:symbol
+Fixes:PP612:name
 Geo:ZPPP:
-Runways:ZPPP 昆明/长水 21-03:centerline
-Runways:ZPPP 昆明/长水 21-03:extended centerline 1
-Runways:ZPPP 昆明/长水 21-03:extended centerline 1 left base
-Runways:ZPPP 昆明/长水 21-03:extended centerline 1 left ticks
-Runways:ZPPP 昆明/长水 21-03:extended centerline 1 left vectoring
-Runways:ZPPP 昆明/长水 21-03:extended centerline 1 right base
-Runways:ZPPP 昆明/长水 21-03:extended centerline 1 right ticks
-Runways:ZPPP 昆明/长水 21-03:extended centerline 1 right vectoring
-Runways:ZPPP 昆明/长水 21-03:extended centerline 2
-Runways:ZPPP 昆明/长水 21-03:extended centerline 2 left base
-Runways:ZPPP 昆明/长水 21-03:extended centerline 2 left ticks
-Runways:ZPPP 昆明/长水 21-03:extended centerline 2 left vectoring
-Runways:ZPPP 昆明/长水 21-03:extended centerline 2 right base
-Runways:ZPPP 昆明/长水 21-03:extended centerline 2 right ticks
-Runways:ZPPP 昆明/长水 21-03:extended centerline 2 right vectoring
-Runways:ZPPP 昆明/长水 22L-04R:centerline
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1 left base
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1 left ticks
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1 left vectoring
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1 right base
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1 right ticks
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 1 right vectoring
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2 left base
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2 left ticks
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2 left vectoring
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2 right base
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2 right ticks
-Runways:ZPPP 昆明/长水 22L-04R:extended centerline 2 right vectoring
-Runways:ZPPP 昆明/长水 22R-04L:centerline
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1 left base
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1 left ticks
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1 left vectoring
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1 right base
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1 right ticks
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 1 right vectoring
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2 left base
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2 left ticks
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2 left vectoring
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2 right base
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2 right ticks
-Runways:ZPPP 昆明/长水 22R-04L:extended centerline 2 right vectoring
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:centerline
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 1
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 1 left base
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 1 left ticks
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 1 left vectoring
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 1 right base
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 1 right ticks
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 1 right vectoring
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 2
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 2 left base
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 2 left ticks
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 2 left vectoring
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 2 right base
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 2 right ticks
+Runways:ZPPP 鏄嗘槑/闀挎按 21-03:extended centerline 2 right vectoring
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:centerline
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 1
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 1 left base
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 1 left ticks
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 1 left vectoring
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 1 right base
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 1 right ticks
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 1 right vectoring
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 2
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 2 left base
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 2 left ticks
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 2 left vectoring
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 2 right base
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 2 right ticks
+Runways:ZPPP 鏄嗘槑/闀挎按 22L-04R:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

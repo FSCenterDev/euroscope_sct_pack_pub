@@ -8,21 +8,21 @@ Airports:ZWZS:name
 VORs:ZSU:symbol
 VORs:ZSU:name
 Geo:ZWZS:
-Runways:ZWZS 昭苏/天马 06-24:centerline
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 1
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 1 left base
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 1 left ticks
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 1 left vectoring
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 1 right base
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 1 right ticks
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 1 right vectoring
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 2
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 2 left base
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 2 left ticks
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 2 left vectoring
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 2 right base
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 2 right ticks
-Runways:ZWZS 昭苏/天马 06-24:extended centerline 2 right vectoring
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:centerline
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 1
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 1 left base
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 1 left ticks
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 1 left vectoring
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 1 right base
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 1 right ticks
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 1 right vectoring
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 2
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 2 left base
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 2 left ticks
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 2 left vectoring
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 2 right base
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 2 right ticks
+Runways:ZWZS 鏄嫃/澶╅┈ 06-24:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

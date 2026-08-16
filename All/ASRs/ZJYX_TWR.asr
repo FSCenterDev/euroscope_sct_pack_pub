@@ -8,21 +8,21 @@ Airports:ZJYX:name
 VORs:DSA:symbol
 VORs:DSA:name
 Geo:ZJYX:
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:centerline
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 1
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 1 left base
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 1 left ticks
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 1 left vectoring
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 1 right base
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 1 right ticks
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 1 right vectoring
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 2
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 2 left base
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 2 left ticks
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 2 left vectoring
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 2 right base
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 2 right ticks
-Runways:ZJYX ÈýÉ³/ÓÀÐË 05-23:extended centerline 2 right vectoring
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:centerline
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 1
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 1 left base
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 1 left ticks
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 1 left vectoring
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 1 right base
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 1 right ticks
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 1 right vectoring
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 2
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 2 left base
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 2 left ticks
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 2 left vectoring
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 2 right base
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 2 right ticks
+Runways:ZJYX ä¸‰æ²™/æ°¸å…´ 05-23:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

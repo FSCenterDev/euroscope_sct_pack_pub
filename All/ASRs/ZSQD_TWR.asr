@@ -5,41 +5,73 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSQD:symbol
 Airports:ZSQD:name
+Fixes:23VOR:symbol
+Fixes:23VOR:name
+Fixes:53VOR:symbol
+Fixes:53VOR:name
+Fixes:D329E:symbol
+Fixes:D329E:name
+Fixes:DER16:symbol
+Fixes:DER16:name
+Fixes:DER17:symbol
+Fixes:DER17:name
+Fixes:DER34:symbol
+Fixes:DER34:name
+Fixes:DER35:symbol
+Fixes:DER35:name
+Fixes:FI16:symbol
+Fixes:FI16:name
+Fixes:MD17:symbol
+Fixes:MD17:name
+Fixes:MD35:symbol
+Fixes:MD35:name
+Fixes:QD108:symbol
+Fixes:QD108:name
+Fixes:QD109:symbol
+Fixes:QD109:name
+Fixes:QD111:symbol
+Fixes:QD111:name
+Fixes:QD501:symbol
+Fixes:QD501:name
+Fixes:QD511:symbol
+Fixes:QD511:name
+Fixes:QD800:symbol
+Fixes:QD800:name
 VORs:JDG:symbol
 VORs:JDG:name
 VORs:JDW:symbol
 VORs:JDW:name
 Geo:ZSQD:
-Runways:ZSQD 青岛/胶东 16-34:centerline
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 1
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 1 left base
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 1 left ticks
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 1 left vectoring
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 1 right base
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 1 right ticks
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 1 right vectoring
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 2
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 2 left base
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 2 left ticks
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 2 left vectoring
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 2 right base
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 2 right ticks
-Runways:ZSQD 青岛/胶东 16-34:extended centerline 2 right vectoring
-Runways:ZSQD 青岛/胶东 35-17:centerline
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 1
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 1 left base
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 1 left ticks
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 1 left vectoring
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 1 right base
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 1 right ticks
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 1 right vectoring
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 2
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 2 left base
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 2 left ticks
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 2 left vectoring
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 2 right base
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 2 right ticks
-Runways:ZSQD 青岛/胶东 35-17:extended centerline 2 right vectoring
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:centerline
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 1
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 1 left base
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 1 left ticks
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 1 left vectoring
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 1 right base
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 1 right ticks
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 1 right vectoring
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 2
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 2 left base
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 2 left ticks
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 2 left vectoring
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 2 right base
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 2 right ticks
+Runways:ZSQD 闈掑矝/鑳朵笢 16-34:extended centerline 2 right vectoring
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:centerline
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 1
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 1 left base
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 1 left ticks
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 1 left vectoring
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 1 right base
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 1 right ticks
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 1 right vectoring
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 2
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 2 left base
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 2 left ticks
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 2 left vectoring
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 2 right base
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 2 right ticks
+Runways:ZSQD 闈掑矝/鑳朵笢 35-17:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

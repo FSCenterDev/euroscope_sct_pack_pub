@@ -5,24 +5,54 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSNB:symbol
 Airports:ZSNB:name
-Fixes:Äş²¨èİÉç:symbol
-Fixes:Äş²¨èİÉç:name
+Fixes:29LOC:symbol
+Fixes:29LOC:name
+Fixes:30LOC:symbol
+Fixes:30LOC:name
+Fixes:38VOR:symbol
+Fixes:38VOR:name
+Fixes:48LOC:symbol
+Fixes:48LOC:name
+Fixes:50VOR:symbol
+Fixes:50VOR:name
+Fixes:D053G:symbol
+Fixes:D053G:name
+Fixes:D172E:symbol
+Fixes:D172E:name
+Fixes:D349E:symbol
+Fixes:D349E:name
+Fixes:MD13:symbol
+Fixes:MD13:name
+Fixes:MD31:symbol
+Fixes:MD31:name
+Fixes:ML13:symbol
+Fixes:ML13:name
+Fixes:ML31:symbol
+Fixes:ML31:name
+Fixes:NB112:symbol
+Fixes:NB112:name
+Fixes:NB302:symbol
+Fixes:NB302:name
+Fixes:NB304:symbol
+Fixes:NB304:name
+Fixes:å®æ³¢æ ç¤¾:symbol
+Fixes:å®æ³¢æ ç¤¾:name
 Geo:ZSNB:
-Runways:ZSNB Äş²¨/èİÉç 31-13:centerline
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 1
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 1 left base
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 1 left ticks
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 1 left vectoring
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 1 right base
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 1 right ticks
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 1 right vectoring
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 2
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 2 left base
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 2 left ticks
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 2 left vectoring
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 2 right base
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 2 right ticks
-Runways:ZSNB Äş²¨/èİÉç 31-13:extended centerline 2 right vectoring
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:centerline
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 1
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 1 left base
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 1 left ticks
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 1 left vectoring
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 1 right base
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 1 right ticks
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 1 right vectoring
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 2
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 2 left base
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 2 left ticks
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 2 left vectoring
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 2 right base
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 2 right ticks
+Runways:ZSNB å®æ³¢/æ ç¤¾ 31-13:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

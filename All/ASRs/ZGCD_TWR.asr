@@ -8,21 +8,21 @@ Airports:ZGCD:name
 NDBs:CD:symbol
 NDBs:CD:name
 Geo:ZGCD:
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:centerline
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 1
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 1 left base
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 1 left ticks
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 1 left vectoring
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 1 right base
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 1 right ticks
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 1 right vectoring
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 2
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 2 left base
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 2 left ticks
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 2 left vectoring
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 2 right base
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 2 right ticks
-Runways:ZGCD ³£µÂ/ÌÒ»¨Ô´ 20-02:extended centerline 2 right vectoring
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:centerline
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 1
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 1 left base
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 1 left ticks
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 1 left vectoring
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 1 right base
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 1 right ticks
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 1 right vectoring
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 2
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 2 left base
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 2 left ticks
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 2 left vectoring
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 2 right base
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 2 right ticks
+Runways:ZGCD å¸¸å¾·/æ¡ƒèŠ±æº 20-02:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

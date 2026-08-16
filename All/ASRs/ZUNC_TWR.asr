@@ -10,21 +10,21 @@ Fixes:P691:name
 VORs:GAO:symbol
 VORs:GAO:name
 Geo:ZUNC:
-Runways:ZUNC 南充/高坪 24-06:centerline
-Runways:ZUNC 南充/高坪 24-06:extended centerline 1
-Runways:ZUNC 南充/高坪 24-06:extended centerline 1 left base
-Runways:ZUNC 南充/高坪 24-06:extended centerline 1 left ticks
-Runways:ZUNC 南充/高坪 24-06:extended centerline 1 left vectoring
-Runways:ZUNC 南充/高坪 24-06:extended centerline 1 right base
-Runways:ZUNC 南充/高坪 24-06:extended centerline 1 right ticks
-Runways:ZUNC 南充/高坪 24-06:extended centerline 1 right vectoring
-Runways:ZUNC 南充/高坪 24-06:extended centerline 2
-Runways:ZUNC 南充/高坪 24-06:extended centerline 2 left base
-Runways:ZUNC 南充/高坪 24-06:extended centerline 2 left ticks
-Runways:ZUNC 南充/高坪 24-06:extended centerline 2 left vectoring
-Runways:ZUNC 南充/高坪 24-06:extended centerline 2 right base
-Runways:ZUNC 南充/高坪 24-06:extended centerline 2 right ticks
-Runways:ZUNC 南充/高坪 24-06:extended centerline 2 right vectoring
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:centerline
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 1
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 1 left base
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 1 left ticks
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 1 left vectoring
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 1 right base
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 1 right ticks
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 1 right vectoring
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 2
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 2 left base
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 2 left ticks
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 2 left vectoring
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 2 right base
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 2 right ticks
+Runways:ZUNC 鍗楀厖/楂樺潽 24-06:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

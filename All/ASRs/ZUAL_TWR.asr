@@ -6,21 +6,21 @@ SECTORTITLE:
 Airports:ZUAL:symbol
 Airports:ZUAL:name
 Geo:ZUAL:
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:centerline
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 1
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 1 left base
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 1 left ticks
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 1 left vectoring
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 1 right base
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 1 right ticks
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 1 right vectoring
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 2
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 2 left base
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 2 left ticks
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 2 left vectoring
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 2 right base
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 2 right ticks
-Runways:ZUAL °¢Àï/À¥É¯ 15-33:extended centerline 2 right vectoring
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:centerline
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 1
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 1 left base
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 1 left ticks
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 1 left vectoring
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 1 right base
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 1 right ticks
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 1 right vectoring
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 2
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 2 left base
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 2 left ticks
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 2 left vectoring
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 2 right base
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 2 right ticks
+Runways:ZUAL é˜¿é‡Œ/æ˜†èŽŽ 15-33:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

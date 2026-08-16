@@ -6,21 +6,21 @@ SECTORTITLE:
 Airports:ZYDD:symbol
 Airports:ZYDD:name
 Geo:ZYDD:
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:centerline
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 1
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 1 left base
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 1 left ticks
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 1 left vectoring
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 1 right base
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 1 right ticks
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 1 right vectoring
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 2
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 2 left base
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 2 left ticks
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 2 left vectoring
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 2 right base
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 2 right ticks
-Runways:ZYDD µ¤¶«/ÀËÍ· 19-01:extended centerline 2 right vectoring
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:centerline
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 1
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 1 left base
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 1 left ticks
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 1 left vectoring
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 1 right base
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 1 right ticks
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 1 right vectoring
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 2
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 2 left base
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 2 left ticks
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 2 left vectoring
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 2 right base
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 2 right ticks
+Runways:ZYDD ä¸¹ä¸œ/æµªå¤´ 19-01:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

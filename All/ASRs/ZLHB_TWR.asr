@@ -8,21 +8,21 @@ Airports:ZLHB:name
 VORs:DQL:symbol
 VORs:DQL:name
 Geo:ZLHB:
-Runways:ZLHB 海北/祁连 10-28:centerline
-Runways:ZLHB 海北/祁连 10-28:extended centerline 1
-Runways:ZLHB 海北/祁连 10-28:extended centerline 1 left base
-Runways:ZLHB 海北/祁连 10-28:extended centerline 1 left ticks
-Runways:ZLHB 海北/祁连 10-28:extended centerline 1 left vectoring
-Runways:ZLHB 海北/祁连 10-28:extended centerline 1 right base
-Runways:ZLHB 海北/祁连 10-28:extended centerline 1 right ticks
-Runways:ZLHB 海北/祁连 10-28:extended centerline 1 right vectoring
-Runways:ZLHB 海北/祁连 10-28:extended centerline 2
-Runways:ZLHB 海北/祁连 10-28:extended centerline 2 left base
-Runways:ZLHB 海北/祁连 10-28:extended centerline 2 left ticks
-Runways:ZLHB 海北/祁连 10-28:extended centerline 2 left vectoring
-Runways:ZLHB 海北/祁连 10-28:extended centerline 2 right base
-Runways:ZLHB 海北/祁连 10-28:extended centerline 2 right ticks
-Runways:ZLHB 海北/祁连 10-28:extended centerline 2 right vectoring
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:centerline
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 1
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 1 left base
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 1 left ticks
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 1 left vectoring
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 1 right base
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 1 right ticks
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 1 right vectoring
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 2
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 2 left base
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 2 left ticks
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 2 left vectoring
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 2 right base
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 2 right ticks
+Runways:ZLHB 娴峰寳/绁佽繛 10-28:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -8,21 +8,21 @@ Airports:ZSLQ:name
 NDBs:FK:symbol
 NDBs:FK:name
 Geo:ZSLQ:
-Runways:ZSLQ 台州/路桥 21-03:centerline
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 1
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 1 left base
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 1 left ticks
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 1 left vectoring
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 1 right base
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 1 right ticks
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 1 right vectoring
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 2
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 2 left base
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 2 left ticks
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 2 left vectoring
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 2 right base
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 2 right ticks
-Runways:ZSLQ 台州/路桥 21-03:extended centerline 2 right vectoring
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:centerline
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 1
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 1 left base
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 1 left ticks
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 1 left vectoring
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 1 right base
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 1 right ticks
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 1 right vectoring
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 2
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 2 left base
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 2 left ticks
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 2 left vectoring
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 2 right base
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 2 right ticks
+Runways:ZSLQ 鍙板窞/璺ˉ 21-03:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

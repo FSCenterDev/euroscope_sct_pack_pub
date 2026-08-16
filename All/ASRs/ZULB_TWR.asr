@@ -8,21 +8,21 @@ Airports:ZULB:name
 VORs:GLB:symbol
 VORs:GLB:name
 Geo:ZULB:
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:centerline
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1 left base
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1 left ticks
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1 left vectoring
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1 right base
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1 right ticks
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 1 right vectoring
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2 left base
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2 left ticks
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2 left vectoring
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2 right base
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2 right ticks
-Runways:ZULB Ç­ÄÏ/Àó²¨ 21-03:extended centerline 2 right vectoring
+Runways:ZULB é»”å—/è”æ³¢ 21-03:centerline
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 1
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 1 left base
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 1 left ticks
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 1 left vectoring
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 1 right base
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 1 right ticks
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 1 right vectoring
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 2
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 2 left base
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 2 left ticks
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 2 left vectoring
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 2 right base
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 2 right ticks
+Runways:ZULB é»”å—/è”æ³¢ 21-03:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

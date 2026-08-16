@@ -5,24 +5,26 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZURK:symbol
 Airports:ZURK:name
+Fixes:RIKZE:symbol
+Fixes:RIKZE:name
 VORs:RKZ:symbol
 VORs:RKZ:name
 Geo:ZURK:
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:centerline
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 1
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 1 left base
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 1 left ticks
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 1 left vectoring
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 1 right base
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 1 right ticks
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 1 right vectoring
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 2
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 2 left base
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 2 left ticks
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 2 left vectoring
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 2 right base
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 2 right ticks
-Runways:ZURK ÈÕ¿¦Ôò/ºÍÆ½ 09-27:extended centerline 2 right vectoring
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:centerline
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 1
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 1 left base
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 1 left ticks
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 1 left vectoring
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 1 right base
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 1 right ticks
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 1 right vectoring
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 2
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 2 left base
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 2 left ticks
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 2 left vectoring
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 2 right base
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 2 right ticks
+Runways:ZURK æ—¥å–€åˆ™/å’Œå¹³ 09-27:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

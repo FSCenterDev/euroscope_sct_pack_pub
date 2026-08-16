@@ -5,8 +5,84 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZBTJ:symbol
 Airports:ZBTJ:name
+Fixes:25VOR:symbol
+Fixes:25VOR:name
+Fixes:43VOR:symbol
+Fixes:43VOR:name
+Fixes:AA146:symbol
+Fixes:AA146:name
+Fixes:AA157:symbol
+Fixes:AA157:name
+Fixes:AD537:symbol
+Fixes:AD537:name
+Fixes:CD16R:symbol
+Fixes:CD16R:name
+Fixes:CD34L:symbol
+Fixes:CD34L:name
+Fixes:D347K:symbol
+Fixes:D347K:name
+Fixes:D355K:symbol
+Fixes:D355K:name
+Fixes:FD16R:symbol
+Fixes:FD16R:name
+Fixes:FD34L:symbol
+Fixes:FD34L:name
+Fixes:FI16L:symbol
+Fixes:FI16L:name
+Fixes:FI16R:symbol
+Fixes:FI16R:name
+Fixes:FI34L:symbol
+Fixes:FI34L:name
+Fixes:FI34R:symbol
+Fixes:FI34R:name
+Fixes:MD16R:symbol
+Fixes:MD16R:name
+Fixes:MD34L:symbol
+Fixes:MD34L:name
 Fixes:PAMRU:symbol
 Fixes:PAMRU:name
+Fixes:TJ813:symbol
+Fixes:TJ813:name
+Fixes:TJ815:symbol
+Fixes:TJ815:name
+Fixes:TJ817:symbol
+Fixes:TJ817:name
+Fixes:TJ827:symbol
+Fixes:TJ827:name
+Fixes:TJ836:symbol
+Fixes:TJ836:name
+Fixes:TJ865:symbol
+Fixes:TJ865:name
+Fixes:TJ866:symbol
+Fixes:TJ866:name
+Fixes:TJ895:symbol
+Fixes:TJ895:name
+Fixes:TJ897:symbol
+Fixes:TJ897:name
+Fixes:TJ898:symbol
+Fixes:TJ898:name
+Fixes:TJ899:symbol
+Fixes:TJ899:name
+Fixes:TJ911:symbol
+Fixes:TJ911:name
+Fixes:TJ919:symbol
+Fixes:TJ919:name
+Fixes:TJ920:symbol
+Fixes:TJ920:name
+Fixes:TJ921:symbol
+Fixes:TJ921:name
+Fixes:TJ931:symbol
+Fixes:TJ931:name
+Fixes:TJ953:symbol
+Fixes:TJ953:name
+Fixes:TJ954:symbol
+Fixes:TJ954:name
+Fixes:TJ960:symbol
+Fixes:TJ960:name
+Fixes:TJ961:symbol
+Fixes:TJ961:name
+Fixes:TJ970:symbol
+Fixes:TJ970:name
 VORs:TAJ:symbol
 VORs:TAJ:name
 High airways:V10:line
@@ -17,36 +93,36 @@ High airways:W34:line
 High airways:W55:line
 High airways:X89:line
 Geo:ZBTJ:
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:centerline
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1 left base
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1 left ticks
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1 left vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1 right base
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1 right ticks
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 1 right vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2 left base
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2 left ticks
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2 left vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2 right base
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2 right ticks
-Runways:ZBTJ Ìì½ò/±õº£ 16L-34R:extended centerline 2 right vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:centerline
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1 left base
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1 left ticks
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1 left vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1 right base
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1 right ticks
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 1 right vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2 left base
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2 left ticks
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2 left vectoring
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2 right base
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2 right ticks
-Runways:ZBTJ Ìì½ò/±õº£ 34L-16R:extended centerline 2 right vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:centerline
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1 left base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1 left ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1 left vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1 right base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1 right ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 1 right vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2 left base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2 left ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2 left vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2 right base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2 right ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 16L-34R:extended centerline 2 right vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:centerline
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1 left base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1 left ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1 left vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1 right base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1 right ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 1 right vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2 left base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2 left ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2 left vectoring
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2 right base
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2 right ticks
+Runways:ZBTJ å¤©æ´¥/æ»¨æµ· 34L-16R:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

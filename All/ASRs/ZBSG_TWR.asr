@@ -8,21 +8,21 @@ Airports:ZBSG:name
 VORs:SWG:symbol
 VORs:SWG:name
 Geo:ZBSG:
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:centerline
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 1
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 1 left base
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 1 left ticks
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 1 left vectoring
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 1 right base
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 1 right ticks
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 1 right vectoring
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 2
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 2 left base
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 2 left ticks
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 2 left vectoring
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 2 right base
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 2 right ticks
-Runways:ZBSG Ë·ÖÝ/×ÌÈó 24-06:extended centerline 2 right vectoring
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:centerline
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 1
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 1 left base
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 1 left ticks
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 1 left vectoring
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 1 right base
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 1 right ticks
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 1 right vectoring
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 2
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 2 left base
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 2 left ticks
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 2 left vectoring
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 2 right base
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 2 right ticks
+Runways:ZBSG æœ”å·ž/æ»‹æ¶¦ 24-06:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

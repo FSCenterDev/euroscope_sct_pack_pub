@@ -8,21 +8,21 @@ Airports:ZUPL:name
 VORs:PUN:symbol
 VORs:PUN:name
 Geo:ZUPL:
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:centerline
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 1
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 1 left base
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 1 left ticks
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 1 left vectoring
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 1 right base
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 1 right ticks
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 1 right vectoring
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 2
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 2 left base
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 2 left ticks
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 2 left vectoring
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 2 right base
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 2 right ticks
-Runways:ZUPL °¢Àï/ÆÕÀ¼ 33-15:extended centerline 2 right vectoring
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:centerline
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 1
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 1 left base
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 1 left ticks
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 1 left vectoring
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 1 right base
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 1 right ticks
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 1 right vectoring
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 2
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 2 left base
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 2 left ticks
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 2 left vectoring
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 2 right base
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 2 right ticks
+Runways:ZUPL é˜¿é‡Œ/æ™®å…° 33-15:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

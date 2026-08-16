@@ -5,28 +5,56 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZHYC:symbol
 Airports:ZHYC:name
+Fixes:18VOR:symbol
+Fixes:18VOR:name
+Fixes:48VOR:symbol
+Fixes:48VOR:name
+Fixes:DER14:symbol
+Fixes:DER14:name
+Fixes:DER32:symbol
+Fixes:DER32:name
 Fixes:KAKSU:symbol
 Fixes:KAKSU:name
+Fixes:MD14:symbol
+Fixes:MD14:name
 Fixes:NIVUV:symbol
 Fixes:NIVUV:name
+Fixes:YC601:symbol
+Fixes:YC601:name
+Fixes:YC603:symbol
+Fixes:YC603:name
+Fixes:YC613:symbol
+Fixes:YC613:name
+Fixes:YC614:symbol
+Fixes:YC614:name
+Fixes:YC633:symbol
+Fixes:YC633:name
+Fixes:YC651:symbol
+Fixes:YC651:name
+Fixes:YC801:symbol
+Fixes:YC801:name
+Fixes:YC803:symbol
+Fixes:YC803:name
+Fixes:YC826:symbol
+Fixes:YC826:name
 VORs:YIH:symbol
 VORs:YIH:name
 Geo:ZHYC:
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:centerline
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 1
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 1 left base
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 1 left ticks
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 1 left vectoring
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 1 right base
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 1 right ticks
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 1 right vectoring
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 2
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 2 left base
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 2 left ticks
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 2 left vectoring
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 2 right base
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 2 right ticks
-Runways:ZHYC ÒË²ý/ÈýÏ¿ 14-32:extended centerline 2 right vectoring
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:centerline
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 1
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 1 left base
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 1 left ticks
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 1 left vectoring
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 1 right base
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 1 right ticks
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 1 right vectoring
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 2
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 2 left base
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 2 left ticks
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 2 left vectoring
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 2 right base
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 2 right ticks
+Runways:ZHYC å®œæ˜Œ/ä¸‰å³¡ 14-32:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

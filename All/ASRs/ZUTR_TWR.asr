@@ -8,21 +8,21 @@ Airports:ZUTR:name
 VORs:TRN:symbol
 VORs:TRN:name
 Geo:ZUTR:
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:centerline
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 1
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 1 left base
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 1 left ticks
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 1 left vectoring
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 1 right base
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 1 right ticks
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 1 right vectoring
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 2
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 2 left base
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 2 left ticks
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 2 left vectoring
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 2 right base
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 2 right ticks
-Runways:ZUTR Í­ÈÊ/·ï»Ë 04-22:extended centerline 2 right vectoring
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:centerline
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 1
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 1 left base
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 1 left ticks
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 1 left vectoring
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 1 right base
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 1 right ticks
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 1 right vectoring
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 2
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 2 left base
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 2 left ticks
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 2 left vectoring
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 2 right base
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 2 right ticks
+Runways:ZUTR é“œä»/å‡¤å‡° 04-22:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

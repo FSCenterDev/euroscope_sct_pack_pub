@@ -8,21 +8,21 @@ Airports:ZSSM:name
 Fixes:P176:symbol
 Fixes:P176:name
 Geo:ZSSM:
-Runways:ZSSM 三明/沙县 24-06:centerline
-Runways:ZSSM 三明/沙县 24-06:extended centerline 1
-Runways:ZSSM 三明/沙县 24-06:extended centerline 1 left base
-Runways:ZSSM 三明/沙县 24-06:extended centerline 1 left ticks
-Runways:ZSSM 三明/沙县 24-06:extended centerline 1 left vectoring
-Runways:ZSSM 三明/沙县 24-06:extended centerline 1 right base
-Runways:ZSSM 三明/沙县 24-06:extended centerline 1 right ticks
-Runways:ZSSM 三明/沙县 24-06:extended centerline 1 right vectoring
-Runways:ZSSM 三明/沙县 24-06:extended centerline 2
-Runways:ZSSM 三明/沙县 24-06:extended centerline 2 left base
-Runways:ZSSM 三明/沙县 24-06:extended centerline 2 left ticks
-Runways:ZSSM 三明/沙县 24-06:extended centerline 2 left vectoring
-Runways:ZSSM 三明/沙县 24-06:extended centerline 2 right base
-Runways:ZSSM 三明/沙县 24-06:extended centerline 2 right ticks
-Runways:ZSSM 三明/沙县 24-06:extended centerline 2 right vectoring
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:centerline
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 1
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 1 left base
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 1 left ticks
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 1 left vectoring
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 1 right base
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 1 right ticks
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 1 right vectoring
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 2
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 2 left base
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 2 left ticks
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 2 left vectoring
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 2 right base
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 2 right ticks
+Runways:ZSSM 涓夋槑/娌欏幙 24-06:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

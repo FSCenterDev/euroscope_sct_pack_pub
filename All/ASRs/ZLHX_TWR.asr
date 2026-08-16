@@ -8,21 +8,21 @@ Airports:ZLHX:name
 VORs:HTG:symbol
 VORs:HTG:name
 Geo:ZLHX:
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:centerline
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 1
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 1 left base
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 1 left ticks
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 1 left vectoring
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 1 right base
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 1 right ticks
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 1 right vectoring
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 2
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 2 left base
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 2 left ticks
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 2 left vectoring
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 2 right base
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 2 right ticks
-Runways:ZLHX º£Î÷/Ã£ÑÂ 15-33:extended centerline 2 right vectoring
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:centerline
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 1
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 1 left base
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 1 left ticks
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 1 left vectoring
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 1 right base
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 1 right ticks
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 1 right vectoring
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 2
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 2 left base
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 2 left ticks
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 2 left vectoring
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 2 right base
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 2 right ticks
+Runways:ZLHX æµ·è¥¿/èŒ«å´– 15-33:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

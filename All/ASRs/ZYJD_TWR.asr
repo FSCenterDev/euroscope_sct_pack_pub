@@ -8,21 +8,21 @@ Airports:ZYJD:name
 VORs:JGD:symbol
 VORs:JGD:name
 Geo:ZYJD:
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:centerline
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 1
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 1 left base
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 1 left ticks
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 1 left vectoring
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 1 right base
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 1 right ticks
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 1 right vectoring
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 2
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 2 left base
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 2 left ticks
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 2 left vectoring
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 2 right base
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 2 right ticks
-Runways:ZYJD ´óÐË°²Áë/¶õÂ×´º 18-36:extended centerline 2 right vectoring
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:centerline
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 1
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 1 left base
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 1 left ticks
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 1 left vectoring
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 1 right base
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 1 right ticks
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 1 right vectoring
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 2
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 2 left base
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 2 left ticks
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 2 left vectoring
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 2 right base
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 2 right ticks
+Runways:ZYJD å¤§å…´å®‰å²­/é„‚ä¼¦æ˜¥ 18-36:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

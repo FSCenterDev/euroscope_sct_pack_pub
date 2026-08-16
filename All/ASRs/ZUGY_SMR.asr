@@ -5,39 +5,47 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZUGY:symbol
 Airports:ZUGY:name
+Fixes:DE01L:symbol
+Fixes:DE01L:name
+Fixes:DE01R:symbol
+Fixes:DE01R:name
+Fixes:DE19L:symbol
+Fixes:DE19L:name
+Fixes:DE19R:symbol
+Fixes:DE19R:name
 VORs:KWE:symbol
 VORs:KWE:name
 Geo:ZUGY:
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:centerline
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1 left base
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1 left ticks
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1 left vectoring
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1 right base
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1 right ticks
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 1 right vectoring
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2 left base
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2 left ticks
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2 left vectoring
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2 right base
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2 right ticks
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01L-19R:extended centerline 2 right vectoring
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:centerline
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1 left base
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1 left ticks
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1 left vectoring
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1 right base
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1 right ticks
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 1 right vectoring
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2 left base
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2 left ticks
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2 left vectoring
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2 right base
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2 right ticks
-Runways:ZUGY ¹óÑô/Áú¶´±¤ 01R-19L:extended centerline 2 right vectoring
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:centerline
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 1
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 1 left base
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 1 left ticks
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 1 left vectoring
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 1 right base
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 1 right ticks
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 1 right vectoring
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 2
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 2 left base
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 2 left ticks
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 2 left vectoring
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 2 right base
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 2 right ticks
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01L-19R:extended centerline 2 right vectoring
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:centerline
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 1
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 1 left base
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 1 left ticks
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 1 left vectoring
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 1 right base
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 1 right ticks
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 1 right vectoring
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 2
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 2 left base
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 2 left ticks
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 2 left vectoring
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 2 right base
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 2 right ticks
+Runways:ZUGY è´µé˜³/é¾™æ´žå ¡ 01R-19L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

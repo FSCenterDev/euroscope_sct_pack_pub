@@ -5,26 +5,28 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZUKJ:symbol
 Airports:ZUKJ:name
+Fixes:GY814:symbol
+Fixes:GY814:name
 Fixes:P709:symbol
 Fixes:P709:name
 VORs:KHP:symbol
 VORs:KHP:name
 Geo:ZUKJ:
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:centerline
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 1
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 1 left base
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 1 left ticks
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 1 left vectoring
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 1 right base
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 1 right ticks
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 1 right vectoring
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 2
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 2 left base
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 2 left ticks
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 2 left vectoring
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 2 right base
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 2 right ticks
-Runways:ZUKJ ¿­Àï/»ÆÆ½ 04-22:extended centerline 2 right vectoring
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:centerline
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 1
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 1 left base
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 1 left ticks
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 1 left vectoring
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 1 right base
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 1 right ticks
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 1 right vectoring
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 2
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 2 left base
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 2 left ticks
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 2 left vectoring
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 2 right base
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 2 right ticks
+Runways:ZUKJ å‡¯é‡Œ/é»„å¹³ 04-22:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

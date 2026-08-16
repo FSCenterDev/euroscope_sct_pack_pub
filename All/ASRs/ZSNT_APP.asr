@@ -5,6 +5,42 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSNT:symbol
 Airports:ZSNT:name
+Fixes:24VOR:symbol
+Fixes:24VOR:name
+Fixes:53VOR:symbol
+Fixes:53VOR:name
+Fixes:CD18:symbol
+Fixes:CD18:name
+Fixes:CD36:symbol
+Fixes:CD36:name
+Fixes:CI18:symbol
+Fixes:CI18:name
+Fixes:CI36:symbol
+Fixes:CI36:name
+Fixes:D004G:symbol
+Fixes:D004G:name
+Fixes:FD18:symbol
+Fixes:FD18:name
+Fixes:FD36:symbol
+Fixes:FD36:name
+Fixes:FI18:symbol
+Fixes:FI18:name
+Fixes:FI36:symbol
+Fixes:FI36:name
+Fixes:MD18:symbol
+Fixes:MD18:name
+Fixes:MD36:symbol
+Fixes:MD36:name
+Fixes:NT206:symbol
+Fixes:NT206:name
+Fixes:NT304:symbol
+Fixes:NT304:name
+Fixes:NT306:symbol
+Fixes:NT306:name
+Fixes:NT307:symbol
+Fixes:NT307:name
+Fixes:SS320:symbol
+Fixes:SS320:name
 VORs:NTG:symbol
 VORs:NTG:name
 High airways:G330:line
@@ -13,21 +49,21 @@ High airways:W109:line
 High airways:W591:line
 High airways:X179:line
 Geo:ZSNT:
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:centerline
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 1
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 1 left base
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 1 left ticks
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 1 left vectoring
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 1 right base
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 1 right ticks
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 1 right vectoring
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 2
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 2 left base
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 2 left ticks
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 2 left vectoring
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 2 right base
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 2 right ticks
-Runways:ZSNT ÄÏÍ¨/ĞË¶« 36-18:extended centerline 2 right vectoring
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:centerline
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 1
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 1 left base
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 1 left ticks
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 1 left vectoring
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 1 right base
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 1 right ticks
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 1 right vectoring
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 2
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 2 left base
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 2 left ticks
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 2 left vectoring
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 2 right base
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 2 right ticks
+Runways:ZSNT å—é€š/å…´ä¸œ 36-18:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

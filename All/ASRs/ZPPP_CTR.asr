@@ -37,6 +37,18 @@ Airports:ZUYI:symbol
 Airports:ZUYI:name
 Airports:ZUZH:symbol
 Airports:ZUZH:name
+Fixes:32VOR:symbol
+Fixes:32VOR:name
+Fixes:44SGM:symbol
+Fixes:44SGM:name
+Fixes:47VOR:symbol
+Fixes:47VOR:name
+Fixes:52VOR:symbol
+Fixes:52VOR:name
+Fixes:61VOR:symbol
+Fixes:61VOR:name
+Fixes:78VOR:symbol
+Fixes:78VOR:name
 Fixes:ADBAG:symbol
 Fixes:ADBAG:name
 Fixes:ALALA:symbol
@@ -47,34 +59,264 @@ Fixes:BIDRU:symbol
 Fixes:BIDRU:name
 Fixes:BUBSU:symbol
 Fixes:BUBSU:name
+Fixes:CD16:symbol
+Fixes:CD16:name
+Fixes:CD20:symbol
+Fixes:CD20:name
+Fixes:CD23:symbol
+Fixes:CD23:name
+Fixes:CD34:symbol
+Fixes:CD34:name
+Fixes:CEH38:symbol
+Fixes:CEH38:name
+Fixes:CEH40:symbol
+Fixes:CEH40:name
+Fixes:CEH43:symbol
+Fixes:CEH43:name
+Fixes:CI02:symbol
+Fixes:CI02:name
+Fixes:CI03:symbol
+Fixes:CI03:name
+Fixes:CI04R:symbol
+Fixes:CI04R:name
+Fixes:CI20:symbol
+Fixes:CI20:name
+Fixes:CI21:symbol
+Fixes:CI21:name
+Fixes:CI22L:symbol
+Fixes:CI22L:name
+Fixes:CI23:symbol
+Fixes:CI23:name
+Fixes:D007Q:symbol
+Fixes:D007Q:name
+Fixes:D037Z:symbol
+Fixes:D037Z:name
+Fixes:D040C:symbol
+Fixes:D040C:name
+Fixes:D040D:symbol
+Fixes:D040D:name
+Fixes:D041B:symbol
+Fixes:D041B:name
+Fixes:D086I:symbol
+Fixes:D086I:name
+Fixes:D086O:symbol
+Fixes:D086O:name
+Fixes:D109J:symbol
+Fixes:D109J:name
+Fixes:D120M:symbol
+Fixes:D120M:name
+Fixes:D144W:symbol
+Fixes:D144W:name
+Fixes:D176K:symbol
+Fixes:D176K:name
+Fixes:D193V:symbol
+Fixes:D193V:name
+Fixes:D195E:symbol
+Fixes:D195E:name
+Fixes:D196G:symbol
+Fixes:D196G:name
+Fixes:D197T:symbol
+Fixes:D197T:name
+Fixes:D198Y:symbol
+Fixes:D198Y:name
+Fixes:D203M:symbol
+Fixes:D203M:name
+Fixes:D217O:symbol
+Fixes:D217O:name
+Fixes:D220D:symbol
+Fixes:D220D:name
+Fixes:D220X:symbol
+Fixes:D220X:name
+Fixes:D268X:symbol
+Fixes:D268X:name
+Fixes:D306F:symbol
+Fixes:D306F:name
+Fixes:D306P:symbol
+Fixes:D306P:name
+Fixes:D315S:symbol
+Fixes:D315S:name
+Fixes:D315X:symbol
+Fixes:D315X:name
+Fixes:D315Y:symbol
+Fixes:D315Y:name
+Fixes:D333M:symbol
+Fixes:D333M:name
+Fixes:D334N:symbol
+Fixes:D334N:name
+Fixes:D338M:symbol
+Fixes:D338M:name
+Fixes:D354U:symbol
+Fixes:D354U:name
 Fixes:DADOL:symbol
 Fixes:DADOL:name
+Fixes:DE04R:symbol
+Fixes:DE04R:name
+Fixes:DE22L:symbol
+Fixes:DE22L:name
+Fixes:DER03:symbol
+Fixes:DER03:name
+Fixes:DER21:symbol
+Fixes:DER21:name
+Fixes:DER34:symbol
+Fixes:DER34:name
+Fixes:DJT48:symbol
+Fixes:DJT48:name
 Fixes:DONEN:symbol
 Fixes:DONEN:name
 Fixes:ELASU:symbol
 Fixes:ELASU:name
+Fixes:FD16:symbol
+Fixes:FD16:name
+Fixes:FD20:symbol
+Fixes:FD20:name
+Fixes:FD23:symbol
+Fixes:FD23:name
+Fixes:FD34:symbol
+Fixes:FD34:name
+Fixes:FI02:symbol
+Fixes:FI02:name
+Fixes:FI03:symbol
+Fixes:FI03:name
+Fixes:FI04R:symbol
+Fixes:FI04R:name
+Fixes:FI20:symbol
+Fixes:FI20:name
+Fixes:FI21:symbol
+Fixes:FI21:name
+Fixes:FI22L:symbol
+Fixes:FI22L:name
+Fixes:FI23:symbol
+Fixes:FI23:name
+Fixes:GMA94:symbol
+Fixes:GMA94:name
 Fixes:GODUL:symbol
 Fixes:GODUL:name
 Fixes:GUKRU:symbol
 Fixes:GUKRU:name
 Fixes:GULOT:symbol
 Fixes:GULOT:name
+Fixes:HX15:symbol
+Fixes:HX15:name
 Fixes:IDPUG:symbol
 Fixes:IDPUG:name
 Fixes:IGDAS:symbol
 Fixes:IGDAS:name
 Fixes:IGRID:symbol
 Fixes:IGRID:name
+Fixes:JH401:symbol
+Fixes:JH401:name
+Fixes:JH402:symbol
+Fixes:JH402:name
+Fixes:JH405:symbol
+Fixes:JH405:name
+Fixes:JH406:symbol
+Fixes:JH406:name
+Fixes:JH422:symbol
+Fixes:JH422:name
+Fixes:JH810:symbol
+Fixes:JH810:name
+Fixes:JH811:symbol
+Fixes:JH811:name
 Fixes:KATBO:symbol
 Fixes:KATBO:name
 Fixes:LINSO:symbol
 Fixes:LINSO:name
+Fixes:LJ401:symbol
+Fixes:LJ401:name
+Fixes:LJ402:symbol
+Fixes:LJ402:name
+Fixes:LJ403:symbol
+Fixes:LJ403:name
+Fixes:LJ404:symbol
+Fixes:LJ404:name
+Fixes:LJ606:symbol
+Fixes:LJ606:name
+Fixes:LJ607:symbol
+Fixes:LJ607:name
+Fixes:LJ609:symbol
+Fixes:LJ609:name
+Fixes:LJ614:symbol
+Fixes:LJ614:name
+Fixes:LJ615:symbol
+Fixes:LJ615:name
+Fixes:LJ705:symbol
+Fixes:LJ705:name
+Fixes:LJ706:symbol
+Fixes:LJ706:name
+Fixes:LJ708:symbol
+Fixes:LJ708:name
+Fixes:LJ709:symbol
+Fixes:LJ709:name
+Fixes:LJ710:symbol
+Fixes:LJ710:name
+Fixes:LJ711:symbol
+Fixes:LJ711:name
+Fixes:LJ713:symbol
+Fixes:LJ713:name
+Fixes:LJ714:symbol
+Fixes:LJ714:name
+Fixes:LJ715:symbol
+Fixes:LJ715:name
+Fixes:LJ716:symbol
+Fixes:LJ716:name
+Fixes:LJ717:symbol
+Fixes:LJ717:name
+Fixes:LJ723:symbol
+Fixes:LJ723:name
+Fixes:LJ725:symbol
+Fixes:LJ725:name
+Fixes:LPS46:symbol
+Fixes:LPS46:name
+Fixes:LXI70:symbol
+Fixes:LXI70:name
 Fixes:MAKUL:symbol
 Fixes:MAKUL:name
+Fixes:MD16:symbol
+Fixes:MD16:name
+Fixes:MD20:symbol
+Fixes:MD20:name
+Fixes:MD23:symbol
+Fixes:MD23:name
+Fixes:MD34:symbol
+Fixes:MD34:name
 Fixes:MEBNA:symbol
 Fixes:MEBNA:name
 Fixes:MEPAN:symbol
 Fixes:MEPAN:name
+Fixes:MP1:symbol
+Fixes:MP1:name
+Fixes:MP2:symbol
+Fixes:MP2:name
+Fixes:MP3:symbol
+Fixes:MP3:name
+Fixes:MS209:symbol
+Fixes:MS209:name
+Fixes:MS301:symbol
+Fixes:MS301:name
+Fixes:MS302:symbol
+Fixes:MS302:name
+Fixes:MS303:symbol
+Fixes:MS303:name
+Fixes:MS401:symbol
+Fixes:MS401:name
+Fixes:MS404:symbol
+Fixes:MS404:name
+Fixes:MS405:symbol
+Fixes:MS405:name
+Fixes:MS407:symbol
+Fixes:MS407:name
+Fixes:MS408:symbol
+Fixes:MS408:name
+Fixes:MS409:symbol
+Fixes:MS409:name
+Fixes:MS410:symbol
+Fixes:MS410:name
+Fixes:MS411:symbol
+Fixes:MS411:name
+Fixes:MS901:symbol
+Fixes:MS901:name
+Fixes:MS902:symbol
+Fixes:MS902:name
 Fixes:NIVUX:symbol
 Fixes:NIVUX:name
 Fixes:NIXAS:symbol
@@ -115,10 +357,246 @@ Fixes:P70:symbol
 Fixes:P70:name
 Fixes:P73:symbol
 Fixes:P73:name
+Fixes:PM403:symbol
+Fixes:PM403:name
+Fixes:PM404:symbol
+Fixes:PM404:name
+Fixes:PM405:symbol
+Fixes:PM405:name
+Fixes:PM406:symbol
+Fixes:PM406:name
+Fixes:PM407:symbol
+Fixes:PM407:name
+Fixes:PM408:symbol
+Fixes:PM408:name
+Fixes:PM409:symbol
+Fixes:PM409:name
+Fixes:PM410:symbol
+Fixes:PM410:name
+Fixes:PM411:symbol
+Fixes:PM411:name
+Fixes:PM412:symbol
+Fixes:PM412:name
+Fixes:PM413:symbol
+Fixes:PM413:name
+Fixes:PM414:symbol
+Fixes:PM414:name
+Fixes:PM415:symbol
+Fixes:PM415:name
+Fixes:PM420:symbol
+Fixes:PM420:name
+Fixes:PM421:symbol
+Fixes:PM421:name
+Fixes:PM422:symbol
+Fixes:PM422:name
+Fixes:PM423:symbol
+Fixes:PM423:name
+Fixes:PM424:symbol
+Fixes:PM424:name
+Fixes:PM425:symbol
+Fixes:PM425:name
+Fixes:PM426:symbol
+Fixes:PM426:name
+Fixes:PM438:symbol
+Fixes:PM438:name
+Fixes:PM450:symbol
+Fixes:PM450:name
+Fixes:PM451:symbol
+Fixes:PM451:name
+Fixes:PM452:symbol
+Fixes:PM452:name
+Fixes:PM453:symbol
+Fixes:PM453:name
+Fixes:PM454:symbol
+Fixes:PM454:name
+Fixes:PM455:symbol
+Fixes:PM455:name
+Fixes:PM456:symbol
+Fixes:PM456:name
+Fixes:PM457:symbol
+Fixes:PM457:name
+Fixes:PM460:symbol
+Fixes:PM460:name
+Fixes:PM461:symbol
+Fixes:PM461:name
+Fixes:PM462:symbol
+Fixes:PM462:name
+Fixes:PM463:symbol
+Fixes:PM463:name
+Fixes:PM464:symbol
+Fixes:PM464:name
+Fixes:PM465:symbol
+Fixes:PM465:name
+Fixes:PM466:symbol
+Fixes:PM466:name
+Fixes:PM467:symbol
+Fixes:PM467:name
+Fixes:PM480:symbol
+Fixes:PM480:name
+Fixes:PM481:symbol
+Fixes:PM481:name
+Fixes:PM482:symbol
+Fixes:PM482:name
+Fixes:PM483:symbol
+Fixes:PM483:name
+Fixes:PM484:symbol
+Fixes:PM484:name
+Fixes:PM485:symbol
+Fixes:PM485:name
+Fixes:PM486:symbol
+Fixes:PM486:name
+Fixes:PM487:symbol
+Fixes:PM487:name
+Fixes:PM501:symbol
+Fixes:PM501:name
+Fixes:PM502:symbol
+Fixes:PM502:name
+Fixes:PM503:symbol
+Fixes:PM503:name
+Fixes:PM504:symbol
+Fixes:PM504:name
+Fixes:PM505:symbol
+Fixes:PM505:name
+Fixes:PM506:symbol
+Fixes:PM506:name
+Fixes:PM507:symbol
+Fixes:PM507:name
+Fixes:PM508:symbol
+Fixes:PM508:name
+Fixes:PM520:symbol
+Fixes:PM520:name
+Fixes:PM521:symbol
+Fixes:PM521:name
+Fixes:PM522:symbol
+Fixes:PM522:name
+Fixes:PM523:symbol
+Fixes:PM523:name
+Fixes:PM524:symbol
+Fixes:PM524:name
+Fixes:PM525:symbol
+Fixes:PM525:name
+Fixes:PM527:symbol
+Fixes:PM527:name
+Fixes:PM528:symbol
+Fixes:PM528:name
+Fixes:PM529:symbol
+Fixes:PM529:name
+Fixes:PM530:symbol
+Fixes:PM530:name
+Fixes:PM531:symbol
+Fixes:PM531:name
+Fixes:PM532:symbol
+Fixes:PM532:name
+Fixes:PM533:symbol
+Fixes:PM533:name
+Fixes:PM534:symbol
+Fixes:PM534:name
+Fixes:PM535:symbol
+Fixes:PM535:name
+Fixes:PM536:symbol
+Fixes:PM536:name
+Fixes:PM537:symbol
+Fixes:PM537:name
+Fixes:PM539:symbol
+Fixes:PM539:name
+Fixes:PM550:symbol
+Fixes:PM550:name
+Fixes:PM551:symbol
+Fixes:PM551:name
+Fixes:PM552:symbol
+Fixes:PM552:name
+Fixes:PM553:symbol
+Fixes:PM553:name
+Fixes:PM554:symbol
+Fixes:PM554:name
+Fixes:PP401:symbol
+Fixes:PP401:name
+Fixes:PP402:symbol
+Fixes:PP402:name
+Fixes:PP403:symbol
+Fixes:PP403:name
+Fixes:PP404:symbol
+Fixes:PP404:name
+Fixes:PP406:symbol
+Fixes:PP406:name
+Fixes:PP407:symbol
+Fixes:PP407:name
+Fixes:PP409:symbol
+Fixes:PP409:name
+Fixes:PP411:symbol
+Fixes:PP411:name
+Fixes:PP413:symbol
+Fixes:PP413:name
+Fixes:PP415:symbol
+Fixes:PP415:name
+Fixes:PP417:symbol
+Fixes:PP417:name
+Fixes:PP418:symbol
+Fixes:PP418:name
+Fixes:PP419:symbol
+Fixes:PP419:name
+Fixes:PP423:symbol
+Fixes:PP423:name
+Fixes:PP502:symbol
+Fixes:PP502:name
+Fixes:PP503:symbol
+Fixes:PP503:name
+Fixes:PP505:symbol
+Fixes:PP505:name
+Fixes:PP506:symbol
+Fixes:PP506:name
+Fixes:PP508:symbol
+Fixes:PP508:name
+Fixes:PP509:symbol
+Fixes:PP509:name
+Fixes:PP510:symbol
+Fixes:PP510:name
+Fixes:PP511:symbol
+Fixes:PP511:name
+Fixes:PP512:symbol
+Fixes:PP512:name
+Fixes:PP515:symbol
+Fixes:PP515:name
+Fixes:PP516:symbol
+Fixes:PP516:name
+Fixes:PP517:symbol
+Fixes:PP517:name
+Fixes:PP520:symbol
+Fixes:PP520:name
+Fixes:PP521:symbol
+Fixes:PP521:name
+Fixes:PP527:symbol
+Fixes:PP527:name
+Fixes:PP535:symbol
+Fixes:PP535:name
+Fixes:PP537:symbol
+Fixes:PP537:name
+Fixes:PP612:symbol
+Fixes:PP612:name
+Fixes:PP613:symbol
+Fixes:PP613:name
+Fixes:PP614:symbol
+Fixes:PP614:name
+Fixes:PP622:symbol
+Fixes:PP622:name
+Fixes:PP702:symbol
+Fixes:PP702:name
+Fixes:PP703:symbol
+Fixes:PP703:name
+Fixes:PP712:symbol
+Fixes:PP712:name
+Fixes:PP713:symbol
+Fixes:PP713:name
+Fixes:PP858:symbol
+Fixes:PP858:name
+Fixes:PP934:symbol
+Fixes:PP934:name
 Fixes:SAGAG:symbol
 Fixes:SAGAG:name
 Fixes:SARPO:symbol
 Fixes:SARPO:name
+Fixes:SGM28:symbol
+Fixes:SGM28:name
 Fixes:TOSEM:symbol
 Fixes:TOSEM:name
 Fixes:TUVKI:symbol
@@ -129,8 +607,18 @@ Fixes:UPGED:symbol
 Fixes:UPGED:name
 Fixes:URGAV:symbol
 Fixes:URGAV:name
+Fixes:VOR11:symbol
+Fixes:VOR11:name
+Fixes:VOR14:symbol
+Fixes:VOR14:name
+Fixes:XFA40:symbol
+Fixes:XFA40:name
+Fixes:XFA52:symbol
+Fixes:XFA52:name
 Fixes:XISLI:symbol
 Fixes:XISLI:name
+Fixes:XSJ60:symbol
+Fixes:XSJ60:name
 VORs:BSD:symbol
 VORs:BSD:name
 VORs:CEH:symbol
@@ -322,291 +810,276 @@ Geo:ZPWS:
 Geo:ZPZT:
 Geo:ZUYI:
 Geo:ZUZH:
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:centerline
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 1
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 1 left base
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 1 left ticks
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 1 left vectoring
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 1 right base
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 1 right ticks
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 1 right vectoring
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 2
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 2 left base
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 2 left ticks
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 2 left vectoring
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 2 right base
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 2 right ticks
-Runways:ZPBS ±£É½/ÔÆÈğ 19-01:extended centerline 2 right vectoring
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:centerline
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 1
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 1 left base
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 1 left ticks
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 1 left vectoring
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 1 right base
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 1 right ticks
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 1 right vectoring
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 2
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 2 left base
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 2 left ticks
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 2 left vectoring
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 2 right base
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 2 right ticks
-Runways:ZPCW ²×Ô´/ØôÉ½ 23-05:extended centerline 2 right vectoring
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:centerline
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 1
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 1 left base
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 1 left ticks
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 1 left vectoring
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 1 right base
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 1 right ticks
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 1 right vectoring
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 2
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 2 left base
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 2 left ticks
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 2 left vectoring
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 2 right base
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 2 right ticks
-Runways:ZPDL ´óÀí/·ïÒÇ 35-17:extended centerline 2 right vectoring
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:centerline
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 1
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 1 left base
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 1 left ticks
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 1 left vectoring
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 1 right base
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 1 right ticks
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 1 right vectoring
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 2
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 2 left base
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 2 left ticks
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 2 left vectoring
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 2 right base
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 2 right ticks
-Runways:ZPDQ µÏÇì/Ïã¸ñÀïÀ­ 34-16:extended centerline 2 right vectoring
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:centerline
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 1
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 1 left base
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 1 left ticks
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 1 left vectoring
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 1 right base
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 1 right ticks
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 1 right vectoring
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 2
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 2 left base
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 2 left ticks
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 2 left vectoring
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 2 right base
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 2 right ticks
-Runways:ZPJH Î÷Ë«°æÄÉ/¸ÂÈ÷ 34-16:extended centerline 2 right vectoring
-Runways:ZPJM À½²×/¾°Âõ 30-12:centerline
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1 left base
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1 left ticks
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1 left vectoring
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1 right base
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1 right ticks
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 1 right vectoring
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2 left base
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2 left ticks
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2 left vectoring
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2 right base
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2 right ticks
-Runways:ZPJM À½²×/¾°Âõ 30-12:extended centerline 2 right vectoring
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:centerline
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 1
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 1 left base
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 1 left ticks
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 1 left vectoring
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 1 right base
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 1 right ticks
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 1 right vectoring
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 2
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 2 left base
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 2 left ticks
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 2 left vectoring
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 2 right base
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 2 right ticks
-Runways:ZPLC ÁÙ²×/²©ÉĞ 16-34:extended centerline 2 right vectoring
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:centerline
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 1
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 1 left base
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 1 left ticks
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 1 left vectoring
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 1 right base
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 1 right ticks
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 1 right vectoring
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 2
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 2 left base
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 2 left ticks
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 2 left vectoring
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 2 right base
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 2 right ticks
-Runways:ZPLJ Àö½­/ÈıÒå 20-02:extended centerline 2 right vectoring
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:centerline
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 1
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 1 left base
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 1 left ticks
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 1 left vectoring
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 1 right base
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 1 right ticks
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 1 right vectoring
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 2
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 2 left base
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 2 left ticks
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 2 left vectoring
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 2 right base
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 2 right ticks
-Runways:ZPMS µÂºê/Ã¢ÊĞ 05-23:extended centerline 2 right vectoring
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:centerline
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 1
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 1 left base
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 1 left ticks
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 1 left vectoring
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 1 right base
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 1 right ticks
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 1 right vectoring
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 2
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 2 left base
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 2 left ticks
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 2 left vectoring
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 2 right base
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 2 right ticks
-Runways:ZPNL Äşİõ/ãò¹Áºş 05-23:extended centerline 2 right vectoring
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:centerline
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 1
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 1 left base
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 1 left ticks
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 1 left vectoring
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 1 right base
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 1 right ticks
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 1 right vectoring
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 2
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 2 left base
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 2 left ticks
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 2 left vectoring
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 2 right base
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 2 right ticks
-Runways:ZPPP À¥Ã÷/³¤Ë® 21-03:extended centerline 2 right vectoring
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:centerline
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 1
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 1 left base
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 1 left ticks
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 1 left vectoring
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 1 right base
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 1 right ticks
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 1 right vectoring
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 2
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 2 left base
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 2 left ticks
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 2 left vectoring
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 2 right base
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 2 right ticks
-Runways:ZPPP À¥Ã÷/³¤Ë® 22L-04R:extended centerline 2 right vectoring
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:centerline
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 1
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 1 left base
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 1 left ticks
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 1 left vectoring
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 1 right base
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 1 right ticks
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 1 right vectoring
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 2
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 2 left base
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 2 left ticks
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 2 left vectoring
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 2 right base
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 2 right ticks
-Runways:ZPPP À¥Ã÷/³¤Ë® 22R-04L:extended centerline 2 right vectoring
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:centerline
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 1
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 1 left base
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 1 left ticks
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 1 left vectoring
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 1 right base
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 1 right ticks
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 1 right vectoring
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 2
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 2 left base
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 2 left ticks
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 2 left vectoring
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 2 right base
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 2 right ticks
-Runways:ZPSM ÆÕ¶ı/Ë¼Ã© 36-18:extended centerline 2 right vectoring
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:centerline
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1 left base
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1 left ticks
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1 left vectoring
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1 right base
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1 right ticks
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1 right vectoring
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2 left base
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2 left ticks
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2 left vectoring
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2 right base
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2 right ticks
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2 right vectoring
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:centerline
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 1
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 1 left base
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 1 left ticks
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 1 left vectoring
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 1 right base
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 1 right ticks
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 1 right vectoring
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 2
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 2 left base
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 2 left ticks
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 2 left vectoring
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 2 right base
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 2 right ticks
-Runways:ZPWS ÎÄÉ½/ÑâÉ½ 20-02:extended centerline 2 right vectoring
-Runways:ZPZT ÕÑÍ¨ 22-04:centerline
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1 left base
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1 left ticks
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1 left vectoring
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1 right base
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1 right ticks
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 1 right vectoring
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2 left base
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2 left ticks
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2 left vectoring
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2 right base
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2 right ticks
-Runways:ZPZT ÕÑÍ¨ 22-04:extended centerline 2 right vectoring
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:centerline
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 1
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 1 left base
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 1 left ticks
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 1 left vectoring
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 1 right base
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 1 right ticks
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 1 right vectoring
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 2
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 2 left base
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 2 left ticks
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 2 left vectoring
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 2 right base
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 2 right ticks
-Runways:ZUYI ĞËÒå/Íò·åÁÖ 16-34:extended centerline 2 right vectoring
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:centerline
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1 left base
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1 left ticks
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1 left vectoring
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1 right base
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1 right ticks
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1 right vectoring
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2 left base
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2 left ticks
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2 left vectoring
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2 right base
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2 right ticks
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2 right vectoring
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:centerline
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 1
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 1 left base
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 1 left ticks
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 1 left vectoring
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 1 right base
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 1 right ticks
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 1 right vectoring
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 2
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 2 left base
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 2 left ticks
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 2 left vectoring
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 2 right base
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 2 right ticks
+Runways:ZPBS ä¿å±±/äº‘ç‘ 19-01:extended centerline 2 right vectoring
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:centerline
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 1
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 1 left base
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 1 left ticks
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 1 left vectoring
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 1 right base
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 1 right ticks
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 1 right vectoring
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 2
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 2 left base
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 2 left ticks
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 2 left vectoring
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 2 right base
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 2 right ticks
+Runways:ZPCW æ²§æº/ä½¤å±± 23-05:extended centerline 2 right vectoring
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:centerline
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 1
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 1 left base
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 1 left ticks
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 1 left vectoring
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 1 right base
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 1 right ticks
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 1 right vectoring
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 2
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 2 left base
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 2 left ticks
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 2 left vectoring
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 2 right base
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 2 right ticks
+Runways:ZPDL å¤§ç†/å‡¤ä»ª 35-17:extended centerline 2 right vectoring
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:centerline
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 1
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 1 left base
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 1 left ticks
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 1 left vectoring
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 1 right base
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 1 right ticks
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 1 right vectoring
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 2
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 2 left base
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 2 left ticks
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 2 left vectoring
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 2 right base
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 2 right ticks
+Runways:ZPDQ è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ 34-16:extended centerline 2 right vectoring
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:centerline
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 1
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 1 left base
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 1 left ticks
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 1 left vectoring
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 1 right base
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 1 right ticks
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 1 right vectoring
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 2
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 2 left base
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 2 left ticks
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 2 left vectoring
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 2 right base
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 2 right ticks
+Runways:ZPJH è¥¿åŒç‰ˆçº³/å˜æ´’ 34-16:extended centerline 2 right vectoring
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:centerline
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1 left base
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1 left ticks
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1 left vectoring
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1 right base
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1 right ticks
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 1 right vectoring
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2 left base
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2 left ticks
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2 left vectoring
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2 right base
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2 right ticks
+Runways:ZPJM æ¾œæ²§/æ™¯è¿ˆ 30-12:extended centerline 2 right vectoring
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:centerline
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 1
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 1 left base
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 1 left ticks
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 1 left vectoring
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 1 right base
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 1 right ticks
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 1 right vectoring
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 2
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 2 left base
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 2 left ticks
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 2 left vectoring
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 2 right base
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 2 right ticks
+Runways:ZPLC ä¸´æ²§/åšå°š 16-34:extended centerline 2 right vectoring
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:centerline
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 1
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 1 left base
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 1 left ticks
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 1 left vectoring
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 1 right base
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 1 right ticks
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 1 right vectoring
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 2
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 2 left base
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 2 left ticks
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 2 left vectoring
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 2 right base
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 2 right ticks
+Runways:ZPLJ ä¸½æ±Ÿ/ä¸‰ä¹‰ 20-02:extended centerline 2 right vectoring
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:centerline
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 1
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 1 left base
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 1 left ticks
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 1 left vectoring
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 1 right base
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 1 right ticks
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 1 right vectoring
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 2
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 2 left base
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 2 left ticks
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 2 left vectoring
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 2 right base
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 2 right ticks
+Runways:ZPMS å¾·å®/èŠ’å¸‚ 05-23:extended centerline 2 right vectoring
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:centerline
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 1
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 1 left base
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 1 left ticks
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 1 left vectoring
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 1 right base
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 1 right ticks
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 1 right vectoring
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 2
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 2 left base
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 2 left ticks
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 2 left vectoring
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 2 right base
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 2 right ticks
+Runways:ZPNL å®è’—/æ³¸æ²½æ¹– 05-23:extended centerline 2 right vectoring
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:centerline
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 1
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 1 left base
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 1 left ticks
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 1 left vectoring
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 1 right base
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 1 right ticks
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 1 right vectoring
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 2
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 2 left base
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 2 left ticks
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 2 left vectoring
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 2 right base
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 2 right ticks
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 21-03:extended centerline 2 right vectoring
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:centerline
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 1
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 1 left base
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 1 left ticks
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 1 left vectoring
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 1 right base
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 1 right ticks
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 1 right vectoring
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 2
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 2 left base
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 2 left ticks
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 2 left vectoring
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 2 right base
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 2 right ticks
+Runways:ZPPP æ˜†æ˜/é•¿æ°´ 22L-04R:extended centerline 2 right vectoring
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:centerline
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 1
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 1 left base
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 1 left ticks
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 1 left vectoring
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 1 right base
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 1 right ticks
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 1 right vectoring
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 2
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 2 left base
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 2 left ticks
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 2 left vectoring
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 2 right base
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 2 right ticks
+Runways:ZPSM æ™®æ´±/æ€èŒ… 36-18:extended centerline 2 right vectoring
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:centerline
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1 left base
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1 left ticks
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1 left vectoring
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1 right base
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1 right ticks
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1 right vectoring
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2 left base
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2 left ticks
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2 left vectoring
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2 right base
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2 right ticks
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2 right vectoring
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:centerline
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 1
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 1 left base
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 1 left ticks
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 1 left vectoring
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 1 right base
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 1 right ticks
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 1 right vectoring
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 2
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 2 left base
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 2 left ticks
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 2 left vectoring
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 2 right base
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 2 right ticks
+Runways:ZPWS æ–‡å±±/ç šå±± 20-02:extended centerline 2 right vectoring
+Runways:ZPZT æ˜­é€š 22-04:centerline
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1 left base
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1 left ticks
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1 left vectoring
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1 right base
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1 right ticks
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 1 right vectoring
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2 left base
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2 left ticks
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2 left vectoring
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2 right base
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2 right ticks
+Runways:ZPZT æ˜­é€š 22-04:extended centerline 2 right vectoring
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:centerline
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 1
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 1 left base
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 1 left ticks
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 1 left vectoring
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 1 right base
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 1 right ticks
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 1 right vectoring
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 2
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 2 left base
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 2 left ticks
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 2 left vectoring
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 2 right base
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 2 right ticks
+Runways:ZUYI å…´ä¹‰/ä¸‡å³°æ— 16-34:extended centerline 2 right vectoring
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:centerline
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1 left base
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1 left ticks
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1 left vectoring
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1 right base
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1 right ticks
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1 right vectoring
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2 left base
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2 left ticks
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2 left vectoring
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2 right base
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2 right ticks
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

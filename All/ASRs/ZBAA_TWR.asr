@@ -5,52 +5,88 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZBAA:symbol
 Airports:ZBAA:name
+Fixes:AA111:symbol
+Fixes:AA111:name
+Fixes:AA171:symbol
+Fixes:AA171:name
+Fixes:AA410:symbol
+Fixes:AA410:name
+Fixes:AA497:symbol
+Fixes:AA497:name
+Fixes:AA521:symbol
+Fixes:AA521:name
+Fixes:AA595:symbol
+Fixes:AA595:name
+Fixes:DE18L:symbol
+Fixes:DE18L:name
+Fixes:DE18R:symbol
+Fixes:DE18R:name
+Fixes:DE36L:symbol
+Fixes:DE36L:name
+Fixes:DE36R:symbol
+Fixes:DE36R:name
+Fixes:DER01:symbol
+Fixes:DER01:name
+Fixes:DER19:symbol
+Fixes:DER19:name
+Fixes:FI01Z:symbol
+Fixes:FI01Z:name
+Fixes:FI19Z:symbol
+Fixes:FI19Z:name
+Fixes:FI1LZ:symbol
+Fixes:FI1LZ:name
+Fixes:FI1RY:symbol
+Fixes:FI1RY:name
+Fixes:FI3LY:symbol
+Fixes:FI3LY:name
+Fixes:FI3RY:symbol
+Fixes:FI3RY:name
 Geo:ZBAA:
-Runways:ZBAA 北京/首都 01-19:centerline
-Runways:ZBAA 北京/首都 01-19:extended centerline 1
-Runways:ZBAA 北京/首都 01-19:extended centerline 1 left base
-Runways:ZBAA 北京/首都 01-19:extended centerline 1 left ticks
-Runways:ZBAA 北京/首都 01-19:extended centerline 1 left vectoring
-Runways:ZBAA 北京/首都 01-19:extended centerline 1 right base
-Runways:ZBAA 北京/首都 01-19:extended centerline 1 right ticks
-Runways:ZBAA 北京/首都 01-19:extended centerline 1 right vectoring
-Runways:ZBAA 北京/首都 01-19:extended centerline 2
-Runways:ZBAA 北京/首都 01-19:extended centerline 2 left base
-Runways:ZBAA 北京/首都 01-19:extended centerline 2 left ticks
-Runways:ZBAA 北京/首都 01-19:extended centerline 2 left vectoring
-Runways:ZBAA 北京/首都 01-19:extended centerline 2 right base
-Runways:ZBAA 北京/首都 01-19:extended centerline 2 right ticks
-Runways:ZBAA 北京/首都 01-19:extended centerline 2 right vectoring
-Runways:ZBAA 北京/首都 36L-18R:centerline
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 1
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 1 left base
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 1 left ticks
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 1 left vectoring
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 1 right base
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 1 right ticks
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 1 right vectoring
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 2
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 2 left base
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 2 left ticks
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 2 left vectoring
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 2 right base
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 2 right ticks
-Runways:ZBAA 北京/首都 36L-18R:extended centerline 2 right vectoring
-Runways:ZBAA 北京/首都 36R-18L:centerline
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 1
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 1 left base
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 1 left ticks
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 1 left vectoring
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 1 right base
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 1 right ticks
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 1 right vectoring
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 2
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 2 left base
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 2 left ticks
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 2 left vectoring
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 2 right base
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 2 right ticks
-Runways:ZBAA 北京/首都 36R-18L:extended centerline 2 right vectoring
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:centerline
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 1
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 1 left base
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 1 left ticks
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 1 left vectoring
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 1 right base
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 1 right ticks
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 1 right vectoring
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 2
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 2 left base
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 2 left ticks
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 2 left vectoring
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 2 right base
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 2 right ticks
+Runways:ZBAA 鍖椾含/棣栭兘 01-19:extended centerline 2 right vectoring
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:centerline
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 1
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 1 left base
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 1 left ticks
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 1 left vectoring
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 1 right base
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 1 right ticks
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 1 right vectoring
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 2
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 2 left base
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 2 left ticks
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 2 left vectoring
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 2 right base
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 2 right ticks
+Runways:ZBAA 鍖椾含/棣栭兘 36L-18R:extended centerline 2 right vectoring
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:centerline
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 1
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 1 left base
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 1 left ticks
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 1 left vectoring
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 1 right base
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 1 right ticks
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 1 right vectoring
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 2
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 2 left base
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 2 left ticks
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 2 left vectoring
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 2 right base
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 2 right ticks
+Runways:ZBAA 鍖椾含/棣栭兘 36R-18L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

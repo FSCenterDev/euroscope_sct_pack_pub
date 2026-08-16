@@ -8,21 +8,21 @@ Airports:ZPCW:name
 VORs:DCY:symbol
 VORs:DCY:name
 Geo:ZPCW:
-Runways:ZPCW 沧源/佤山 23-05:centerline
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 1
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 1 left base
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 1 left ticks
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 1 left vectoring
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 1 right base
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 1 right ticks
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 1 right vectoring
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 2
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 2 left base
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 2 left ticks
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 2 left vectoring
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 2 right base
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 2 right ticks
-Runways:ZPCW 沧源/佤山 23-05:extended centerline 2 right vectoring
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:centerline
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 1
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 1 left base
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 1 left ticks
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 1 left vectoring
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 1 right base
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 1 right ticks
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 1 right vectoring
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 2
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 2 left base
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 2 left ticks
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 2 left vectoring
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 2 right base
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 2 right ticks
+Runways:ZPCW 娌ф簮/浣ゅ北 23-05:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -5,24 +5,26 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZUMY:symbol
 Airports:ZUMY:name
+Fixes:UU803:symbol
+Fixes:UU803:name
 VORs:MYG:symbol
 VORs:MYG:name
 Geo:ZUMY:
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:centerline
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 1
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 1 left base
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 1 left ticks
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 1 left vectoring
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 1 right base
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 1 right ticks
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 1 right vectoring
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 2
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 2 left base
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 2 left ticks
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 2 left vectoring
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 2 right base
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 2 right ticks
-Runways:ZUMY ÃàÑô/ÄÏ½¼ 14-32:extended centerline 2 right vectoring
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:centerline
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 1
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 1 left base
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 1 left ticks
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 1 left vectoring
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 1 right base
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 1 right ticks
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 1 right vectoring
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 2
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 2 left base
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 2 left ticks
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 2 left vectoring
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 2 right base
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 2 right ticks
+Runways:ZUMY ç»µé˜³/å—éƒŠ 14-32:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

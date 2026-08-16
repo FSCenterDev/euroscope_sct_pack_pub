@@ -5,6 +5,62 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSCG:symbol
 Airports:ZSCG:name
+Fixes:CD11:symbol
+Fixes:CD11:name
+Fixes:CD29:symbol
+Fixes:CD29:name
+Fixes:CG103:symbol
+Fixes:CG103:name
+Fixes:CG104:symbol
+Fixes:CG104:name
+Fixes:CG107:symbol
+Fixes:CG107:name
+Fixes:CG108:symbol
+Fixes:CG108:name
+Fixes:CG203:symbol
+Fixes:CG203:name
+Fixes:CG205:symbol
+Fixes:CG205:name
+Fixes:CG206:symbol
+Fixes:CG206:name
+Fixes:CG207:symbol
+Fixes:CG207:name
+Fixes:CG301:symbol
+Fixes:CG301:name
+Fixes:CI11:symbol
+Fixes:CI11:name
+Fixes:CI29:symbol
+Fixes:CI29:name
+Fixes:D251K:symbol
+Fixes:D251K:name
+Fixes:D284L:symbol
+Fixes:D284L:name
+Fixes:D285L:symbol
+Fixes:D285L:name
+Fixes:D300L:symbol
+Fixes:D300L:name
+Fixes:D303L:symbol
+Fixes:D303L:name
+Fixes:FD11:symbol
+Fixes:FD11:name
+Fixes:FD29:symbol
+Fixes:FD29:name
+Fixes:FF11:symbol
+Fixes:FF11:name
+Fixes:FF29:symbol
+Fixes:FF29:name
+Fixes:MD11:symbol
+Fixes:MD11:name
+Fixes:MD29:symbol
+Fixes:MD29:name
+Fixes:SS602:symbol
+Fixes:SS602:name
+Fixes:SS611:symbol
+Fixes:SS611:name
+Fixes:SS612:symbol
+Fixes:SS612:name
+Fixes:SS613:symbol
+Fixes:SS613:name
 Fixes:UBRUG:symbol
 Fixes:UBRUG:name
 NDBs:ZJ:symbol
@@ -17,21 +73,21 @@ High airways:W167:line
 High airways:W184:line
 High airways:W582:line
 Geo:ZSCG:
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:centerline
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1 left base
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1 left ticks
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1 left vectoring
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1 right base
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1 right ticks
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 1 right vectoring
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2 left base
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2 left ticks
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2 left vectoring
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2 right base
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2 right ticks
-Runways:ZSCG ³£ÖÝ/±¼Å£ 29-11:extended centerline 2 right vectoring
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:centerline
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1 left base
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1 left ticks
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1 left vectoring
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1 right base
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1 right ticks
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 1 right vectoring
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2 left base
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2 left ticks
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2 left vectoring
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2 right base
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2 right ticks
+Runways:ZSCG å¸¸å·ž/å¥”ç‰› 29-11:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

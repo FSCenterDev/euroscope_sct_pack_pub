@@ -5,24 +5,50 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZYTL:symbol
 Airports:ZYTL:name
+Fixes:D013D:symbol
+Fixes:D013D:name
+Fixes:TL110:symbol
+Fixes:TL110:name
+Fixes:TL111:symbol
+Fixes:TL111:name
+Fixes:TL112:symbol
+Fixes:TL112:name
+Fixes:TL114:symbol
+Fixes:TL114:name
+Fixes:TL203:symbol
+Fixes:TL203:name
+Fixes:TL205:symbol
+Fixes:TL205:name
+Fixes:TL311:symbol
+Fixes:TL311:name
+Fixes:TL314:symbol
+Fixes:TL314:name
+Fixes:TL406:symbol
+Fixes:TL406:name
+Fixes:TL408:symbol
+Fixes:TL408:name
+Fixes:TL500:symbol
+Fixes:TL500:name
+Fixes:TL501:symbol
+Fixes:TL501:name
 VORs:DBL:symbol
 VORs:DBL:name
 Geo:ZYTL:
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:centerline
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 1
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 1 left base
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 1 left ticks
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 1 left vectoring
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 1 right base
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 1 right ticks
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 1 right vectoring
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 2
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 2 left base
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 2 left ticks
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 2 left vectoring
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 2 right base
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 2 right ticks
-Runways:ZYTL ´óÁ¬/ÖÜË®×Ó 10-28:extended centerline 2 right vectoring
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:centerline
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 1
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 1 left base
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 1 left ticks
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 1 left vectoring
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 1 right base
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 1 right ticks
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 1 right vectoring
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 2
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 2 left base
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 2 left ticks
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 2 left vectoring
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 2 right base
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 2 right ticks
+Runways:ZYTL å¤§è¿/å‘¨æ°´å­ 10-28:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

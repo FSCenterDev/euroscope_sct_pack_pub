@@ -5,24 +5,44 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZYYJ:symbol
 Airports:ZYYJ:name
+Fixes:46VOR:symbol
+Fixes:46VOR:name
+Fixes:55VOR:symbol
+Fixes:55VOR:name
+Fixes:D041B:symbol
+Fixes:D041B:name
+Fixes:D341B:symbol
+Fixes:D341B:name
+Fixes:MD09:symbol
+Fixes:MD09:name
+Fixes:MD27:symbol
+Fixes:MD27:name
+Fixes:MQ09:symbol
+Fixes:MQ09:name
+Fixes:YJ406:symbol
+Fixes:YJ406:name
+Fixes:YJ407:symbol
+Fixes:YJ407:name
+Fixes:YJ606:symbol
+Fixes:YJ606:name
 VORs:YNJ:symbol
 VORs:YNJ:name
 Geo:ZYYJ:
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:centerline
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 1
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 1 left base
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 1 left ticks
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 1 left vectoring
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 1 right base
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 1 right ticks
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 1 right vectoring
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 2
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 2 left base
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 2 left ticks
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 2 left vectoring
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 2 right base
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 2 right ticks
-Runways:ZYYJ ÑÓ¼ª/³¯Ñô´¨ 09-27:extended centerline 2 right vectoring
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:centerline
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 1
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 1 left base
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 1 left ticks
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 1 left vectoring
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 1 right base
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 1 right ticks
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 1 right vectoring
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 2
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 2 left base
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 2 left ticks
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 2 left vectoring
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 2 right base
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 2 right ticks
+Runways:ZYYJ å»¶å‰/æœé˜³å· 09-27:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -5,27 +5,57 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZPLJ:symbol
 Airports:ZPLJ:name
+Fixes:32VOR:symbol
+Fixes:32VOR:name
+Fixes:D195E:symbol
+Fixes:D195E:name
+Fixes:D196G:symbol
+Fixes:D196G:name
+Fixes:D197T:symbol
+Fixes:D197T:name
+Fixes:D203M:symbol
+Fixes:D203M:name
+Fixes:FD20:symbol
+Fixes:FD20:name
+Fixes:FI20:symbol
+Fixes:FI20:name
+Fixes:LJ401:symbol
+Fixes:LJ401:name
+Fixes:LJ614:symbol
+Fixes:LJ614:name
+Fixes:LJ615:symbol
+Fixes:LJ615:name
+Fixes:LJ709:symbol
+Fixes:LJ709:name
+Fixes:LJ713:symbol
+Fixes:LJ713:name
+Fixes:LJ714:symbol
+Fixes:LJ714:name
+Fixes:LJ725:symbol
+Fixes:LJ725:name
+Fixes:MD20:symbol
+Fixes:MD20:name
 VORs:LJA:symbol
 VORs:LJA:name
 High airways:J174:line
 High airways:L888:line
 High airways:W535:line
 Geo:ZPLJ:
-Runways:ZPLJ 丽江/三义 20-02:centerline
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 1
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 1 left base
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 1 left ticks
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 1 left vectoring
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 1 right base
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 1 right ticks
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 1 right vectoring
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 2
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 2 left base
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 2 left ticks
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 2 left vectoring
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 2 right base
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 2 right ticks
-Runways:ZPLJ 丽江/三义 20-02:extended centerline 2 right vectoring
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:centerline
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 1
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 1 left base
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 1 left ticks
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 1 left vectoring
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 1 right base
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 1 right ticks
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 1 right vectoring
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 2
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 2 left base
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 2 left ticks
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 2 left vectoring
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 2 right base
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 2 right ticks
+Runways:ZPLJ 涓芥睙/涓変箟 20-02:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

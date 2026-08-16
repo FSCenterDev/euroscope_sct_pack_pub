@@ -10,21 +10,21 @@ Fixes:TEPOD:name
 VORs:ZLT:symbol
 VORs:ZLT:name
 Geo:ZBZL:
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:centerline
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 1
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 1 left base
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 1 left ticks
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 1 left vectoring
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 1 right base
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 1 right ticks
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 1 right vectoring
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 2
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 2 left base
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 2 left ticks
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 2 left vectoring
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 2 right base
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 2 right ticks
-Runways:ZBZL ÔúÀ¼ÍÍ/³É¼ªË¼º¹ 02-20:extended centerline 2 right vectoring
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:centerline
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 1
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 1 left base
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 1 left ticks
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 1 left vectoring
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 1 right base
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 1 right ticks
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 1 right vectoring
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 2
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 2 left base
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 2 left ticks
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 2 left vectoring
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 2 right base
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 2 right ticks
+Runways:ZBZL æ‰å…°å±¯/æˆå‰æ€æ±— 02-20:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

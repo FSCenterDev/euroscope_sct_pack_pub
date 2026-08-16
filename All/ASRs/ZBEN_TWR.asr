@@ -12,21 +12,21 @@ VORs:ETL:name
 VORs:JNQ:symbol
 VORs:JNQ:name
 Geo:ZBEN:
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:centerline
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 1
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 1 left base
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 1 left ticks
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 1 left vectoring
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 1 right base
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 1 right ticks
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 1 right vectoring
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 2
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 2 left base
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 2 left ticks
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 2 left vectoring
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 2 right base
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 2 right ticks
-Runways:ZBEN ¶î¼ÃÄÉÆì/ÌÒÀ´ 30-12:extended centerline 2 right vectoring
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:centerline
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 1
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 1 left base
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 1 left ticks
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 1 left vectoring
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 1 right base
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 1 right ticks
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 1 right vectoring
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 2
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 2 left base
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 2 left ticks
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 2 left vectoring
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 2 right base
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 2 right ticks
+Runways:ZBEN é¢æµçº³æ——/æ¡ƒæ¥ 30-12:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

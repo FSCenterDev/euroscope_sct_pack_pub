@@ -8,21 +8,21 @@ Airports:ZWAL:name
 VORs:LUA:symbol
 VORs:LUA:name
 Geo:ZWAL:
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:centerline
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 1
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 1 left base
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 1 left ticks
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 1 left vectoring
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 1 right base
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 1 right ticks
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 1 right vectoring
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 2
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 2 left base
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 2 left ticks
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 2 left vectoring
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 2 right base
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 2 right ticks
-Runways:ZWAL °¢À­¶û/ËşÀïÄ¾ 05-23:extended centerline 2 right vectoring
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:centerline
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 1
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 1 left base
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 1 left ticks
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 1 left vectoring
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 1 right base
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 1 right ticks
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 1 right vectoring
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 2
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 2 left base
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 2 left ticks
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 2 left vectoring
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 2 right base
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 2 right ticks
+Runways:ZWAL é˜¿æ‹‰å°”/å¡”é‡Œæœ¨ 05-23:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

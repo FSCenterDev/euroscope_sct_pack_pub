@@ -6,21 +6,21 @@ SECTORTITLE:
 Airports:ZLGL:symbol
 Airports:ZLGL:name
 Geo:ZLGL:
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:centerline
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 1
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 1 left base
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 1 left ticks
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 1 left vectoring
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 1 right base
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 1 right ticks
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 1 right vectoring
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 2
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 2 left base
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 2 left ticks
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 2 left vectoring
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 2 right base
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 2 right ticks
-Runways:ZLGL ¹ûÂå/ÂêÇß 30-12:extended centerline 2 right vectoring
+Runways:ZLGL æœæ´›/ç›æ² 30-12:centerline
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 1
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 1 left base
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 1 left ticks
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 1 left vectoring
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 1 right base
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 1 right ticks
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 1 right vectoring
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 2
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 2 left base
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 2 left ticks
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 2 left vectoring
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 2 right base
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 2 right ticks
+Runways:ZLGL æœæ´›/ç›æ² 30-12:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

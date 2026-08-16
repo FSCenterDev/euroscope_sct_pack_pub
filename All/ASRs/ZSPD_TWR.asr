@@ -5,69 +5,101 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSPD:symbol
 Airports:ZSPD:name
+Fixes:18VOR:symbol
+Fixes:18VOR:name
+Fixes:51VOR:symbol
+Fixes:51VOR:name
+Fixes:DE16L:symbol
+Fixes:DE16L:name
+Fixes:DE16R:symbol
+Fixes:DE16R:name
+Fixes:DE17L:symbol
+Fixes:DE17L:name
+Fixes:DE17R:symbol
+Fixes:DE17R:name
+Fixes:DE34L:symbol
+Fixes:DE34L:name
+Fixes:DE34R:symbol
+Fixes:DE34R:name
+Fixes:DE35L:symbol
+Fixes:DE35L:name
+Fixes:DE35R:symbol
+Fixes:DE35R:name
+Fixes:FI16L:symbol
+Fixes:FI16L:name
+Fixes:FI16R:symbol
+Fixes:FI16R:name
+Fixes:FI34L:symbol
+Fixes:FI34L:name
+Fixes:MM35R:symbol
+Fixes:MM35R:name
+Fixes:PD207:symbol
+Fixes:PD207:name
+Fixes:PD511:symbol
+Fixes:PD511:name
 VORs:PUD:symbol
 VORs:PUD:name
 Geo:ZSPD:
-Runways:ZSPD 上海/浦东 16R-34L:centerline
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1 left base
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1 left ticks
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1 left vectoring
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1 right base
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1 right ticks
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 1 right vectoring
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2 left base
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2 left ticks
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2 left vectoring
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2 right base
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2 right ticks
-Runways:ZSPD 上海/浦东 16R-34L:extended centerline 2 right vectoring
-Runways:ZSPD 上海/浦东 17R-35L:centerline
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1 left base
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1 left ticks
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1 left vectoring
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1 right base
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1 right ticks
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 1 right vectoring
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2 left base
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2 left ticks
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2 left vectoring
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2 right base
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2 right ticks
-Runways:ZSPD 上海/浦东 17R-35L:extended centerline 2 right vectoring
-Runways:ZSPD 上海/浦东 34R-16L:centerline
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1 left base
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1 left ticks
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1 left vectoring
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1 right base
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1 right ticks
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 1 right vectoring
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2 left base
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2 left ticks
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2 left vectoring
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2 right base
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2 right ticks
-Runways:ZSPD 上海/浦东 34R-16L:extended centerline 2 right vectoring
-Runways:ZSPD 上海/浦东 35R-17L:centerline
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1 left base
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1 left ticks
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1 left vectoring
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1 right base
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1 right ticks
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 1 right vectoring
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2 left base
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2 left ticks
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2 left vectoring
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2 right base
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2 right ticks
-Runways:ZSPD 上海/浦东 35R-17L:extended centerline 2 right vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:centerline
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 1
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 1 left base
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 1 left ticks
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 1 left vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 1 right base
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 1 right ticks
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 1 right vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 2
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 2 left base
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 2 left ticks
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 2 left vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 2 right base
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 2 right ticks
+Runways:ZSPD 涓婃捣/娴︿笢 16R-34L:extended centerline 2 right vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:centerline
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 1
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 1 left base
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 1 left ticks
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 1 left vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 1 right base
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 1 right ticks
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 1 right vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 2
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 2 left base
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 2 left ticks
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 2 left vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 2 right base
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 2 right ticks
+Runways:ZSPD 涓婃捣/娴︿笢 17R-35L:extended centerline 2 right vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:centerline
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 1
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 1 left base
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 1 left ticks
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 1 left vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 1 right base
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 1 right ticks
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 1 right vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 2
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 2 left base
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 2 left ticks
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 2 left vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 2 right base
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 2 right ticks
+Runways:ZSPD 涓婃捣/娴︿笢 34R-16L:extended centerline 2 right vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:centerline
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 1
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 1 left base
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 1 left ticks
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 1 left vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 1 right base
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 1 right ticks
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 1 right vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 2
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 2 left base
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 2 left ticks
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 2 left vectoring
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 2 right base
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 2 right ticks
+Runways:ZSPD 涓婃捣/娴︿笢 35R-17L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

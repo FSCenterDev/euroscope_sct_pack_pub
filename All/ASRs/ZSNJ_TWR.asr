@@ -5,8 +5,34 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSNJ:symbol
 Airports:ZSNJ:name
+Fixes:22VOR:symbol
+Fixes:22VOR:name
+Fixes:53VOR:symbol
+Fixes:53VOR:name
 Fixes:DOGVI:symbol
 Fixes:DOGVI:name
+Fixes:FF06:symbol
+Fixes:FF06:name
+Fixes:FF24:symbol
+Fixes:FF24:name
+Fixes:FI07:symbol
+Fixes:FI07:name
+Fixes:FI25:symbol
+Fixes:FI25:name
+Fixes:MD06:symbol
+Fixes:MD06:name
+Fixes:MD24:symbol
+Fixes:MD24:name
+Fixes:NJ217:symbol
+Fixes:NJ217:name
+Fixes:NJ501:symbol
+Fixes:NJ501:name
+Fixes:NJ504:symbol
+Fixes:NJ504:name
+Fixes:NJ601:symbol
+Fixes:NJ601:name
+Fixes:NJ602:symbol
+Fixes:NJ602:name
 VORs:MLJ:symbol
 VORs:MLJ:name
 VORs:NJL:symbol
@@ -14,36 +40,36 @@ VORs:NJL:name
 VORs:SNQ:symbol
 VORs:SNQ:name
 Geo:ZSNJ:
-Runways:ZSNJ 南京/禄口 24-06:centerline
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 1
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 1 left base
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 1 left ticks
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 1 left vectoring
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 1 right base
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 1 right ticks
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 1 right vectoring
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 2
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 2 left base
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 2 left ticks
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 2 left vectoring
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 2 right base
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 2 right ticks
-Runways:ZSNJ 南京/禄口 24-06:extended centerline 2 right vectoring
-Runways:ZSNJ 南京/禄口 25-07:centerline
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 1
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 1 left base
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 1 left ticks
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 1 left vectoring
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 1 right base
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 1 right ticks
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 1 right vectoring
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 2
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 2 left base
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 2 left ticks
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 2 left vectoring
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 2 right base
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 2 right ticks
-Runways:ZSNJ 南京/禄口 25-07:extended centerline 2 right vectoring
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:centerline
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 1
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 1 left base
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 1 left ticks
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 1 left vectoring
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 1 right base
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 1 right ticks
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 1 right vectoring
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 2
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 2 left base
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 2 left ticks
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 2 left vectoring
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 2 right base
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 2 right ticks
+Runways:ZSNJ 鍗椾含/绂勫彛 24-06:extended centerline 2 right vectoring
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:centerline
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 1
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 1 left base
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 1 left ticks
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 1 left vectoring
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 1 right base
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 1 right ticks
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 1 right vectoring
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 2
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 2 left base
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 2 left ticks
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 2 left vectoring
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 2 right base
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 2 right ticks
+Runways:ZSNJ 鍗椾含/绂勫彛 25-07:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

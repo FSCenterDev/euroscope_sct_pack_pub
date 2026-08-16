@@ -5,24 +5,44 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZGDY:symbol
 Airports:ZGDY:name
+Fixes:41VOR:symbol
+Fixes:41VOR:name
+Fixes:64VOR:symbol
+Fixes:64VOR:name
+Fixes:D059C:symbol
+Fixes:D059C:name
+Fixes:D126H:symbol
+Fixes:D126H:name
+Fixes:DG455:symbol
+Fixes:DG455:name
+Fixes:DG828:symbol
+Fixes:DG828:name
+Fixes:DG900:symbol
+Fixes:DG900:name
+Fixes:DG992:symbol
+Fixes:DG992:name
+Fixes:JX001:symbol
+Fixes:JX001:name
+Fixes:MD26:symbol
+Fixes:MD26:name
 VORs:DYG:symbol
 VORs:DYG:name
 Geo:ZGDY:
-Runways:ZGDY �żҽ�/�ɻ� 26-08:centerline
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 1
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 1 left base
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 1 left ticks
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 1 left vectoring
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 1 right base
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 1 right ticks
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 1 right vectoring
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 2
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 2 left base
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 2 left ticks
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 2 left vectoring
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 2 right base
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 2 right ticks
-Runways:ZGDY �żҽ�/�ɻ� 26-08:extended centerline 2 right vectoring
+Runways:ZGDY 张家界/荷花 26-08:centerline
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 1
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 1 left base
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 1 left ticks
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 1 left vectoring
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 1 right base
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 1 right ticks
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 1 right vectoring
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 2
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 2 left base
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 2 left ticks
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 2 left vectoring
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 2 right base
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 2 right ticks
+Runways:ZGDY 张家界/荷花 26-08:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

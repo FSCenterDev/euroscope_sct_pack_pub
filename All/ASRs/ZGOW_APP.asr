@@ -5,6 +5,40 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZGOW:symbol
 Airports:ZGOW:name
+Fixes:12VOR:symbol
+Fixes:12VOR:name
+Fixes:50VOR:symbol
+Fixes:50VOR:name
+Fixes:CD04:symbol
+Fixes:CD04:name
+Fixes:CD22:symbol
+Fixes:CD22:name
+Fixes:CI04Y:symbol
+Fixes:CI04Y:name
+Fixes:CI22Y:symbol
+Fixes:CI22Y:name
+Fixes:D044O:symbol
+Fixes:D044O:name
+Fixes:D062O:symbol
+Fixes:D062O:name
+Fixes:D065P:symbol
+Fixes:D065P:name
+Fixes:DER04:symbol
+Fixes:DER04:name
+Fixes:DER22:symbol
+Fixes:DER22:name
+Fixes:FD04:symbol
+Fixes:FD04:name
+Fixes:FD22:symbol
+Fixes:FD22:name
+Fixes:FI22:symbol
+Fixes:FI22:name
+Fixes:MD22:symbol
+Fixes:MD22:name
+Fixes:OW556:symbol
+Fixes:OW556:name
+Fixes:OW565:symbol
+Fixes:OW565:name
 VORs:JCS:symbol
 VORs:JCS:name
 High airways:J109:line
@@ -15,21 +49,21 @@ High airways:W563:line
 High airways:X112:line
 High airways:X63:line
 Geo:ZGOW:
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:centerline
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 1
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 1 left base
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 1 left ticks
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 1 left vectoring
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 1 right base
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 1 right ticks
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 1 right vectoring
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 2
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 2 left base
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 2 left ticks
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 2 left vectoring
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 2 right base
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 2 right ticks
-Runways:ZGOW Ω“—Ù/≥±…« 04-22:extended centerline 2 right vectoring
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:centerline
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 1
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 1 left base
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 1 left ticks
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 1 left vectoring
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 1 right base
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 1 right ticks
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 1 right vectoring
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 2
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 2 left base
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 2 left ticks
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 2 left vectoring
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 2 right base
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 2 right ticks
+Runways:ZGOW Êè≠Èò≥/ÊΩÆÊ±ï 04-22:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

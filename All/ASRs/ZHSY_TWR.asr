@@ -8,21 +8,21 @@ Airports:ZHSY:name
 VORs:DSY:symbol
 VORs:DSY:name
 Geo:ZHSY:
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:centerline
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 1
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 1 left base
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 1 left ticks
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 1 left vectoring
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 1 right base
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 1 right ticks
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 1 right vectoring
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 2
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 2 left base
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 2 left ticks
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 2 left vectoring
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 2 right base
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 2 right ticks
-Runways:ZHSY ʮ��/�䵱ɽ 31-13:extended centerline 2 right vectoring
+Runways:ZHSY 十堰/武当山 31-13:centerline
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 1
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 1 left base
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 1 left ticks
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 1 left vectoring
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 1 right base
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 1 right ticks
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 1 right vectoring
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 2
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 2 left base
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 2 left ticks
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 2 left vectoring
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 2 right base
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 2 right ticks
+Runways:ZHSY 十堰/武当山 31-13:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -8,21 +8,21 @@ Airports:ZWKC:name
 VORs:XKC:symbol
 VORs:XKC:name
 Geo:ZWKC:
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:centerline
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 1
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 1 left base
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 1 left ticks
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 1 left vectoring
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 1 right base
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 1 right ticks
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 1 right vectoring
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 2
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 2 left base
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 2 left ticks
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 2 left vectoring
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 2 right base
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 2 right ticks
-Runways:ZWKC ¿â³µ/¹ê×È 08-26:extended centerline 2 right vectoring
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:centerline
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 1
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 1 left base
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 1 left ticks
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 1 left vectoring
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 1 right base
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 1 right ticks
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 1 right vectoring
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 2
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 2 left base
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 2 left ticks
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 2 left vectoring
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 2 right base
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 2 right ticks
+Runways:ZWKC åº“è½¦/é¾Ÿå…¹ 08-26:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

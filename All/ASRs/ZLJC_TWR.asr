@@ -8,21 +8,21 @@ Airports:ZLJC:name
 VORs:GJC:symbol
 VORs:GJC:name
 Geo:ZLJC:
-Runways:ZLJC 金昌/金川 31-13:centerline
-Runways:ZLJC 金昌/金川 31-13:extended centerline 1
-Runways:ZLJC 金昌/金川 31-13:extended centerline 1 left base
-Runways:ZLJC 金昌/金川 31-13:extended centerline 1 left ticks
-Runways:ZLJC 金昌/金川 31-13:extended centerline 1 left vectoring
-Runways:ZLJC 金昌/金川 31-13:extended centerline 1 right base
-Runways:ZLJC 金昌/金川 31-13:extended centerline 1 right ticks
-Runways:ZLJC 金昌/金川 31-13:extended centerline 1 right vectoring
-Runways:ZLJC 金昌/金川 31-13:extended centerline 2
-Runways:ZLJC 金昌/金川 31-13:extended centerline 2 left base
-Runways:ZLJC 金昌/金川 31-13:extended centerline 2 left ticks
-Runways:ZLJC 金昌/金川 31-13:extended centerline 2 left vectoring
-Runways:ZLJC 金昌/金川 31-13:extended centerline 2 right base
-Runways:ZLJC 金昌/金川 31-13:extended centerline 2 right ticks
-Runways:ZLJC 金昌/金川 31-13:extended centerline 2 right vectoring
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:centerline
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 1
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 1 left base
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 1 left ticks
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 1 left vectoring
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 1 right base
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 1 right ticks
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 1 right vectoring
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 2
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 2 left base
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 2 left ticks
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 2 left vectoring
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 2 right base
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 2 right ticks
+Runways:ZLJC 閲戞槍/閲戝窛 31-13:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

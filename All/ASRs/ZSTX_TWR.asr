@@ -5,24 +5,42 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSTX:symbol
 Airports:ZSTX:name
+Fixes:45VOR:symbol
+Fixes:45VOR:name
+Fixes:D132D:symbol
+Fixes:D132D:name
+Fixes:D311C:symbol
+Fixes:D311C:name
+Fixes:DER13:symbol
+Fixes:DER13:name
+Fixes:DER31:symbol
+Fixes:DER31:name
+Fixes:MD13:symbol
+Fixes:MD13:name
+Fixes:TX512:symbol
+Fixes:TX512:name
+Fixes:TX701:symbol
+Fixes:TX701:name
+Fixes:TX801:symbol
+Fixes:TX801:name
 VORs:TXN:symbol
 VORs:TXN:name
 Geo:ZSTX:
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:centerline
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 1
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 1 left base
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 1 left ticks
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 1 left vectoring
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 1 right base
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 1 right ticks
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 1 right vectoring
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 2
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 2 left base
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 2 left ticks
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 2 left vectoring
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 2 right base
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 2 right ticks
-Runways:ZSTX »ÆÉ½/ÍÍÏª 13-31:extended centerline 2 right vectoring
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:centerline
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 1
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 1 left base
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 1 left ticks
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 1 left vectoring
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 1 right base
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 1 right ticks
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 1 right vectoring
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 2
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 2 left base
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 2 left ticks
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 2 left vectoring
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 2 right base
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 2 right ticks
+Runways:ZSTX é»„å±±/å±¯æºª 13-31:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

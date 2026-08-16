@@ -5,6 +5,18 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZHHH:symbol
 Airports:ZHHH:name
+Fixes:DE05L:symbol
+Fixes:DE05L:name
+Fixes:DE05R:symbol
+Fixes:DE05R:name
+Fixes:DE23L:symbol
+Fixes:DE23L:name
+Fixes:DE23R:symbol
+Fixes:DE23R:name
+Fixes:DER04:symbol
+Fixes:DER04:name
+Fixes:DER22:symbol
+Fixes:DER22:name
 VORs:WHA:symbol
 VORs:WHA:name
 NDBs:D:symbol
@@ -12,51 +24,51 @@ NDBs:D:name
 NDBs:H:symbol
 NDBs:H:name
 Geo:ZHHH:
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:centerline
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1 left base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1 left ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1 left vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1 right base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1 right ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 1 right vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2 left base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2 left ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2 left vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2 right base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2 right ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 04-22:extended centerline 2 right vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:centerline
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1 left base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1 left ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1 left vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1 right base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1 right ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 1 right vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2 left base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2 left ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2 left vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2 right base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2 right ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 05R-23L:extended centerline 2 right vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:centerline
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1 left base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1 left ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1 left vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1 right base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1 right ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 1 right vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2 left base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2 left ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2 left vectoring
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2 right base
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2 right ticks
-Runways:ZHHH Œ‰∫∫/ÃÏ∫” 23R-05L:extended centerline 2 right vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:centerline
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1 left base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1 left ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1 left vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1 right base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1 right ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 1 right vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2 left base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2 left ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2 left vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2 right base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2 right ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 04-22:extended centerline 2 right vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:centerline
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1 left base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1 left ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1 left vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1 right base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1 right ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 1 right vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2 left base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2 left ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2 left vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2 right base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2 right ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 05R-23L:extended centerline 2 right vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:centerline
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1 left base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1 left ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1 left vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1 right base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1 right ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 1 right vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2 left base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2 left ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2 left vectoring
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2 right base
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2 right ticks
+Runways:ZHHH Ê≠¶Ê±â/Â§©Ê≤≥ 23R-05L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

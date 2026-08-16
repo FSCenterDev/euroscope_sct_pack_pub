@@ -8,21 +8,21 @@ Airports:ZYDU:name
 VORs:DWL:symbol
 VORs:DWL:name
 Geo:ZYDU:
-Runways:ZYDU 五大连池/德都 26-08:centerline
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 1
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 1 left base
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 1 left ticks
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 1 left vectoring
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 1 right base
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 1 right ticks
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 1 right vectoring
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 2
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 2 left base
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 2 left ticks
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 2 left vectoring
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 2 right base
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 2 right ticks
-Runways:ZYDU 五大连池/德都 26-08:extended centerline 2 right vectoring
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:centerline
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 1
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 1 left base
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 1 left ticks
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 1 left vectoring
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 1 right base
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 1 right ticks
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 1 right vectoring
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 2
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 2 left base
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 2 left ticks
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 2 left vectoring
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 2 right base
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 2 right ticks
+Runways:ZYDU 浜斿ぇ杩炴睜/寰烽兘 26-08:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

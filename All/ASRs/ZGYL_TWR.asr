@@ -10,21 +10,21 @@ Fixes:P416:name
 VORs:DYL:symbol
 VORs:DYL:name
 Geo:ZGYL:
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:centerline
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 1
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 1 left base
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 1 left ticks
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 1 left vectoring
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 1 right base
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 1 right ticks
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 1 right vectoring
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 2
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 2 left base
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 2 left ticks
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 2 left vectoring
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 2 right base
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 2 right ticks
-Runways:ZGYL ÓñÁÖ/¸£Ãà 22-04:extended centerline 2 right vectoring
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:centerline
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 1
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 1 left base
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 1 left ticks
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 1 left vectoring
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 1 right base
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 1 right ticks
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 1 right vectoring
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 2
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 2 left base
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 2 left ticks
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 2 left vectoring
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 2 right base
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 2 right ticks
+Runways:ZGYL ç‰æ—/ç¦ç»µ 22-04:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

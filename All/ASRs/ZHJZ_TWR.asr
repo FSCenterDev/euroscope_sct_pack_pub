@@ -8,21 +8,21 @@ Airports:ZHJZ:name
 VORs:DJZ:symbol
 VORs:DJZ:name
 Geo:ZHJZ:
-Runways:ZHJZ 荆州/沙市 01-19:centerline
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 1
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 1 left base
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 1 left ticks
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 1 left vectoring
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 1 right base
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 1 right ticks
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 1 right vectoring
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 2
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 2 left base
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 2 left ticks
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 2 left vectoring
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 2 right base
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 2 right ticks
-Runways:ZHJZ 荆州/沙市 01-19:extended centerline 2 right vectoring
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:centerline
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 1
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 1 left base
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 1 left ticks
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 1 left vectoring
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 1 right base
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 1 right ticks
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 1 right vectoring
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 2
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 2 left base
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 2 left ticks
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 2 left vectoring
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 2 right base
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 2 right ticks
+Runways:ZHJZ 鑽嗗窞/娌欏競 01-19:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

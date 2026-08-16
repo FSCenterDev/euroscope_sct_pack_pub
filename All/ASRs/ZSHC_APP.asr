@@ -5,8 +5,80 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSHC:symbol
 Airports:ZSHC:name
+Fixes:18VOR:symbol
+Fixes:18VOR:name
+Fixes:68VOR:symbol
+Fixes:68VOR:name
 Fixes:ADBAS:symbol
 Fixes:ADBAS:name
+Fixes:CF24:symbol
+Fixes:CF24:name
+Fixes:CF25:symbol
+Fixes:CF25:name
+Fixes:CI24:symbol
+Fixes:CI24:name
+Fixes:D055K:symbol
+Fixes:D055K:name
+Fixes:D060K:symbol
+Fixes:D060K:name
+Fixes:D071K:symbol
+Fixes:D071K:name
+Fixes:D071M:symbol
+Fixes:D071M:name
+Fixes:D077K:symbol
+Fixes:D077K:name
+Fixes:D115J:symbol
+Fixes:D115J:name
+Fixes:D243G:symbol
+Fixes:D243G:name
+Fixes:DER06:symbol
+Fixes:DER06:name
+Fixes:DER07:symbol
+Fixes:DER07:name
+Fixes:DER24:symbol
+Fixes:DER24:name
+Fixes:DER25:symbol
+Fixes:DER25:name
+Fixes:FF07:symbol
+Fixes:FF07:name
+Fixes:FF25:symbol
+Fixes:FF25:name
+Fixes:FI06Y:symbol
+Fixes:FI06Y:name
+Fixes:FI06Z:symbol
+Fixes:FI06Z:name
+Fixes:FI24Y:symbol
+Fixes:FI24Y:name
+Fixes:FI24Z:symbol
+Fixes:FI24Z:name
+Fixes:HC106:symbol
+Fixes:HC106:name
+Fixes:HC210:symbol
+Fixes:HC210:name
+Fixes:HC211:symbol
+Fixes:HC211:name
+Fixes:HC306:symbol
+Fixes:HC306:name
+Fixes:HC320:symbol
+Fixes:HC320:name
+Fixes:HC321:symbol
+Fixes:HC321:name
+Fixes:HC410:symbol
+Fixes:HC410:name
+Fixes:HC420:symbol
+Fixes:HC420:name
+Fixes:HC501:symbol
+Fixes:HC501:name
+Fixes:HC503:symbol
+Fixes:HC503:name
+Fixes:HC504:symbol
+Fixes:HC504:name
+Fixes:HC505:symbol
+Fixes:HC505:name
+Fixes:MD07:symbol
+Fixes:MD07:name
+Fixes:MD25:symbol
+Fixes:MD25:name
 VORs:DSH:symbol
 VORs:DSH:name
 VORs:HGH:symbol
@@ -18,36 +90,36 @@ High airways:W506:line
 High airways:W507:line
 High airways:X180:line
 Geo:ZSHC:
-Runways:ZSHC 杭州/萧山 24-06:centerline
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 1
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 1 left base
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 1 left ticks
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 1 left vectoring
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 1 right base
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 1 right ticks
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 1 right vectoring
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 2
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 2 left base
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 2 left ticks
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 2 left vectoring
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 2 right base
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 2 right ticks
-Runways:ZSHC 杭州/萧山 24-06:extended centerline 2 right vectoring
-Runways:ZSHC 杭州/萧山 25-07:centerline
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 1
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 1 left base
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 1 left ticks
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 1 left vectoring
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 1 right base
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 1 right ticks
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 1 right vectoring
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 2
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 2 left base
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 2 left ticks
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 2 left vectoring
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 2 right base
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 2 right ticks
-Runways:ZSHC 杭州/萧山 25-07:extended centerline 2 right vectoring
+Runways:ZSHC 鏉窞/钀у北 24-06:centerline
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 1
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 1 left base
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 1 left ticks
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 1 left vectoring
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 1 right base
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 1 right ticks
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 1 right vectoring
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 2
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 2 left base
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 2 left ticks
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 2 left vectoring
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 2 right base
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 2 right ticks
+Runways:ZSHC 鏉窞/钀у北 24-06:extended centerline 2 right vectoring
+Runways:ZSHC 鏉窞/钀у北 25-07:centerline
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 1
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 1 left base
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 1 left ticks
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 1 left vectoring
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 1 right base
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 1 right ticks
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 1 right vectoring
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 2
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 2 left base
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 2 left ticks
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 2 left vectoring
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 2 right base
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 2 right ticks
+Runways:ZSHC 鏉窞/钀у北 25-07:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

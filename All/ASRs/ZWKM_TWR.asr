@@ -8,21 +8,21 @@ Airports:ZWKM:name
 VORs:KLM:symbol
 VORs:KLM:name
 Geo:ZWKM:
-Runways:ZWKM 克拉玛依/古海 13-31:centerline
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 1
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 1 left base
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 1 left ticks
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 1 left vectoring
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 1 right base
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 1 right ticks
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 1 right vectoring
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 2
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 2 left base
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 2 left ticks
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 2 left vectoring
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 2 right base
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 2 right ticks
-Runways:ZWKM 克拉玛依/古海 13-31:extended centerline 2 right vectoring
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:centerline
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 1
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 1 left base
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 1 left ticks
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 1 left vectoring
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 1 right base
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 1 right ticks
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 1 right vectoring
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 2
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 2 left base
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 2 left ticks
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 2 left vectoring
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 2 right base
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 2 right ticks
+Runways:ZWKM 鍏嬫媺鐜涗緷/鍙ゆ捣 13-31:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -12,21 +12,21 @@ VORs:MXZ:name
 NDBs:QU:symbol
 NDBs:QU:name
 Geo:ZGMX:
-Runways:ZGMX 梅州/梅县 22-04:centerline
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 1
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 left base
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 left ticks
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 left vectoring
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 right base
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 right ticks
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 1 right vectoring
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 2
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 left base
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 left ticks
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 left vectoring
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 right base
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 right ticks
-Runways:ZGMX 梅州/梅县 22-04:extended centerline 2 right vectoring
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:centerline
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 1
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 1 left base
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 1 left ticks
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 1 left vectoring
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 1 right base
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 1 right ticks
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 1 right vectoring
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 2
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 2 left base
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 2 left ticks
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 2 left vectoring
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 2 right base
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 2 right ticks
+Runways:ZGMX 姊呭窞/姊呭幙 22-04:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

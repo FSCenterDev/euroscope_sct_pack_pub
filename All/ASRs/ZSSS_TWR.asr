@@ -5,6 +5,50 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSSS:symbol
 Airports:ZSSS:name
+Fixes:19VOR:symbol
+Fixes:19VOR:name
+Fixes:48VOR:symbol
+Fixes:48VOR:name
+Fixes:D100A:symbol
+Fixes:D100A:name
+Fixes:D100B:symbol
+Fixes:D100B:name
+Fixes:D100N:symbol
+Fixes:D100N:name
+Fixes:D184F:symbol
+Fixes:D184F:name
+Fixes:D285F:symbol
+Fixes:D285F:name
+Fixes:DE18L:symbol
+Fixes:DE18L:name
+Fixes:DE18R:symbol
+Fixes:DE18R:name
+Fixes:DE36L:symbol
+Fixes:DE36L:name
+Fixes:DE36R:symbol
+Fixes:DE36R:name
+Fixes:FD18L:symbol
+Fixes:FD18L:name
+Fixes:FD36R:symbol
+Fixes:FD36R:name
+Fixes:FI18L:symbol
+Fixes:FI18L:name
+Fixes:FI18R:symbol
+Fixes:FI18R:name
+Fixes:FI36L:symbol
+Fixes:FI36L:name
+Fixes:MD18L:symbol
+Fixes:MD18L:name
+Fixes:MD36R:symbol
+Fixes:MD36R:name
+Fixes:SS200:symbol
+Fixes:SS200:name
+Fixes:SS205:symbol
+Fixes:SS205:name
+Fixes:SS403:symbol
+Fixes:SS403:name
+Fixes:SS501:symbol
+Fixes:SS501:name
 VORs:JTN:symbol
 VORs:JTN:name
 VORs:SHA:symbol
@@ -12,36 +56,36 @@ VORs:SHA:name
 NDBs:PK:symbol
 NDBs:PK:name
 Geo:ZSSS:
-Runways:ZSSS 上海/虹桥 18L-36R:centerline
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1 left base
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1 left ticks
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1 left vectoring
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1 right base
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1 right ticks
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 1 right vectoring
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2 left base
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2 left ticks
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2 left vectoring
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2 right base
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2 right ticks
-Runways:ZSSS 上海/虹桥 18L-36R:extended centerline 2 right vectoring
-Runways:ZSSS 上海/虹桥 36L-18R:centerline
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1 left base
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1 left ticks
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1 left vectoring
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1 right base
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1 right ticks
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 1 right vectoring
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2 left base
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2 left ticks
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2 left vectoring
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2 right base
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2 right ticks
-Runways:ZSSS 上海/虹桥 36L-18R:extended centerline 2 right vectoring
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:centerline
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 1
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 1 left base
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 1 left ticks
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 1 left vectoring
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 1 right base
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 1 right ticks
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 1 right vectoring
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 2
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 2 left base
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 2 left ticks
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 2 left vectoring
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 2 right base
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 2 right ticks
+Runways:ZSSS 涓婃捣/铏规ˉ 18L-36R:extended centerline 2 right vectoring
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:centerline
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 1
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 1 left base
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 1 left ticks
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 1 left vectoring
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 1 right base
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 1 right ticks
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 1 right vectoring
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 2
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 2 left base
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 2 left ticks
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 2 left vectoring
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 2 right base
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 2 right ticks
+Runways:ZSSS 涓婃捣/铏规ˉ 36L-18R:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -5,24 +5,52 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZUXJ:symbol
 Airports:ZUXJ:name
+Fixes:41VOR:symbol
+Fixes:41VOR:name
+Fixes:CD02L:symbol
+Fixes:CD02L:name
+Fixes:CI02L:symbol
+Fixes:CI02L:name
+Fixes:CI02R:symbol
+Fixes:CI02R:name
+Fixes:D159K:symbol
+Fixes:D159K:name
+Fixes:FD02L:symbol
+Fixes:FD02L:name
+Fixes:FI02L:symbol
+Fixes:FI02L:name
+Fixes:FI02R:symbol
+Fixes:FI02R:name
 Fixes:P597:symbol
 Fixes:P597:name
+Fixes:UD03:symbol
+Fixes:UD03:name
+Fixes:UD13:symbol
+Fixes:UD13:name
+Fixes:UU421:symbol
+Fixes:UU421:name
+Fixes:UU462:symbol
+Fixes:UU462:name
+Fixes:UU902:symbol
+Fixes:UU902:name
+Fixes:UU903:symbol
+Fixes:UU903:name
 Geo:ZUXJ:
-Runways:ZUXJ ÐÂ½ò 02-20:centerline
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 1
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 1 left base
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 1 left ticks
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 1 left vectoring
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 1 right base
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 1 right ticks
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 1 right vectoring
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 2
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 2 left base
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 2 left ticks
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 2 left vectoring
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 2 right base
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 2 right ticks
-Runways:ZUXJ ÐÂ½ò 02-20:extended centerline 2 right vectoring
+Runways:ZUXJ æ–°æ´¥ 02-20:centerline
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 1
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 1 left base
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 1 left ticks
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 1 left vectoring
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 1 right base
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 1 right ticks
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 1 right vectoring
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 2
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 2 left base
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 2 left ticks
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 2 left vectoring
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 2 right base
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 2 right ticks
+Runways:ZUXJ æ–°æ´¥ 02-20:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

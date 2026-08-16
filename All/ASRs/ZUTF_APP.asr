@@ -5,58 +5,130 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZUTF:symbol
 Airports:ZUTF:name
+Fixes:CTU38:symbol
+Fixes:CTU38:name
+Fixes:D025B:symbol
+Fixes:D025B:name
+Fixes:D025C:symbol
+Fixes:D025C:name
+Fixes:D115I:symbol
+Fixes:D115I:name
+Fixes:D201T:symbol
+Fixes:D201T:name
+Fixes:D205B:symbol
+Fixes:D205B:name
+Fixes:D205C:symbol
+Fixes:D205C:name
+Fixes:DER11:symbol
+Fixes:DER11:name
+Fixes:DER19:symbol
+Fixes:DER19:name
+Fixes:DER20:symbol
+Fixes:DER20:name
+Fixes:FI01:symbol
+Fixes:FI01:name
+Fixes:FI02:symbol
+Fixes:FI02:name
+Fixes:FI19:symbol
+Fixes:FI19:name
+Fixes:FI20:symbol
+Fixes:FI20:name
+Fixes:IGUGO:symbol
+Fixes:IGUGO:name
 Fixes:IPLOL:symbol
 Fixes:IPLOL:name
+Fixes:JYA28:symbol
+Fixes:JYA28:name
+Fixes:TT401:symbol
+Fixes:TT401:name
+Fixes:TT405:symbol
+Fixes:TT405:name
+Fixes:TT410:symbol
+Fixes:TT410:name
+Fixes:TT411:symbol
+Fixes:TT411:name
+Fixes:TT421:symbol
+Fixes:TT421:name
+Fixes:TT432:symbol
+Fixes:TT432:name
+Fixes:TT433:symbol
+Fixes:TT433:name
+Fixes:TT460:symbol
+Fixes:TT460:name
+Fixes:TT501:symbol
+Fixes:TT501:name
+Fixes:TT511:symbol
+Fixes:TT511:name
+Fixes:TT702:symbol
+Fixes:TT702:name
+Fixes:TT734:symbol
+Fixes:TT734:name
+Fixes:TT833:symbol
+Fixes:TT833:name
+Fixes:TT902:symbol
+Fixes:TT902:name
+Fixes:TT921:symbol
+Fixes:TT921:name
+Fixes:TT922:symbol
+Fixes:TT922:name
+Fixes:UT811:symbol
+Fixes:UT811:name
+Fixes:UT812:symbol
+Fixes:UT812:name
+Fixes:UT834:symbol
+Fixes:UT834:name
+Fixes:UU835:symbol
+Fixes:UU835:name
 High airways:W179:line
 High airways:W232:line
 High airways:W234:line
 High airways:W237:line
 Geo:ZUTF:
-Runways:ZUTF 成都/天府 11-29:centerline
-Runways:ZUTF 成都/天府 11-29:extended centerline 1
-Runways:ZUTF 成都/天府 11-29:extended centerline 1 left base
-Runways:ZUTF 成都/天府 11-29:extended centerline 1 left ticks
-Runways:ZUTF 成都/天府 11-29:extended centerline 1 left vectoring
-Runways:ZUTF 成都/天府 11-29:extended centerline 1 right base
-Runways:ZUTF 成都/天府 11-29:extended centerline 1 right ticks
-Runways:ZUTF 成都/天府 11-29:extended centerline 1 right vectoring
-Runways:ZUTF 成都/天府 11-29:extended centerline 2
-Runways:ZUTF 成都/天府 11-29:extended centerline 2 left base
-Runways:ZUTF 成都/天府 11-29:extended centerline 2 left ticks
-Runways:ZUTF 成都/天府 11-29:extended centerline 2 left vectoring
-Runways:ZUTF 成都/天府 11-29:extended centerline 2 right base
-Runways:ZUTF 成都/天府 11-29:extended centerline 2 right ticks
-Runways:ZUTF 成都/天府 11-29:extended centerline 2 right vectoring
-Runways:ZUTF 成都/天府 19-01:centerline
-Runways:ZUTF 成都/天府 19-01:extended centerline 1
-Runways:ZUTF 成都/天府 19-01:extended centerline 1 left base
-Runways:ZUTF 成都/天府 19-01:extended centerline 1 left ticks
-Runways:ZUTF 成都/天府 19-01:extended centerline 1 left vectoring
-Runways:ZUTF 成都/天府 19-01:extended centerline 1 right base
-Runways:ZUTF 成都/天府 19-01:extended centerline 1 right ticks
-Runways:ZUTF 成都/天府 19-01:extended centerline 1 right vectoring
-Runways:ZUTF 成都/天府 19-01:extended centerline 2
-Runways:ZUTF 成都/天府 19-01:extended centerline 2 left base
-Runways:ZUTF 成都/天府 19-01:extended centerline 2 left ticks
-Runways:ZUTF 成都/天府 19-01:extended centerline 2 left vectoring
-Runways:ZUTF 成都/天府 19-01:extended centerline 2 right base
-Runways:ZUTF 成都/天府 19-01:extended centerline 2 right ticks
-Runways:ZUTF 成都/天府 19-01:extended centerline 2 right vectoring
-Runways:ZUTF 成都/天府 20-02:centerline
-Runways:ZUTF 成都/天府 20-02:extended centerline 1
-Runways:ZUTF 成都/天府 20-02:extended centerline 1 left base
-Runways:ZUTF 成都/天府 20-02:extended centerline 1 left ticks
-Runways:ZUTF 成都/天府 20-02:extended centerline 1 left vectoring
-Runways:ZUTF 成都/天府 20-02:extended centerline 1 right base
-Runways:ZUTF 成都/天府 20-02:extended centerline 1 right ticks
-Runways:ZUTF 成都/天府 20-02:extended centerline 1 right vectoring
-Runways:ZUTF 成都/天府 20-02:extended centerline 2
-Runways:ZUTF 成都/天府 20-02:extended centerline 2 left base
-Runways:ZUTF 成都/天府 20-02:extended centerline 2 left ticks
-Runways:ZUTF 成都/天府 20-02:extended centerline 2 left vectoring
-Runways:ZUTF 成都/天府 20-02:extended centerline 2 right base
-Runways:ZUTF 成都/天府 20-02:extended centerline 2 right ticks
-Runways:ZUTF 成都/天府 20-02:extended centerline 2 right vectoring
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:centerline
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 1
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 1 left base
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 1 left ticks
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 1 left vectoring
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 1 right base
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 1 right ticks
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 1 right vectoring
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 2
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 2 left base
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 2 left ticks
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 2 left vectoring
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 2 right base
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 2 right ticks
+Runways:ZUTF 鎴愰兘/澶╁簻 11-29:extended centerline 2 right vectoring
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:centerline
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 1
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 1 left base
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 1 left ticks
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 1 left vectoring
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 1 right base
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 1 right ticks
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 1 right vectoring
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 2
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 2 left base
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 2 left ticks
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 2 left vectoring
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 2 right base
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 2 right ticks
+Runways:ZUTF 鎴愰兘/澶╁簻 19-01:extended centerline 2 right vectoring
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:centerline
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 1
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 1 left base
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 1 left ticks
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 1 left vectoring
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 1 right base
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 1 right ticks
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 1 right vectoring
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 2
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 2 left base
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 2 left ticks
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 2 left vectoring
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 2 right base
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 2 right ticks
+Runways:ZUTF 鎴愰兘/澶╁簻 20-02:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

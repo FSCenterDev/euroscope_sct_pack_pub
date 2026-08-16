@@ -10,21 +10,21 @@ Fixes:SIMLI:name
 VORs:HEK:symbol
 VORs:HEK:name
 Geo:ZYHE:
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:centerline
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 1
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 1 left base
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 1 left ticks
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 1 left vectoring
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 1 right base
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 1 right ticks
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 1 right vectoring
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 2
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 2 left base
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 2 left ticks
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 2 left vectoring
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 2 right base
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 2 right ticks
-Runways:ZYHE ºÚºÓ/è¨çõ 17-35:extended centerline 2 right vectoring
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:centerline
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 1
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 1 left base
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 1 left ticks
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 1 left vectoring
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 1 right base
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 1 right ticks
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 1 right vectoring
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 2
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 2 left base
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 2 left ticks
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 2 left vectoring
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 2 right base
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 2 right ticks
+Runways:ZYHE é»‘æ²³/ç‘·ç² 17-35:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

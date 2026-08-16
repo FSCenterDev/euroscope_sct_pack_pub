@@ -5,56 +5,92 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZLXY:symbol
 Airports:ZLXY:name
+Fixes:70VOR:symbol
+Fixes:70VOR:name
+Fixes:D154J:symbol
+Fixes:D154J:name
+Fixes:D232G:symbol
+Fixes:D232G:name
+Fixes:DE05L:symbol
+Fixes:DE05L:name
+Fixes:DE06L:symbol
+Fixes:DE06L:name
+Fixes:DE06R:symbol
+Fixes:DE06R:name
+Fixes:DE23R:symbol
+Fixes:DE23R:name
+Fixes:DE24L:symbol
+Fixes:DE24L:name
+Fixes:DE24R:symbol
+Fixes:DE24R:name
+Fixes:ISVAR:symbol
+Fixes:ISVAR:name
+Fixes:MD06L:symbol
+Fixes:MD06L:name
+Fixes:MD24R:symbol
+Fixes:MD24R:name
 Fixes:OLMEK:symbol
 Fixes:OLMEK:name
 Fixes:P339:symbol
 Fixes:P339:name
+Fixes:XENUB:symbol
+Fixes:XENUB:name
+Fixes:XY801:symbol
+Fixes:XY801:name
+Fixes:XY852:symbol
+Fixes:XY852:name
+Fixes:XY853:symbol
+Fixes:XY853:name
+Fixes:XY952:symbol
+Fixes:XY952:name
+Fixes:XY953:symbol
+Fixes:XY953:name
 Geo:ZLXY:
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:centerline
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 1
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 1 left base
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 1 left ticks
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 1 left vectoring
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 1 right base
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 1 right ticks
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 1 right vectoring
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 2
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 2 left base
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 2 left ticks
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 2 left vectoring
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 2 right base
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 2 right ticks
-Runways:ZLXY Î÷°²/ÏÌÑô 05L-23R:extended centerline 2 right vectoring
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:centerline
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 1
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 1 left base
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 1 left ticks
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 1 left vectoring
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 1 right base
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 1 right ticks
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 1 right vectoring
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 2
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 2 left base
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 2 left ticks
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 2 left vectoring
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 2 right base
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 2 right ticks
-Runways:ZLXY Î÷°²/ÏÌÑô 06L-24R:extended centerline 2 right vectoring
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:centerline
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 1
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 1 left base
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 1 left ticks
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 1 left vectoring
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 1 right base
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 1 right ticks
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 1 right vectoring
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 2
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 2 left base
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 2 left ticks
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 2 left vectoring
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 2 right base
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 2 right ticks
-Runways:ZLXY Î÷°²/ÏÌÑô 24L-06R:extended centerline 2 right vectoring
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:centerline
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 1
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 1 left base
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 1 left ticks
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 1 left vectoring
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 1 right base
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 1 right ticks
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 1 right vectoring
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 2
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 2 left base
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 2 left ticks
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 2 left vectoring
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 2 right base
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 2 right ticks
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 05L-23R:extended centerline 2 right vectoring
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:centerline
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 1
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 1 left base
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 1 left ticks
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 1 left vectoring
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 1 right base
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 1 right ticks
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 1 right vectoring
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 2
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 2 left base
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 2 left ticks
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 2 left vectoring
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 2 right base
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 2 right ticks
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 06L-24R:extended centerline 2 right vectoring
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:centerline
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 1
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 1 left base
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 1 left ticks
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 1 left vectoring
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 1 right base
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 1 right ticks
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 1 right vectoring
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 2
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 2 left base
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 2 left ticks
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 2 left vectoring
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 2 right base
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 2 right ticks
+Runways:ZLXY è¥¿å®‰/å’¸é˜³ 24L-06R:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

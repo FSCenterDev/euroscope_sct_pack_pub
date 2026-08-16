@@ -8,21 +8,21 @@ Airports:ZSHZ:name
 VORs:HZG:symbol
 VORs:HZG:name
 Geo:ZSHZ:
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:centerline
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 1
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 1 left base
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 1 left ticks
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 1 left vectoring
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 1 right base
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 1 right ticks
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 1 right vectoring
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 2
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 2 left base
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 2 left ticks
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 2 left vectoring
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 2 right base
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 2 right ticks
-Runways:ZSHZ ºÊÔó/Äµµ¤ 36-18:extended centerline 2 right vectoring
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:centerline
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 1
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 1 left base
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 1 left ticks
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 1 left vectoring
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 1 right base
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 1 right ticks
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 1 right vectoring
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 2
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 2 left base
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 2 left ticks
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 2 left vectoring
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 2 right base
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 2 right ticks
+Runways:ZSHZ èæ³½/ç‰¡ä¸¹ 36-18:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

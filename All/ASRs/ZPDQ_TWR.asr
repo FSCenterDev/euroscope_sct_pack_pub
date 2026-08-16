@@ -8,21 +8,21 @@ Airports:ZPDQ:name
 VORs:ZHD:symbol
 VORs:ZHD:name
 Geo:ZPDQ:
-Runways:ZPDQ 迪庆/香格里拉 34-16:centerline
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 1
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 1 left base
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 1 left ticks
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 1 left vectoring
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 1 right base
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 1 right ticks
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 1 right vectoring
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 2
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 2 left base
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 2 left ticks
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 2 left vectoring
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 2 right base
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 2 right ticks
-Runways:ZPDQ 迪庆/香格里拉 34-16:extended centerline 2 right vectoring
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:centerline
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 1
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 1 left base
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 1 left ticks
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 1 left vectoring
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 1 right base
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 1 right ticks
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 1 right vectoring
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 2
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 2 left base
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 2 left ticks
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 2 left vectoring
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 2 right base
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 2 right ticks
+Runways:ZPDQ 杩簡/棣欐牸閲屾媺 34-16:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

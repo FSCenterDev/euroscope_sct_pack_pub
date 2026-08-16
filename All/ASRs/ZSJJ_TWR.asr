@@ -8,21 +8,21 @@ Airports:ZSJJ:name
 VORs:JIU:symbol
 VORs:JIU:name
 Geo:ZSJJ:
-Runways:ZSJJ 九江/庐山 04-22:centerline
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 1
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 1 left base
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 1 left ticks
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 1 left vectoring
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 1 right base
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 1 right ticks
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 1 right vectoring
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 2
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 2 left base
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 2 left ticks
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 2 left vectoring
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 2 right base
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 2 right ticks
-Runways:ZSJJ 九江/庐山 04-22:extended centerline 2 right vectoring
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:centerline
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 1
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 1 left base
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 1 left ticks
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 1 left vectoring
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 1 right base
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 1 right ticks
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 1 right vectoring
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 2
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 2 left base
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 2 left ticks
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 2 left vectoring
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 2 right base
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 2 right ticks
+Runways:ZSJJ 涔濇睙/搴愬北 04-22:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

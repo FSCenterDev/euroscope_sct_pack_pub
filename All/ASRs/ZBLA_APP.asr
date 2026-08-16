@@ -5,6 +5,38 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZBLA:symbol
 Airports:ZBLA:name
+Fixes:29VOR:symbol
+Fixes:29VOR:name
+Fixes:35VOR:symbol
+Fixes:35VOR:name
+Fixes:CD27:symbol
+Fixes:CD27:name
+Fixes:CI27:symbol
+Fixes:CI27:name
+Fixes:D136F:symbol
+Fixes:D136F:name
+Fixes:D173F:symbol
+Fixes:D173F:name
+Fixes:D173J:symbol
+Fixes:D173J:name
+Fixes:D173M:symbol
+Fixes:D173M:name
+Fixes:D267H:symbol
+Fixes:D267H:name
+Fixes:FD09:symbol
+Fixes:FD09:name
+Fixes:FD27:symbol
+Fixes:FD27:name
+Fixes:FI27:symbol
+Fixes:FI27:name
+Fixes:HL802:symbol
+Fixes:HL802:name
+Fixes:HL901:symbol
+Fixes:HL901:name
+Fixes:MD09:symbol
+Fixes:MD09:name
+Fixes:MD27:symbol
+Fixes:MD27:name
 VORs:HLD:symbol
 VORs:HLD:name
 High airways:A345:line
@@ -12,21 +44,21 @@ High airways:B451:line
 High airways:J108:line
 High airways:J753:line
 Geo:ZBLA:
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:centerline
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 1
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 1 left base
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 1 left ticks
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 1 left vectoring
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 1 right base
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 1 right ticks
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 1 right vectoring
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 2
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 2 left base
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 2 left ticks
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 2 left vectoring
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 2 right base
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 2 right ticks
-Runways:ZBLA ºôÂ×±´¶û/º£À­¶û 09-27:extended centerline 2 right vectoring
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:centerline
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 1
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 1 left base
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 1 left ticks
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 1 left vectoring
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 1 right base
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 1 right ticks
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 1 right vectoring
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 2
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 2 left base
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 2 left ticks
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 2 left vectoring
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 2 right base
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 2 right ticks
+Runways:ZBLA å‘¼ä¼¦è´å°”/æµ·æ‹‰å°” 09-27:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

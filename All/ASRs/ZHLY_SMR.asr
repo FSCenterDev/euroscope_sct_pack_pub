@@ -8,21 +8,21 @@ Airports:ZHLY:name
 VORs:LYA:symbol
 VORs:LYA:name
 Geo:ZHLY:
-Runways:ZHLY ÂåÑô 26-08:centerline
-Runways:ZHLY ÂåÑô 26-08:extended centerline 1
-Runways:ZHLY ÂåÑô 26-08:extended centerline 1 left base
-Runways:ZHLY ÂåÑô 26-08:extended centerline 1 left ticks
-Runways:ZHLY ÂåÑô 26-08:extended centerline 1 left vectoring
-Runways:ZHLY ÂåÑô 26-08:extended centerline 1 right base
-Runways:ZHLY ÂåÑô 26-08:extended centerline 1 right ticks
-Runways:ZHLY ÂåÑô 26-08:extended centerline 1 right vectoring
-Runways:ZHLY ÂåÑô 26-08:extended centerline 2
-Runways:ZHLY ÂåÑô 26-08:extended centerline 2 left base
-Runways:ZHLY ÂåÑô 26-08:extended centerline 2 left ticks
-Runways:ZHLY ÂåÑô 26-08:extended centerline 2 left vectoring
-Runways:ZHLY ÂåÑô 26-08:extended centerline 2 right base
-Runways:ZHLY ÂåÑô 26-08:extended centerline 2 right ticks
-Runways:ZHLY ÂåÑô 26-08:extended centerline 2 right vectoring
+Runways:ZHLY æ´›é˜³ 26-08:centerline
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 1
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 1 left base
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 1 left ticks
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 1 left vectoring
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 1 right base
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 1 right ticks
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 1 right vectoring
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 2
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 2 left base
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 2 left ticks
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 2 left vectoring
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 2 right base
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 2 right ticks
+Runways:ZHLY æ´›é˜³ 26-08:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

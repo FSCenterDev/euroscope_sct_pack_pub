@@ -5,26 +5,48 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSAM:symbol
 Airports:ZSAM:name
+Fixes:38VOR:symbol
+Fixes:38VOR:name
+Fixes:45VOR:symbol
+Fixes:45VOR:name
+Fixes:AM206:symbol
+Fixes:AM206:name
+Fixes:AM301:symbol
+Fixes:AM301:name
+Fixes:AM402:symbol
+Fixes:AM402:name
+Fixes:AM501:symbol
+Fixes:AM501:name
+Fixes:D052G:symbol
+Fixes:D052G:name
+Fixes:D062J:symbol
+Fixes:D062J:name
+Fixes:D065J:symbol
+Fixes:D065J:name
+Fixes:MD05:symbol
+Fixes:MD05:name
+Fixes:MD23:symbol
+Fixes:MD23:name
 VORs:XLN:symbol
 VORs:XLN:name
 VORs:XMN:symbol
 VORs:XMN:name
 Geo:ZSAM:
-Runways:ZSAM 厦门/高崎 05-23:centerline
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 1
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 left base
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 left ticks
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 left vectoring
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 right base
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 right ticks
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 1 right vectoring
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 2
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 left base
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 left ticks
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 left vectoring
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 right base
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 right ticks
-Runways:ZSAM 厦门/高崎 05-23:extended centerline 2 right vectoring
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:centerline
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 1
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 1 left base
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 1 left ticks
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 1 left vectoring
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 1 right base
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 1 right ticks
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 1 right vectoring
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 2
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 2 left base
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 2 left ticks
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 2 left vectoring
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 2 right base
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 2 right ticks
+Runways:ZSAM 鍘﹂棬/楂樺磶 05-23:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

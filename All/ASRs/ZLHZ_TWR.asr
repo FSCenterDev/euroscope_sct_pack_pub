@@ -8,21 +8,21 @@ Airports:ZLHZ:name
 VORs:CGA:symbol
 VORs:CGA:name
 Geo:ZLHZ:
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:centerline
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 1
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 1 left base
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 1 left ticks
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 1 left vectoring
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 1 right base
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 1 right ticks
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 1 right vectoring
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 2
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 2 left base
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 2 left ticks
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 2 left vectoring
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 2 right base
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 2 right ticks
-Runways:ZLHZ ººÖÐ/³Ç¹Ì 25-07:extended centerline 2 right vectoring
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:centerline
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 1
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 1 left base
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 1 left ticks
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 1 left vectoring
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 1 right base
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 1 right ticks
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 1 right vectoring
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 2
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 2 left base
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 2 left ticks
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 2 left vectoring
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 2 right base
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 2 right ticks
+Runways:ZLHZ æ±‰ä¸­/åŸŽå›º 25-07:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

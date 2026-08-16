@@ -5,24 +5,48 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZBDT:symbol
 Airports:ZBDT:name
+Fixes:23VOR:symbol
+Fixes:23VOR:name
+Fixes:53VOR:symbol
+Fixes:53VOR:name
+Fixes:D139C:symbol
+Fixes:D139C:name
+Fixes:D316D:symbol
+Fixes:D316D:name
+Fixes:DT409:symbol
+Fixes:DT409:name
+Fixes:DT508:symbol
+Fixes:DT508:name
+Fixes:DT514:symbol
+Fixes:DT514:name
+Fixes:DT601:symbol
+Fixes:DT601:name
+Fixes:DT707:symbol
+Fixes:DT707:name
+Fixes:FD32:symbol
+Fixes:FD32:name
+Fixes:FI32:symbol
+Fixes:FI32:name
+Fixes:MM32:symbol
+Fixes:MM32:name
 VORs:BJZ:symbol
 VORs:BJZ:name
 Geo:ZBDT:
-Runways:ZBDT 大同/云冈 14-32:centerline
-Runways:ZBDT 大同/云冈 14-32:extended centerline 1
-Runways:ZBDT 大同/云冈 14-32:extended centerline 1 left base
-Runways:ZBDT 大同/云冈 14-32:extended centerline 1 left ticks
-Runways:ZBDT 大同/云冈 14-32:extended centerline 1 left vectoring
-Runways:ZBDT 大同/云冈 14-32:extended centerline 1 right base
-Runways:ZBDT 大同/云冈 14-32:extended centerline 1 right ticks
-Runways:ZBDT 大同/云冈 14-32:extended centerline 1 right vectoring
-Runways:ZBDT 大同/云冈 14-32:extended centerline 2
-Runways:ZBDT 大同/云冈 14-32:extended centerline 2 left base
-Runways:ZBDT 大同/云冈 14-32:extended centerline 2 left ticks
-Runways:ZBDT 大同/云冈 14-32:extended centerline 2 left vectoring
-Runways:ZBDT 大同/云冈 14-32:extended centerline 2 right base
-Runways:ZBDT 大同/云冈 14-32:extended centerline 2 right ticks
-Runways:ZBDT 大同/云冈 14-32:extended centerline 2 right vectoring
+Runways:ZBDT 澶у悓/浜戝唸 14-32:centerline
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 1
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 1 left base
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 1 left ticks
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 1 left vectoring
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 1 right base
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 1 right ticks
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 1 right vectoring
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 2
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 2 left base
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 2 left ticks
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 2 left vectoring
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 2 right base
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 2 right ticks
+Runways:ZBDT 澶у悓/浜戝唸 14-32:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

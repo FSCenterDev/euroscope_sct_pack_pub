@@ -5,24 +5,28 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZYTX:symbol
 Airports:ZYTX:name
+Fixes:MD06:symbol
+Fixes:MD06:name
+Fixes:MD24:symbol
+Fixes:MD24:name
 VORs:SEY:symbol
 VORs:SEY:name
 Geo:ZYTX:
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:centerline
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1 left base
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1 left ticks
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1 left vectoring
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1 right base
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1 right ticks
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 1 right vectoring
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2 left base
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2 left ticks
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2 left vectoring
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2 right base
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2 right ticks
-Runways:ZYTX …Ú—Ù/Ã“œ… 24-06:extended centerline 2 right vectoring
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:centerline
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 1
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 1 left base
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 1 left ticks
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 1 left vectoring
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 1 right base
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 1 right ticks
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 1 right vectoring
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 2
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 2 left base
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 2 left ticks
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 2 left vectoring
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 2 right base
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 2 right ticks
+Runways:ZYTX Ê≤àÈò≥/Ê°É‰ªô 24-06:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

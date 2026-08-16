@@ -8,21 +8,21 @@ Airports:ZYBA:name
 VORs:DBC:symbol
 VORs:DBC:name
 Geo:ZYBA:
-Runways:ZYBA 白城/长安 07-25:centerline
-Runways:ZYBA 白城/长安 07-25:extended centerline 1
-Runways:ZYBA 白城/长安 07-25:extended centerline 1 left base
-Runways:ZYBA 白城/长安 07-25:extended centerline 1 left ticks
-Runways:ZYBA 白城/长安 07-25:extended centerline 1 left vectoring
-Runways:ZYBA 白城/长安 07-25:extended centerline 1 right base
-Runways:ZYBA 白城/长安 07-25:extended centerline 1 right ticks
-Runways:ZYBA 白城/长安 07-25:extended centerline 1 right vectoring
-Runways:ZYBA 白城/长安 07-25:extended centerline 2
-Runways:ZYBA 白城/长安 07-25:extended centerline 2 left base
-Runways:ZYBA 白城/长安 07-25:extended centerline 2 left ticks
-Runways:ZYBA 白城/长安 07-25:extended centerline 2 left vectoring
-Runways:ZYBA 白城/长安 07-25:extended centerline 2 right base
-Runways:ZYBA 白城/长安 07-25:extended centerline 2 right ticks
-Runways:ZYBA 白城/长安 07-25:extended centerline 2 right vectoring
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:centerline
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 1
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 1 left base
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 1 left ticks
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 1 left vectoring
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 1 right base
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 1 right ticks
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 1 right vectoring
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 2
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 2 left base
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 2 left ticks
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 2 left vectoring
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 2 right base
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 2 right ticks
+Runways:ZYBA 鐧藉煄/闀垮畨 07-25:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

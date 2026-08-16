@@ -7,24 +7,26 @@ Airports:ZGZJ:symbol
 Airports:ZGZJ:name
 Fixes:P469:symbol
 Fixes:P469:name
+Fixes:ZJ512:symbol
+Fixes:ZJ512:name
 VORs:WUQ:symbol
 VORs:WUQ:name
 Geo:ZGZJ:
-Runways:ZGZJ 湛江/吴川 15-33:centerline
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 1
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 1 left base
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 1 left ticks
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 1 left vectoring
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 1 right base
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 1 right ticks
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 1 right vectoring
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 2
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 2 left base
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 2 left ticks
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 2 left vectoring
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 2 right base
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 2 right ticks
-Runways:ZGZJ 湛江/吴川 15-33:extended centerline 2 right vectoring
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:centerline
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 1
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 1 left base
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 1 left ticks
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 1 left vectoring
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 1 right base
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 1 right ticks
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 1 right vectoring
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 2
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 2 left base
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 2 left ticks
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 2 left vectoring
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 2 right base
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 2 right ticks
+Runways:ZGZJ 婀涙睙/鍚村窛 15-33:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

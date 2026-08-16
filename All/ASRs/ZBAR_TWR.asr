@@ -8,21 +8,21 @@ Airports:ZBAR:name
 VORs:BDA:symbol
 VORs:BDA:name
 Geo:ZBAR:
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:centerline
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 1
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 1 left base
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 1 left ticks
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 1 left vectoring
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 1 right base
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 1 right ticks
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 1 right vectoring
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 2
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 2 left base
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 2 left ticks
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 2 left vectoring
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 2 right base
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 2 right ticks
-Runways:ZBAR °¢À­ÉÆÓÒÆì/°Íµ¤¼ªÁÖ 13-31:extended centerline 2 right vectoring
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:centerline
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 1
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 1 left base
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 1 left ticks
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 1 left vectoring
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 1 right base
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 1 right ticks
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 1 right vectoring
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 2
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 2 left base
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 2 left ticks
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 2 left vectoring
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 2 right base
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 2 right ticks
+Runways:ZBAR é˜¿æ‹‰å–„å³æ——/å·´ä¸¹å‰æ— 13-31:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

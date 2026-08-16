@@ -8,21 +8,21 @@ Airports:ZHNY:name
 NDBs:ML:symbol
 NDBs:ML:name
 Geo:ZHNY:
-Runways:ZHNY 南阳/姜营 23-05:centerline
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 1
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 1 left base
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 1 left ticks
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 1 left vectoring
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 1 right base
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 1 right ticks
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 1 right vectoring
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 2
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 2 left base
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 2 left ticks
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 2 left vectoring
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 2 right base
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 2 right ticks
-Runways:ZHNY 南阳/姜营 23-05:extended centerline 2 right vectoring
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:centerline
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 1
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 1 left base
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 1 left ticks
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 1 left vectoring
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 1 right base
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 1 right ticks
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 1 right vectoring
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 2
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 2 left base
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 2 left ticks
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 2 left vectoring
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 2 right base
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 2 right ticks
+Runways:ZHNY 鍗楅槼/濮滆惀 23-05:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

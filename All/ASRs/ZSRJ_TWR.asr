@@ -8,21 +8,21 @@ Airports:ZSRJ:name
 VORs:DRJ:symbol
 VORs:DRJ:name
 Geo:ZSRJ:
-Runways:ZSRJ 赣州/瑞金 07-25:centerline
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1 left base
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1 left ticks
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1 left vectoring
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1 right base
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1 right ticks
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 1 right vectoring
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2 left base
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2 left ticks
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2 left vectoring
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2 right base
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2 right ticks
-Runways:ZSRJ 赣州/瑞金 07-25:extended centerline 2 right vectoring
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:centerline
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 1
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 1 left base
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 1 left ticks
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 1 left vectoring
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 1 right base
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 1 right ticks
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 1 right vectoring
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 2
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 2 left base
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 2 left ticks
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 2 left vectoring
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 2 right base
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 2 right ticks
+Runways:ZSRJ 璧ｅ窞/鐟為噾 07-25:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

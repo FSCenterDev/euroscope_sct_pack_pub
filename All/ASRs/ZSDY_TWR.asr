@@ -8,21 +8,21 @@ Airports:ZSDY:name
 VORs:DYN:symbol
 VORs:DYN:name
 Geo:ZSDY:
-Runways:ZSDY 东营/胜利 36-18:centerline
-Runways:ZSDY 东营/胜利 36-18:extended centerline 1
-Runways:ZSDY 东营/胜利 36-18:extended centerline 1 left base
-Runways:ZSDY 东营/胜利 36-18:extended centerline 1 left ticks
-Runways:ZSDY 东营/胜利 36-18:extended centerline 1 left vectoring
-Runways:ZSDY 东营/胜利 36-18:extended centerline 1 right base
-Runways:ZSDY 东营/胜利 36-18:extended centerline 1 right ticks
-Runways:ZSDY 东营/胜利 36-18:extended centerline 1 right vectoring
-Runways:ZSDY 东营/胜利 36-18:extended centerline 2
-Runways:ZSDY 东营/胜利 36-18:extended centerline 2 left base
-Runways:ZSDY 东营/胜利 36-18:extended centerline 2 left ticks
-Runways:ZSDY 东营/胜利 36-18:extended centerline 2 left vectoring
-Runways:ZSDY 东营/胜利 36-18:extended centerline 2 right base
-Runways:ZSDY 东营/胜利 36-18:extended centerline 2 right ticks
-Runways:ZSDY 东营/胜利 36-18:extended centerline 2 right vectoring
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:centerline
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 1
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 1 left base
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 1 left ticks
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 1 left vectoring
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 1 right base
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 1 right ticks
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 1 right vectoring
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 2
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 2 left base
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 2 left ticks
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 2 left vectoring
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 2 right base
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 2 right ticks
+Runways:ZSDY 涓滆惀/鑳滃埄 36-18:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

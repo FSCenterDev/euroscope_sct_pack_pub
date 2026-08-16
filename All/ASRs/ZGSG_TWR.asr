@@ -8,21 +8,21 @@ Airports:ZGSG:name
 VORs:UQN:symbol
 VORs:UQN:name
 Geo:ZGSG:
-Runways:ZGSG �ع�/��ϼ 15-33:centerline
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 1
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 1 left base
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 1 left ticks
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 1 left vectoring
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 1 right base
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 1 right ticks
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 1 right vectoring
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 2
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 2 left base
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 2 left ticks
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 2 left vectoring
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 2 right base
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 2 right ticks
-Runways:ZGSG �ع�/��ϼ 15-33:extended centerline 2 right vectoring
+Runways:ZGSG 韶关/丹霞 15-33:centerline
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 1
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 1 left base
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 1 left ticks
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 1 left vectoring
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 1 right base
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 1 right ticks
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 1 right vectoring
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 2
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 2 left base
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 2 left ticks
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 2 left vectoring
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 2 right base
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 2 right ticks
+Runways:ZGSG 韶关/丹霞 15-33:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

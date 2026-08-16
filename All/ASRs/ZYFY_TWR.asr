@@ -8,21 +8,21 @@ Airports:ZYFY:name
 VORs:FYJ:symbol
 VORs:FYJ:name
 Geo:ZYFY:
-Runways:ZYFY 抚远/东极 06-24:centerline
-Runways:ZYFY 抚远/东极 06-24:extended centerline 1
-Runways:ZYFY 抚远/东极 06-24:extended centerline 1 left base
-Runways:ZYFY 抚远/东极 06-24:extended centerline 1 left ticks
-Runways:ZYFY 抚远/东极 06-24:extended centerline 1 left vectoring
-Runways:ZYFY 抚远/东极 06-24:extended centerline 1 right base
-Runways:ZYFY 抚远/东极 06-24:extended centerline 1 right ticks
-Runways:ZYFY 抚远/东极 06-24:extended centerline 1 right vectoring
-Runways:ZYFY 抚远/东极 06-24:extended centerline 2
-Runways:ZYFY 抚远/东极 06-24:extended centerline 2 left base
-Runways:ZYFY 抚远/东极 06-24:extended centerline 2 left ticks
-Runways:ZYFY 抚远/东极 06-24:extended centerline 2 left vectoring
-Runways:ZYFY 抚远/东极 06-24:extended centerline 2 right base
-Runways:ZYFY 抚远/东极 06-24:extended centerline 2 right ticks
-Runways:ZYFY 抚远/东极 06-24:extended centerline 2 right vectoring
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:centerline
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 1
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 1 left base
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 1 left ticks
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 1 left vectoring
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 1 right base
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 1 right ticks
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 1 right vectoring
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 2
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 2 left base
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 2 left ticks
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 2 left vectoring
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 2 right base
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 2 right ticks
+Runways:ZYFY 鎶氳繙/涓滄瀬 06-24:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

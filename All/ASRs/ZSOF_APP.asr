@@ -5,10 +5,76 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSOF:symbol
 Airports:ZSOF:name
+Fixes:21VOR:symbol
+Fixes:21VOR:name
+Fixes:52VOR:symbol
+Fixes:52VOR:name
+Fixes:CD15:symbol
+Fixes:CD15:name
+Fixes:CF33:symbol
+Fixes:CF33:name
+Fixes:CI15Y:symbol
+Fixes:CI15Y:name
+Fixes:D047E:symbol
+Fixes:D047E:name
+Fixes:D047L:symbol
+Fixes:D047L:name
+Fixes:D154F:symbol
+Fixes:D154F:name
+Fixes:D154I:symbol
+Fixes:D154I:name
+Fixes:D157O:symbol
+Fixes:D157O:name
+Fixes:D157T:symbol
+Fixes:D157T:name
+Fixes:D161O:symbol
+Fixes:D161O:name
+Fixes:D297K:symbol
+Fixes:D297K:name
+Fixes:D334C:symbol
+Fixes:D334C:name
+Fixes:DER15:symbol
+Fixes:DER15:name
+Fixes:DER33:symbol
+Fixes:DER33:name
+Fixes:FD15:symbol
+Fixes:FD15:name
+Fixes:FD33:symbol
+Fixes:FD33:name
+Fixes:FF15:symbol
+Fixes:FF15:name
+Fixes:FF33:symbol
+Fixes:FF33:name
 Fixes:MAGLI:symbol
 Fixes:MAGLI:name
+Fixes:MD15:symbol
+Fixes:MD15:name
+Fixes:MD33:symbol
+Fixes:MD33:name
 Fixes:NOKUL:symbol
 Fixes:NOKUL:name
+Fixes:OF104:symbol
+Fixes:OF104:name
+Fixes:OF119:symbol
+Fixes:OF119:name
+Fixes:OF120:symbol
+Fixes:OF120:name
+Fixes:OF205:symbol
+Fixes:OF205:name
+Fixes:OF208:symbol
+Fixes:OF208:name
+Fixes:OF209:symbol
+Fixes:OF209:name
+Fixes:OF210:symbol
+Fixes:OF210:name
+Fixes:OF213:symbol
+Fixes:OF213:name
+Fixes:OF214:symbol
+Fixes:OF214:name
+Fixes:OF215:symbol
+Fixes:OF215:name
+Fixes:OF216:symbol
+Fixes:OF216:name
 Fixes:P734:symbol
 Fixes:P734:name
 VORs:HFC:symbol
@@ -21,21 +87,21 @@ High airways:W571:line
 High airways:X289:line
 High airways:X43:line
 Geo:ZSOF:
-Runways:ZSOF 合肥/新桥 15-33:centerline
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 1
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 1 left base
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 1 left ticks
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 1 left vectoring
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 1 right base
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 1 right ticks
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 1 right vectoring
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 2
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 2 left base
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 2 left ticks
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 2 left vectoring
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 2 right base
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 2 right ticks
-Runways:ZSOF 合肥/新桥 15-33:extended centerline 2 right vectoring
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:centerline
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 1
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 1 left base
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 1 left ticks
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 1 left vectoring
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 1 right base
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 1 right ticks
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 1 right vectoring
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 2
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 2 left base
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 2 left ticks
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 2 left vectoring
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 2 right base
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 2 right ticks
+Runways:ZSOF 鍚堣偉/鏂版ˉ 15-33:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

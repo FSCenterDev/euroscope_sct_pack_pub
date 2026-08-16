@@ -8,21 +8,21 @@ Airports:ZSWY:name
 VORs:WYS:symbol
 VORs:WYS:name
 Geo:ZSWY:
-Runways:ZSWY ÎäÒÄÉ½ 21-03:centerline
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 1
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 1 left base
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 1 left ticks
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 1 left vectoring
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 1 right base
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 1 right ticks
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 1 right vectoring
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 2
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 2 left base
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 2 left ticks
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 2 left vectoring
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 2 right base
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 2 right ticks
-Runways:ZSWY ÎäÒÄÉ½ 21-03:extended centerline 2 right vectoring
+Runways:ZSWY æ­¦å¤·å±± 21-03:centerline
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 1
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 1 left base
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 1 left ticks
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 1 left vectoring
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 1 right base
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 1 right ticks
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 1 right vectoring
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 2
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 2 left base
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 2 left ticks
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 2 left vectoring
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 2 right base
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 2 right ticks
+Runways:ZSWY æ­¦å¤·å±± 21-03:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

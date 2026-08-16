@@ -8,21 +8,21 @@ Airports:ZYCH:name
 VORs:CHI:symbol
 VORs:CHI:name
 Geo:ZYCH:
-Runways:ZYCH 长海 17-35:centerline
-Runways:ZYCH 长海 17-35:extended centerline 1
-Runways:ZYCH 长海 17-35:extended centerline 1 left base
-Runways:ZYCH 长海 17-35:extended centerline 1 left ticks
-Runways:ZYCH 长海 17-35:extended centerline 1 left vectoring
-Runways:ZYCH 长海 17-35:extended centerline 1 right base
-Runways:ZYCH 长海 17-35:extended centerline 1 right ticks
-Runways:ZYCH 长海 17-35:extended centerline 1 right vectoring
-Runways:ZYCH 长海 17-35:extended centerline 2
-Runways:ZYCH 长海 17-35:extended centerline 2 left base
-Runways:ZYCH 长海 17-35:extended centerline 2 left ticks
-Runways:ZYCH 长海 17-35:extended centerline 2 left vectoring
-Runways:ZYCH 长海 17-35:extended centerline 2 right base
-Runways:ZYCH 长海 17-35:extended centerline 2 right ticks
-Runways:ZYCH 长海 17-35:extended centerline 2 right vectoring
+Runways:ZYCH 闀挎捣 17-35:centerline
+Runways:ZYCH 闀挎捣 17-35:extended centerline 1
+Runways:ZYCH 闀挎捣 17-35:extended centerline 1 left base
+Runways:ZYCH 闀挎捣 17-35:extended centerline 1 left ticks
+Runways:ZYCH 闀挎捣 17-35:extended centerline 1 left vectoring
+Runways:ZYCH 闀挎捣 17-35:extended centerline 1 right base
+Runways:ZYCH 闀挎捣 17-35:extended centerline 1 right ticks
+Runways:ZYCH 闀挎捣 17-35:extended centerline 1 right vectoring
+Runways:ZYCH 闀挎捣 17-35:extended centerline 2
+Runways:ZYCH 闀挎捣 17-35:extended centerline 2 left base
+Runways:ZYCH 闀挎捣 17-35:extended centerline 2 left ticks
+Runways:ZYCH 闀挎捣 17-35:extended centerline 2 left vectoring
+Runways:ZYCH 闀挎捣 17-35:extended centerline 2 right base
+Runways:ZYCH 闀挎捣 17-35:extended centerline 2 right ticks
+Runways:ZYCH 闀挎捣 17-35:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

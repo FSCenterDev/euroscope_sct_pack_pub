@@ -8,21 +8,21 @@ Airports:ZUZH:name
 VORs:PAN:symbol
 VORs:PAN:name
 Geo:ZUZH:
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:centerline
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1 left base
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1 left ticks
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1 left vectoring
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1 right base
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1 right ticks
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 1 right vectoring
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2 left base
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2 left ticks
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2 left vectoring
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2 right base
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2 right ticks
-Runways:ZUZH ÅÊÖ¦»¨/±£°²Óª 02-20:extended centerline 2 right vectoring
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:centerline
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1 left base
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1 left ticks
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1 left vectoring
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1 right base
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1 right ticks
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 1 right vectoring
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2 left base
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2 left ticks
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2 left vectoring
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2 right base
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2 right ticks
+Runways:ZUZH æ”€æèŠ±/ä¿å®‰è¥ 02-20:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

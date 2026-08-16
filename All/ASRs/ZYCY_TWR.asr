@@ -8,21 +8,21 @@ Airports:ZYCY:name
 VORs:CHG:symbol
 VORs:CHG:name
 Geo:ZYCY:
-Runways:ZYCY ³¯Ñô 18-36:centerline
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 1
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 1 left base
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 1 left ticks
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 1 left vectoring
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 1 right base
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 1 right ticks
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 1 right vectoring
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 2
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 2 left base
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 2 left ticks
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 2 left vectoring
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 2 right base
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 2 right ticks
-Runways:ZYCY ³¯Ñô 18-36:extended centerline 2 right vectoring
+Runways:ZYCY æœé˜³ 18-36:centerline
+Runways:ZYCY æœé˜³ 18-36:extended centerline 1
+Runways:ZYCY æœé˜³ 18-36:extended centerline 1 left base
+Runways:ZYCY æœé˜³ 18-36:extended centerline 1 left ticks
+Runways:ZYCY æœé˜³ 18-36:extended centerline 1 left vectoring
+Runways:ZYCY æœé˜³ 18-36:extended centerline 1 right base
+Runways:ZYCY æœé˜³ 18-36:extended centerline 1 right ticks
+Runways:ZYCY æœé˜³ 18-36:extended centerline 1 right vectoring
+Runways:ZYCY æœé˜³ 18-36:extended centerline 2
+Runways:ZYCY æœé˜³ 18-36:extended centerline 2 left base
+Runways:ZYCY æœé˜³ 18-36:extended centerline 2 left ticks
+Runways:ZYCY æœé˜³ 18-36:extended centerline 2 left vectoring
+Runways:ZYCY æœé˜³ 18-36:extended centerline 2 right base
+Runways:ZYCY æœé˜³ 18-36:extended centerline 2 right ticks
+Runways:ZYCY æœé˜³ 18-36:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

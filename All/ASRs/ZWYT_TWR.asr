@@ -8,21 +8,21 @@ Airports:ZWYT:name
 VORs:YUF:symbol
 VORs:YUF:name
 Geo:ZWYT:
-Runways:ZWYT 于田/万方 08-26:centerline
-Runways:ZWYT 于田/万方 08-26:extended centerline 1
-Runways:ZWYT 于田/万方 08-26:extended centerline 1 left base
-Runways:ZWYT 于田/万方 08-26:extended centerline 1 left ticks
-Runways:ZWYT 于田/万方 08-26:extended centerline 1 left vectoring
-Runways:ZWYT 于田/万方 08-26:extended centerline 1 right base
-Runways:ZWYT 于田/万方 08-26:extended centerline 1 right ticks
-Runways:ZWYT 于田/万方 08-26:extended centerline 1 right vectoring
-Runways:ZWYT 于田/万方 08-26:extended centerline 2
-Runways:ZWYT 于田/万方 08-26:extended centerline 2 left base
-Runways:ZWYT 于田/万方 08-26:extended centerline 2 left ticks
-Runways:ZWYT 于田/万方 08-26:extended centerline 2 left vectoring
-Runways:ZWYT 于田/万方 08-26:extended centerline 2 right base
-Runways:ZWYT 于田/万方 08-26:extended centerline 2 right ticks
-Runways:ZWYT 于田/万方 08-26:extended centerline 2 right vectoring
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:centerline
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 1
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 1 left base
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 1 left ticks
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 1 left vectoring
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 1 right base
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 1 right ticks
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 1 right vectoring
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 2
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 2 left base
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 2 left ticks
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 2 left vectoring
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 2 right base
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 2 right ticks
+Runways:ZWYT 浜庣敯/涓囨柟 08-26:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

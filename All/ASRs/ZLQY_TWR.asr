@@ -8,21 +8,21 @@ Airports:ZLQY:name
 VORs:XFG:symbol
 VORs:XFG:name
 Geo:ZLQY:
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:centerline
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 1
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 1 left base
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 1 left ticks
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 1 left vectoring
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 1 right base
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 1 right ticks
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 1 right vectoring
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 2
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 2 left base
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 2 left ticks
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 2 left vectoring
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 2 right base
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 2 right ticks
-Runways:ZLQY ÇìÑô/Î÷·å 14-32:extended centerline 2 right vectoring
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:centerline
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 1
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 1 left base
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 1 left ticks
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 1 left vectoring
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 1 right base
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 1 right ticks
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 1 right vectoring
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 2
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 2 left base
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 2 left ticks
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 2 left vectoring
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 2 right base
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 2 right ticks
+Runways:ZLQY åº†é˜³/è¥¿å³° 14-32:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

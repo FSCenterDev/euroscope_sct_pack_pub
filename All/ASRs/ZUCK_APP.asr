@@ -5,6 +5,106 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZUCK:symbol
 Airports:ZUCK:name
+Fixes:31VOR:symbol
+Fixes:31VOR:name
+Fixes:73VOR:symbol
+Fixes:73VOR:name
+Fixes:CK11A:symbol
+Fixes:CK11A:name
+Fixes:CK11B:symbol
+Fixes:CK11B:name
+Fixes:CK401:symbol
+Fixes:CK401:name
+Fixes:CK402:symbol
+Fixes:CK402:name
+Fixes:CK403:symbol
+Fixes:CK403:name
+Fixes:CK404:symbol
+Fixes:CK404:name
+Fixes:CK405:symbol
+Fixes:CK405:name
+Fixes:CK406:symbol
+Fixes:CK406:name
+Fixes:CK413:symbol
+Fixes:CK413:name
+Fixes:CK414:symbol
+Fixes:CK414:name
+Fixes:CK415:symbol
+Fixes:CK415:name
+Fixes:CK416:symbol
+Fixes:CK416:name
+Fixes:CK481:symbol
+Fixes:CK481:name
+Fixes:CK482:symbol
+Fixes:CK482:name
+Fixes:CK491:symbol
+Fixes:CK491:name
+Fixes:CK492:symbol
+Fixes:CK492:name
+Fixes:CK510:symbol
+Fixes:CK510:name
+Fixes:CK530:symbol
+Fixes:CK530:name
+Fixes:CK540:symbol
+Fixes:CK540:name
+Fixes:CK610:symbol
+Fixes:CK610:name
+Fixes:CK620:symbol
+Fixes:CK620:name
+Fixes:CK630:symbol
+Fixes:CK630:name
+Fixes:CK640:symbol
+Fixes:CK640:name
+Fixes:CK803:symbol
+Fixes:CK803:name
+Fixes:CK804:symbol
+Fixes:CK804:name
+Fixes:CK805:symbol
+Fixes:CK805:name
+Fixes:CK815:symbol
+Fixes:CK815:name
+Fixes:CK821:symbol
+Fixes:CK821:name
+Fixes:CK822:symbol
+Fixes:CK822:name
+Fixes:CK903:symbol
+Fixes:CK903:name
+Fixes:CK904:symbol
+Fixes:CK904:name
+Fixes:CK905:symbol
+Fixes:CK905:name
+Fixes:CK914:symbol
+Fixes:CK914:name
+Fixes:CK915:symbol
+Fixes:CK915:name
+Fixes:D020J:symbol
+Fixes:D020J:name
+Fixes:D038I:symbol
+Fixes:D038I:name
+Fixes:D200E:symbol
+Fixes:D200E:name
+Fixes:D200M:symbol
+Fixes:D200M:name
+Fixes:D290I:symbol
+Fixes:D290I:name
+Fixes:FD02L:symbol
+Fixes:FD02L:name
+Fixes:FD02R:symbol
+Fixes:FD02R:name
+Fixes:FI02L:symbol
+Fixes:FI02L:name
+Fixes:FI02R:symbol
+Fixes:FI02R:name
+Fixes:FI03L:symbol
+Fixes:FI03L:name
+Fixes:FI03R:symbol
+Fixes:FI03R:name
+Fixes:MD02L:symbol
+Fixes:MD02L:name
+Fixes:MD02R:symbol
+Fixes:MD02R:name
+Fixes:MD20L:symbol
+Fixes:MD20L:name
 VORs:CKG:symbol
 VORs:CKG:name
 High airways:J36:line
@@ -17,66 +117,66 @@ High airways:W677:line
 High airways:W678:line
 High airways:X275:line
 Geo:ZUCK:
-Runways:ZUCK 重庆/江北 02L-20R:centerline
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1 left base
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1 left ticks
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1 left vectoring
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1 right base
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1 right ticks
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 1 right vectoring
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2 left base
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2 left ticks
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2 left vectoring
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2 right base
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2 right ticks
-Runways:ZUCK 重庆/江北 02L-20R:extended centerline 2 right vectoring
-Runways:ZUCK 重庆/江北 02R-20L:centerline
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1 left base
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1 left ticks
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1 left vectoring
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1 right base
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1 right ticks
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 1 right vectoring
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2 left base
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2 left ticks
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2 left vectoring
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2 right base
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2 right ticks
-Runways:ZUCK 重庆/江北 02R-20L:extended centerline 2 right vectoring
-Runways:ZUCK 重庆/江北 03R-21L:centerline
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1 left base
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1 left ticks
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1 left vectoring
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1 right base
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1 right ticks
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 1 right vectoring
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2 left base
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2 left ticks
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2 left vectoring
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2 right base
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2 right ticks
-Runways:ZUCK 重庆/江北 03R-21L:extended centerline 2 right vectoring
-Runways:ZUCK 重庆/江北 21R-03L:centerline
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1 left base
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1 left ticks
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1 left vectoring
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1 right base
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1 right ticks
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 1 right vectoring
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2 left base
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2 left ticks
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2 left vectoring
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2 right base
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2 right ticks
-Runways:ZUCK 重庆/江北 21R-03L:extended centerline 2 right vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:centerline
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 1
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 1 left base
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 1 left ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 1 left vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 1 right base
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 1 right ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 1 right vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 2
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 2 left base
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 2 left ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 2 left vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 2 right base
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 2 right ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 02L-20R:extended centerline 2 right vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:centerline
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 1
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 1 left base
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 1 left ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 1 left vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 1 right base
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 1 right ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 1 right vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 2
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 2 left base
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 2 left ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 2 left vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 2 right base
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 2 right ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 02R-20L:extended centerline 2 right vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:centerline
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 1
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 1 left base
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 1 left ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 1 left vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 1 right base
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 1 right ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 1 right vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 2
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 2 left base
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 2 left ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 2 left vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 2 right base
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 2 right ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 03R-21L:extended centerline 2 right vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:centerline
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 1
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 1 left base
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 1 left ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 1 left vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 1 right base
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 1 right ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 1 right vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 2
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 2 left base
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 2 left ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 2 left vectoring
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 2 right base
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 2 right ticks
+Runways:ZUCK 閲嶅簡/姹熷寳 21R-03L:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

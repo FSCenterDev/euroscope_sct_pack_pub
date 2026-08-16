@@ -8,21 +8,21 @@ Airports:ZSLO:name
 NDBs:PV:symbol
 NDBs:PV:name
 Geo:ZSLO:
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:centerline
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 1
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 1 left base
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 1 left ticks
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 1 left vectoring
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 1 right base
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 1 right ticks
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 1 right vectoring
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 2
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 2 left base
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 2 left ticks
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 2 left vectoring
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 2 right base
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 2 right ticks
-Runways:ZSLO Á¬³Ç/¹ÚõôÉ½ 21-03:extended centerline 2 right vectoring
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:centerline
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 1
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 1 left base
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 1 left ticks
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 1 left vectoring
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 1 right base
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 1 right ticks
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 1 right vectoring
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 2
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 2 left base
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 2 left ticks
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 2 left vectoring
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 2 right base
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 2 right ticks
+Runways:ZSLO è¿åŸ/å† è±¸å±± 21-03:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

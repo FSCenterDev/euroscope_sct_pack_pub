@@ -5,24 +5,42 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSYW:symbol
 Airports:ZSYW:name
+Fixes:32VOR:symbol
+Fixes:32VOR:name
+Fixes:50VOR:symbol
+Fixes:50VOR:name
+Fixes:D015F:symbol
+Fixes:D015F:name
+Fixes:FD20:symbol
+Fixes:FD20:name
+Fixes:MD02:symbol
+Fixes:MD02:name
+Fixes:MD20:symbol
+Fixes:MD20:name
+Fixes:YW220:symbol
+Fixes:YW220:name
+Fixes:YW307:symbol
+Fixes:YW307:name
+Fixes:YW310:symbol
+Fixes:YW310:name
 VORs:YEU:symbol
 VORs:YEU:name
 Geo:ZSYW:
-Runways:ZSYW 义乌 02-20:centerline
-Runways:ZSYW 义乌 02-20:extended centerline 1
-Runways:ZSYW 义乌 02-20:extended centerline 1 left base
-Runways:ZSYW 义乌 02-20:extended centerline 1 left ticks
-Runways:ZSYW 义乌 02-20:extended centerline 1 left vectoring
-Runways:ZSYW 义乌 02-20:extended centerline 1 right base
-Runways:ZSYW 义乌 02-20:extended centerline 1 right ticks
-Runways:ZSYW 义乌 02-20:extended centerline 1 right vectoring
-Runways:ZSYW 义乌 02-20:extended centerline 2
-Runways:ZSYW 义乌 02-20:extended centerline 2 left base
-Runways:ZSYW 义乌 02-20:extended centerline 2 left ticks
-Runways:ZSYW 义乌 02-20:extended centerline 2 left vectoring
-Runways:ZSYW 义乌 02-20:extended centerline 2 right base
-Runways:ZSYW 义乌 02-20:extended centerline 2 right ticks
-Runways:ZSYW 义乌 02-20:extended centerline 2 right vectoring
+Runways:ZSYW 涔変箤 02-20:centerline
+Runways:ZSYW 涔変箤 02-20:extended centerline 1
+Runways:ZSYW 涔変箤 02-20:extended centerline 1 left base
+Runways:ZSYW 涔変箤 02-20:extended centerline 1 left ticks
+Runways:ZSYW 涔変箤 02-20:extended centerline 1 left vectoring
+Runways:ZSYW 涔変箤 02-20:extended centerline 1 right base
+Runways:ZSYW 涔変箤 02-20:extended centerline 1 right ticks
+Runways:ZSYW 涔変箤 02-20:extended centerline 1 right vectoring
+Runways:ZSYW 涔変箤 02-20:extended centerline 2
+Runways:ZSYW 涔変箤 02-20:extended centerline 2 left base
+Runways:ZSYW 涔変箤 02-20:extended centerline 2 left ticks
+Runways:ZSYW 涔変箤 02-20:extended centerline 2 left vectoring
+Runways:ZSYW 涔変箤 02-20:extended centerline 2 right base
+Runways:ZSYW 涔変箤 02-20:extended centerline 2 right ticks
+Runways:ZSYW 涔変箤 02-20:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -8,21 +8,21 @@ Airports:ZPTC:name
 VORs:TEC:symbol
 VORs:TEC:name
 Geo:ZPTC:
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:centerline
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1 left base
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1 left ticks
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1 left vectoring
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1 right base
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1 right ticks
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 1 right vectoring
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2 left base
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2 left ticks
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2 left vectoring
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2 right base
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2 right ticks
-Runways:ZPTC ÌÚ³å/ÍÕ·å 18-36:extended centerline 2 right vectoring
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:centerline
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1 left base
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1 left ticks
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1 left vectoring
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1 right base
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1 right ticks
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 1 right vectoring
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2 left base
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2 left ticks
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2 left vectoring
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2 right base
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2 right ticks
+Runways:ZPTC è…¾å†²/é©¼å³° 18-36:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

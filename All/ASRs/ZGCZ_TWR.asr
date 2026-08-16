@@ -8,21 +8,21 @@ Airports:ZGCZ:name
 VORs:CZA:symbol
 VORs:CZA:name
 Geo:ZGCZ:
-Runways:ZGCZ 郴州/北湖 07-25:centerline
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 1
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 1 left base
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 1 left ticks
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 1 left vectoring
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 1 right base
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 1 right ticks
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 1 right vectoring
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 2
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 2 left base
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 2 left ticks
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 2 left vectoring
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 2 right base
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 2 right ticks
-Runways:ZGCZ 郴州/北湖 07-25:extended centerline 2 right vectoring
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:centerline
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 1
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 1 left base
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 1 left ticks
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 1 left vectoring
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 1 right base
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 1 right ticks
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 1 right vectoring
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 2
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 2 left base
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 2 left ticks
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 2 left vectoring
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 2 right base
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 2 right ticks
+Runways:ZGCZ 閮村窞/鍖楁箹 07-25:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

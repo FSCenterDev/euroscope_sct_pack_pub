@@ -8,21 +8,21 @@ Airports:ZYMH:name
 VORs:MHN:symbol
 VORs:MHN:name
 Geo:ZYMH:
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:centerline
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 1
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 1 left base
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 1 left ticks
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 1 left vectoring
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 1 right base
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 1 right ticks
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 1 right vectoring
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 2
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 2 left base
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 2 left ticks
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 2 left vectoring
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 2 right base
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 2 right ticks
-Runways:ZYMH Ä®ºÓ/¹ÅÁ« 33-15:extended centerline 2 right vectoring
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:centerline
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 1
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 1 left base
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 1 left ticks
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 1 left vectoring
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 1 right base
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 1 right ticks
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 1 right vectoring
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 2
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 2 left base
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 2 left ticks
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 2 left vectoring
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 2 right base
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 2 right ticks
+Runways:ZYMH æ¼ æ²³/å¤è² 33-15:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

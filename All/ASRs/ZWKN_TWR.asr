@@ -8,21 +8,21 @@ Airports:ZWKN:name
 VORs:KNS:symbol
 VORs:KNS:name
 Geo:ZWKN:
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:centerline
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 1
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 1 left base
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 1 left ticks
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 1 left vectoring
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 1 right base
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 1 right ticks
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 1 right vectoring
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 2
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 2 left base
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 2 left ticks
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 2 left vectoring
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 2 right base
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 2 right ticks
-Runways:ZWKN ²¼¶û½ò/¿¦ÄÉË¹ 30-12:extended centerline 2 right vectoring
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:centerline
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 1
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 1 left base
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 1 left ticks
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 1 left vectoring
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 1 right base
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 1 right ticks
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 1 right vectoring
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 2
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 2 left base
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 2 left ticks
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 2 left vectoring
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 2 right base
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 2 right ticks
+Runways:ZWKN å¸ƒå°”æ´¥/å–€çº³æ–¯ 30-12:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

@@ -1,382 +1,349 @@
 VOICE
-AG:ZGCJ_EMG »³»¯/ÜÆ½­ Emergency:121.500
-AG:ZGCJ_TWR »³»¯/ÜÆ½­ Tower:118.400
-AG:ZGCJ_TWR_2 »³»¯/ÜÆ½­ Tower:130.000
-AG:ZGDY_ATIS ÕÅ¼Ò½ç/ºÉ»¨ ATIS:126.875
-AG:ZGDY_EMG ÕÅ¼Ò½ç/ºÉ»¨ Emergency:121.500
-AG:ZGDY_TWR ÕÅ¼Ò½ç/ºÉ»¨ Tower:118.450
-AG:ZGHC_ATIS ºÓ³Ø/½ð³Ç½­ ATIS:126.200
-AG:ZGHC_TWR ºÓ³Ø/½ð³Ç½­ Tower:118.875
-AG:ZGHC_TWR_2 ºÓ³Ø/½ð³Ç½­ Tower:130.000
-AG:ZGXX_EMG ÏæÎ÷/±ß³Ç Emergency:121.500
-AG:ZGXX_TWR ÏæÎ÷/±ß³Ç Tower:118.075
-AG:ZGXX_TWR_2 ÏæÎ÷/±ß³Ç Tower:123.050
-AG:ZHES_EMG ¶÷Ê©/Ðí¼ÒÆº Emergency:121.500
-AG:ZHES_TWR ¶÷Ê©/Ðí¼ÒÆº Tower:118.750
-AG:ZHSN_ATIS ÉñÅ©¼Ü/ºìÆº ATIS:126.225
-AG:ZHSN_TWR ÉñÅ©¼Ü/ºìÆº Tower:118.575
-AG:ZHSN_TWR_2 ÉñÅ©¼Ü/ºìÆº Tower:130.000
-AG:ZLAK_EMG °²¿µ/¸»Ç¿ Emergency:121.500
-AG:ZLAK_TWR °²¿µ/¸»Ç¿ Tower:118.825
-AG:ZLAK_TWR_2 °²¿µ/¸»Ç¿ Tower:130.000
-AG:ZLHZ_EMG ººÖÐ/³Ç¹Ì Emergency:121.500
-AG:ZLHZ_OP-CTL ººÖÐ/³Ç¹Ì Operations Control:121.700
-AG:ZLHZ_TWR ººÖÐ/³Ç¹Ì Tower:130.525
-AG:ZLHZ_TWR_2 ººÖÐ/³Ç¹Ì Tower:130.000
-AG:ZLYS_TWR ÓñÊ÷/°ÍÌÁ Tower:118.450
-AG:ZLYS_TWR_2 ÓñÊ÷/°ÍÌÁ Tower:124.300
-AG:ZPBS_TWR ±£É½/ÔÆÈð TWR:118.750
-AG:ZPBS_TWR_2 ±£É½/ÔÆÈð TWR:130.000
-AG:ZPCW_TWR ²×Ô´/ØôÉ½ Tower:118.025
-AG:ZPCW_TWR_2 ²×Ô´/ØôÉ½ Tower:130.000
-AG:ZPDL_ATIS ´óÀí/·ïÒÇ ATIS:127.025
-AG:ZPDL_OP-CTL ´óÀí/·ïÒÇ Operations Control:121.600
-AG:ZPDL_TWR ´óÀí/·ïÒÇ Tower:118.600
-AG:ZPDL_TWR_2 ´óÀí/·ïÒÇ Tower:130.000
-AG:ZPDQ_TWR µÏÇì/Ïã¸ñÀïÀ­ Tower:118.150
-AG:ZPDQ_TWR_2 µÏÇì/Ïã¸ñÀïÀ­ Tower:130.000
-AG:ZPJH_APP Î÷Ë«°æÄÉ/¸ÂÈ÷ Approach:119.100
-AG:ZPJH_APP_2 Î÷Ë«°æÄÉ/¸ÂÈ÷ Approach:119.625
-AG:ZPJH_ATIS Î÷Ë«°æÄÉ/¸ÂÈ÷ ATIS:126.225
-AG:ZPJH_GND Î÷Ë«°æÄÉ/¸ÂÈ÷ Ground:121.950
-AG:ZPJH_OP-CTL Î÷Ë«°æÄÉ/¸ÂÈ÷ Operations Control:128.925
-AG:ZPJH_TWR Î÷Ë«°æÄÉ/¸ÂÈ÷ Tower:118.600
-AG:ZPJH_TWR_2 Î÷Ë«°æÄÉ/¸ÂÈ÷ Tower:130.000
-AG:ZPJM_TWR À½²×/¾°Âõ Tower:118.075
-AG:ZPJM_TWR_2 À½²×/¾°Âõ Tower:130.000
-AG:ZPLC_TWR ÁÙ²×/²©ÉÐ Tower:118.250
-AG:ZPLC_TWR_2 ÁÙ²×/²©ÉÐ Tower:130.000
-AG:ZPLJ_APP01 Àö½­/ÈýÒå APP01:119.050
-AG:ZPLJ_APP01_2 Àö½­/ÈýÒå APP01:120.325
-AG:ZPLJ_APP02 Àö½­/ÈýÒå APP02:119.600
-AG:ZPLJ_APP02_2 Àö½­/ÈýÒå APP02:120.325
-AG:ZPLJ_ATIS Àö½­/ÈýÒå ATIS:126.675
-AG:ZPLJ_GND Àö½­/ÈýÒå Ground:121.750
-AG:ZPLJ_OP-CTL Àö½­/ÈýÒå Operations Control:121.675
-AG:ZPLJ_TWR Àö½­/ÈýÒå Tower:118.450
-AG:ZPLJ_TWR_2 Àö½­/ÈýÒå Tower:124.375
-AG:ZPMS_ATIS µÂºê/Ã¢ÊÐ ATIS:126.200
-AG:ZPMS_EMG µÂºê/Ã¢ÊÐ Emergency:121.500
-AG:ZPMS_OP-CTL µÂºê/Ã¢ÊÐ Operations Control:121.600
-AG:ZPMS_TWR µÂºê/Ã¢ÊÐ Tower:118.200
-AG:ZPMS_TWR_2 µÂºê/Ã¢ÊÐ Tower:130.000
-AG:ZPNL_TWR ÄþÝõ/ãò¹Áºþ Tower:123.625
-AG:ZPNL_TWR_2 ÄþÝõ/ãò¹Áºþ Tower:118.400
-AG:ZPPP_APN À¥Ã÷/³¤Ë® APN(¶«):121.600
-AG:ZPPP_APN À¥Ã÷/³¤Ë® APN(Î÷):121.750
-AG:ZPPP_APP01 À¥Ã÷/³¤Ë® APP01:119.000
-AG:ZPPP_APP01_2 À¥Ã÷/³¤Ë® APP01:125.550
-AG:ZPPP_APP02 À¥Ã÷/³¤Ë® APP02:123.800
-AG:ZPPP_APP02_2 À¥Ã÷/³¤Ë® APP02:125.550
-AG:ZPPP_APP03 À¥Ã÷/³¤Ë® APP03Ïò±±:120.350
-AG:ZPPP_APP03 À¥Ã÷/³¤Ë® APP03ÏòÄÏ:124.250
-AG:ZPPP_APP03_2 À¥Ã÷/³¤Ë® APP03Ïò±±:127.900
-AG:ZPPP_APP04 À¥Ã÷/³¤Ë® APP04:121.150
-AG:ZPPP_APP04_2 À¥Ã÷/³¤Ë® APP04:126.550
-AG:ZPPP_APP05 À¥Ã÷/³¤Ë® APP05Ïò±±:124.250
-AG:ZPPP_APP05 À¥Ã÷/³¤Ë® APP05ÏòÄÏ:120.350
-AG:ZPPP_APP05_2 À¥Ã÷/³¤Ë® APP05Ïò±±:127.900
-AG:ZPPP_APP07 À¥Ã÷/³¤Ë® APP07:119.225
-AG:ZPPP_ATIS À¥Ã÷/³¤Ë® ATIS:128.450
-AG:ZPPP_ATIS À¥Ã÷/³¤Ë® ATIS:126.275
-AG:ZPPP_EMG À¥Ã÷/³¤Ë® Emergency:121.500
-AG:ZPPP_GND À¥Ã÷/³¤Ë® Ground:121.700
-AG:ZPPP_GND À¥Ã÷/³¤Ë® GND(¶«):121.650
-AG:ZPPP_GND À¥Ã÷/³¤Ë® GND(Î÷):121.950
-AG:ZPPP_GND_2 À¥Ã÷/³¤Ë® Ground:121.850
-AG:ZPPP_OP-CTL À¥Ã÷/³¤Ë® Operations Control:129.025
-AG:ZPPP_OP-CTL À¥Ã÷/³¤Ë® Operations Control:131.750
-AG:ZPPP_TWR À¥Ã÷/³¤Ë® TWR(¶«):118.100
-AG:ZPPP_TWR À¥Ã÷/³¤Ë® TWR(Î÷):130.600
-AG:ZPPP_TWR_2 À¥Ã÷/³¤Ë® TWR(¶«):118.850
-AG:ZPSM_EMG ÆÕ¶ý/Ë¼Ã© Emergency:121.500
-AG:ZPSM_TWR ÆÕ¶ý/Ë¼Ã© Tower:118.450
-AG:ZPSM_TWR_2 ÆÕ¶ý/Ë¼Ã© Tower:130.000
-AG:ZPTC_OP-CTL ÌÚ³å/ÍÕ·å Operations Control:121.600
-AG:ZPTC_TWR ÌÚ³å/ÍÕ·å Tower:124.350
-AG:ZPTC_TWR_2 ÌÚ³å/ÍÕ·å Tower:118.050
-AG:ZPWS_TWR ÎÄÉ½/ÑâÉ½ Tower:118.000
-AG:ZPWS_TWR_2 ÎÄÉ½/ÑâÉ½ Tower:124.350
-AG:ZPZT_TWR ÕÑÍ¨ Tower:118.750
-AG:ZPZT_TWR_2 ÕÑÍ¨ Tower:130.000
-AG:ZUAS_TWR °²Ë³/»Æ¹ûÊ÷ Tower:118.700
-AG:ZUAS_TWR_2 °²Ë³/»Æ¹ûÊ÷ Tower:130.000
-AG:ZUBD_TWR ²ý¶¼/°î´ï Tower:118.200
-AG:ZUBD_TWR_2 ²ý¶¼/°î´ï Tower:130.000
-AG:ZUBJ_EMG ±Ï½Ú/·ÉÐÛ Emergency:121.500
-AG:ZUBJ_TWR ±Ï½Ú/·ÉÐÛ Tower:130.550
-AG:ZUBJ_TWR_2 ±Ï½Ú/·ÉÐÛ Tower:130.000
-AG:ZUBZ_TWR °ÍÖÐ/¶÷Ñô Tower:118.875
-AG:ZUBZ_TWR_2 °ÍÖÐ/¶÷Ñô Tower:130.000
-AG:ZUCK_APN01 ÖØÇì/½­±± APN01:121.600
-AG:ZUCK_APN01_2 ÖØÇì/½­±± APN01:121.775
-AG:ZUCK_APN02 ÖØÇì/½­±± APN02:121.700
-AG:ZUCK_APN02_2 ÖØÇì/½­±± APN02:121.775
-AG:ZUCK_APN03 ÖØÇì/½­±± APN03:121.900
-AG:ZUCK_APN03_2 ÖØÇì/½­±± APN03:121.775
-AG:ZUCK_APP01 ÖØÇì/½­±± APP01:125.200
-AG:ZUCK_APP01_2 ÖØÇì/½­±± APP01:119.550
-AG:ZUCK_APP02 ÖØÇì/½­±± APP02:120.850
-AG:ZUCK_APP02_2 ÖØÇì/½­±± APP02:119.550
-AG:ZUCK_APP03 ÖØÇì/½­±± APP03:119.100
-AG:ZUCK_APP03_2 ÖØÇì/½­±± APP03:119.550
-AG:ZUCK_APP04 ÖØÇì/½­±± APP04:127.925
-AG:ZUCK_APP04_2 ÖØÇì/½­±± APP04:124.200
-AG:ZUCK_APP05 ÖØÇì/½­±± APP05:120.450
-AG:ZUCK_APP05_2 ÖØÇì/½­±± APP05:124.200
-AG:ZUCK_APP06 ÖØÇì/½­±± APP06:120.025
-AG:ZUCK_APP06_2 ÖØÇì/½­±± APP06:124.200
-AG:ZUCK_ATIS ÖØÇì/½­±± ATIS(Ó¢ÎÄ):126.400
-AG:ZUCK_ATIS ÖØÇì/½­±± ATIS(ÖÐÎÄ):126.650
-AG:ZUCK_DELIVERY ÖØÇì/½­±± Delivery:121.950
-AG:ZUCK_EMG ÖØÇì/½­±± Emergency:121.500
-AG:ZUCK_GND01 ÖØÇì/½­±± GND01:121.650
-AG:ZUCK_GND02 ÖØÇì/½­±± GND02:121.750
-AG:ZUCK_GND03 ÖØÇì/½­±± GND03:121.850
-AG:ZUCK_OP-CTL ÖØÇì/½­±± Operations Control:131.500
-AG:ZUCK_OP-CTL_2 ÖØÇì/½­±± Operations Control:131.950
-AG:ZUCK_OP-CTL_3 ÖØÇì/½­±± Operations Control:131.800
-AG:ZUCK_TWR01 ÖØÇì/½­±± TWR01:118.200
-AG:ZUCK_TWR01_2 ÖØÇì/½­±± TWR01:118.650
-AG:ZUCK_TWR02 ÖØÇì/½­±± TWR02:124.350
-AG:ZUCK_TWR02_2 ÖØÇì/½­±± TWR02:118.650
-AG:ZUCK_TWR03 ÖØÇì/½­±± TWR03:118.375
-AG:ZUCK_TWR03_2 ÖØÇì/½­±± TWR03:118.650
-AG:ZUCK_TWR04 ÖØÇì/½­±± TWR04:123.575
-AG:ZUCK_TWR04_2 ÖØÇì/½­±± TWR04:118.650
-AG:ZUDA_EMG ´ïÖÝ/½ðÛë Emergency:121.500
-AG:ZUDA_TWR ´ïÖÝ/½ðÛë Tower:130.325
-AG:ZUDA_TWR_2 ´ïÖÝ/½ðÛë Tower:118.475
-AG:ZUDC_TWR µ¾³Ç/ÑÇ¶¡ TWR:118.500
-AG:ZUDC_TWR_2 µ¾³Ç/ÑÇ¶¡ TWR:130.000
-AG:ZUDJ_ATIS Í­ÈÊ/µÂ½­ ATIS:126.225
-AG:ZUDJ_TWR Í­ÈÊ/µÂ½­ Tower:123.600
-AG:ZUDJ_TWR_2 Í­ÈÊ/µÂ½­ Tower:130.000
-AG:ZUDR_EMG ÈÕ¿¦Ôò/¶¨ÈÕ Emergency:121.500
-AG:ZUDR_TWR ÈÕ¿¦Ôò/¶¨ÈÕ Tower:118.550
-AG:ZUDR_TWR_2 ÈÕ¿¦Ôò/¶¨ÈÕ Tower:130.000
-AG:ZUGH_ATIS ¹ãºº ATIS:126.200
-AG:ZUGH_TWR ¹ãºº Tower:129.450
-AG:ZUGH_TWR_2 ¹ãºº Tower:128.200
-AG:ZUGH_TWR_3 ¹ãºº Tower:130.000
-AG:ZUGU_ATIS ¹ãÔª/ÅÌÁú ATIS:126.600
-AG:ZUGU_TWR ¹ãÔª/ÅÌÁú Tower:118.400
-AG:ZUGU_TWR_2 ¹ãÔª/ÅÌÁú Tower:130.000
-AG:ZUGY_APN ¹óÑô/Áú¶´±¤ APN:121.700
-AG:ZUGY_APN_2 ¹óÑô/Áú¶´±¤ APN:121.975
-AG:ZUGY_APP01 ¹óÑô/Áú¶´±¤ APP01:120.075
-AG:ZUGY_APP01_2 ¹óÑô/Áú¶´±¤ APP01:119.450
-AG:ZUGY_APP02 ¹óÑô/Áú¶´±¤ APP02:126.050
-AG:ZUGY_APP02_2 ¹óÑô/Áú¶´±¤ APP02:119.450
-AG:ZUGY_APP03 ¹óÑô/Áú¶´±¤ APP03:119.025
-AG:ZUGY_APP03_2 ¹óÑô/Áú¶´±¤ APP03:119.725
-AG:ZUGY_APP04 ¹óÑô/Áú¶´±¤ APP04:119.150
-AG:ZUGY_APP04_2 ¹óÑô/Áú¶´±¤ APP04:119.725
-AG:ZUGY_ATIS ¹óÑô/Áú¶´±¤ ATIS(Ó¢ÎÄ):126.825
-AG:ZUGY_ATIS ¹óÑô/Áú¶´±¤ ATIS(ÖÐÎÄ):127.050
-AG:ZUGY_Delivery ¹óÑô/Áú¶´±¤ Delivery:121.800
-AG:ZUGY_Delivery_2 ¹óÑô/Áú¶´±¤ Delivery:121.650
-AG:ZUGY_EMG ¹óÑô/Áú¶´±¤ Emergency:121.500
-AG:ZUGY_GND ¹óÑô/Áú¶´±¤ GND:121.600
-AG:ZUGY_GND ¹óÑô/Áú¶´±¤ GND:121.900
-AG:ZUGY_GND_2 ¹óÑô/Áú¶´±¤ GND:121.650
-AG:ZUGY_OP-CTL ¹óÑô/Áú¶´±¤ Operations Control:130.650
-AG:ZUGY_TWR ¹óÑô/Áú¶´±¤ TWR:118.300
-AG:ZUGY_TWR ¹óÑô/Áú¶´±¤ TWR:118.525
-AG:ZUGY_TWR_2 ¹óÑô/Áú¶´±¤ TWR:118.050
-AG:ZUGY_TWR_3 ¹óÑô/Áú¶´±¤ TWR:130.000
-AG:ZUGZ_TWR ¸Ê×Î/¸ñÈø¶û Tower:118.075
-AG:ZUGZ_TWR_2 ¸Ê×Î/¸ñÈø¶û Tower:130.000
-AG:ZUHY_TWR °¢°Ó/ºìÔ­ Tower:130.400
-AG:ZUHY_TWR_2 °¢°Ó/ºìÔ­ Tower:130.000
-AG:ZUJZ_TWR ¾ÅÕ¯/»ÆÁú Tower:118.450
-AG:ZUJZ_TWR_2 ¾ÅÕ¯/»ÆÁú Tower:118.700
-AG:ZUKD_TWR ¿µ¶¨ Tower:118.050
-AG:ZUKD_TWR_2 ¿µ¶¨ Tower:118.300
-AG:ZUKJ_EMG ¿­Àï/»ÆÆ½ Emergency:121.500
-AG:ZUKJ_TWR ¿­Àï/»ÆÆ½ Tower:130.400
-AG:ZUKJ_TWR_2 ¿­Àï/»ÆÆ½ Tower:123.050
-AG:ZULA_TWR ãÏÖÐ/¹Å³Ç Tower:130.575
-AG:ZULA_TWR_2 ãÏÖÐ/¹Å³Ç Tower:130.000
-AG:ZULB_TWR Ç­ÄÏ/Àó²¨ Tower:118.800
-AG:ZULB_TWR_2 Ç­ÄÏ/Àó²¨ Tower:118.450
-AG:ZULS_APP À­Èø/¹±¸Â Approach:119.000
-AG:ZULS_APP_2 À­Èø/¹±¸Â Approach:120.200
-AG:ZULS_ATIS À­Èø/¹±¸Â ATIS:131.450
-AG:ZULS_ATIS À­Èø/¹±¸Â ATIS:126.200
-AG:ZULS_ATIS À­Èø/¹±¸Â ATIS:126.625
-AG:ZULS_EMG À­Èø/¹±¸Â Emergency:121.500
-AG:ZULS_GND01 À­Èø/¹±¸Â GND01:121.650
-AG:ZULS_GND01_2 À­Èø/¹±¸Â GND01:124.300
-AG:ZULS_GND02 À­Èø/¹±¸Â GND02:121.550
-AG:ZULS_GND02_2 À­Èø/¹±¸Â GND02:124.300
-AG:ZULS_OP-CTL À­Èø/¹±¸Â Operations Control:121.900
-AG:ZULS_OP-CTL_2 À­Èø/¹±¸Â Operations Control:124.300
-AG:ZULS_TWR01 À­Èø/¹±¸Â TWR01:118.250
-AG:ZULS_TWR01_2 À­Èø/¹±¸Â TWR01:124.300
-AG:ZULS_TWR02 À­Èø/¹±¸Â TWR02:118.050
-AG:ZULS_TWR02_2 À­Èø/¹±¸Â TWR02:124.300
-AG:ZULZ_APP01 ãòÖÝ/ÔÆÁú APP01:119.200
-AG:ZULZ_APP01_2 ãòÖÝ/ÔÆÁú APP01:119.625
-AG:ZULZ_APP02 ãòÖÝ/ÔÆÁú APP02:120.225
-AG:ZULZ_APP02_2 ãòÖÝ/ÔÆÁú APP02:119.625
-AG:ZULZ_APP03 ãòÖÝ/ÔÆÁú APP03:119.200
-AG:ZULZ_APP03_2 ãòÖÝ/ÔÆÁú APP03:119.625
-AG:ZULZ_APP04 ãòÖÝ/ÔÆÁú APP04:120.225
-AG:ZULZ_APP04_2 ãòÖÝ/ÔÆÁú APP04:119.625
-AG:ZULZ_ATIS ãòÖÝ/ÔÆÁú ATIS:127.850
-AG:ZULZ_GND ãòÖÝ/ÔÆÁú Ground:121.600
-AG:ZULZ_GND_2 ãòÖÝ/ÔÆÁú Ground:130.000
-AG:ZULZ_OP-CTL ãòÖÝ/ÔÆÁú Operations Control:121.850
-AG:ZULZ_TWR ãòÖÝ/ÔÆÁú Tower:118.025
-AG:ZULZ_TWR_2 ãòÖÝ/ÔÆÁú Tower:130.000
-AG:ZUMT_OP-CTL ×ñÒå/Ã©Ì¨ Operations Control:121.875
-AG:ZUMT_TWR ×ñÒå/Ã©Ì¨ Tower:118.125
-AG:ZUMT_TWR_2 ×ñÒå/Ã©Ì¨ Tower:130.000
-AG:ZUMY_APP01 ÃàÑô/ÄÏ½¼ APP01:124.850
-AG:ZUMY_APP01_2 ÃàÑô/ÄÏ½¼ APP01:127.700
-AG:ZUMY_APP02 ÃàÑô/ÄÏ½¼ APP02:120.375
-AG:ZUMY_APP02_2 ÃàÑô/ÄÏ½¼ APP02:127.700
-AG:ZUMY_APP03 ÃàÑô/ÄÏ½¼ APP03:119.700
-AG:ZUMY_APP03_2 ÃàÑô/ÄÏ½¼ APP03:127.700
-AG:ZUMY_APP04 ÃàÑô/ÄÏ½¼ APP04:121.350
-AG:ZUMY_APP04_2 ÃàÑô/ÄÏ½¼ APP04:125.250
-AG:ZUMY_APP07 ÃàÑô/ÄÏ½¼ APP07:119.425
-AG:ZUMY_APP07_2 ÃàÑô/ÄÏ½¼ APP07:123.825
-AG:ZUMY_APP08 ÃàÑô/ÄÏ½¼ APP08:119.250
-AG:ZUMY_APP08_2 ÃàÑô/ÄÏ½¼ APP08:123.825
-AG:ZUMY_ATIS ÃàÑô/ÄÏ½¼ ATIS:128.850
-AG:ZUMY_OP-CTL ÃàÑô/ÄÏ½¼ Operations Control:130.925
-AG:ZUMY_TWR ÃàÑô/ÄÏ½¼ Tower:118.500
-AG:ZUMY_TWR_2 ÃàÑô/ÄÏ½¼ Tower:129.600
-AG:ZUNC_ATIS ÄÏ³ä/¸ßÆº ATIS:127.400
-AG:ZUNC_EMG ÄÏ³ä/¸ßÆº Emergency:121.500
-AG:ZUNC_TWR ÄÏ³ä/¸ßÆº Tower:118.600
-AG:ZUNC_TWR_2 ÄÏ³ä/¸ßÆº Tower:118.100
-AG:ZUNP_TWR Ç­¶«ÄÏ/ÀèÆ½ Tower:118.650
-AG:ZUNP_TWR_2 Ç­¶«ÄÏ/ÀèÆ½ Tower:118.050
-AG:ZUNZ_EMG ÁÖÖ¥/Ã×ÁÖ Emergency:121.500
-AG:ZUNZ_TWR ÁÖÖ¥/Ã×ÁÖ Tower:118.100
-AG:ZUNZ_TWR_2 ÁÖÖ¥/Ã×ÁÖ Tower:124.350
-AG:ZUPL_EMG °¢Àï/ÆÕÀ¼ Emergency:121.500
-AG:ZUPL_TWR °¢Àï/ÆÕÀ¼ Tower:124.350
-AG:ZUPL_TWR_2 °¢Àï/ÆÕÀ¼ Tower:123.150
-AG:ZUPS_EMG ÁùÅÌË®/ÔÂÕÕ Emergency:121.500
-AG:ZUPS_TWR ÁùÅÌË®/ÔÂÕÕ Tower:123.575
-AG:ZUPS_TWR_2 ÁùÅÌË®/ÔÂÕÕ Tower:130.000
-AG:ZUQJ_OP-CTL Ç­½­/ÎäÁêÉ½ Operations Control:121.600
-AG:ZUQJ_TWR Ç­½­/ÎäÁêÉ½ Tower:118.100
-AG:ZUQJ_TWR_2 Ç­½­/ÎäÁêÉ½ Tower:118.400
-AG:ZURK_TWR ÈÕ¿¦Ôò/ºÍÆ½ Tower:118.400
-AG:ZURK_TWR_2 ÈÕ¿¦Ôò/ºÍÆ½ Tower:124.350
-AG:ZURK_TWR_3 ÈÕ¿¦Ôò/ºÍÆ½ Tower:130.000
-AG:ZUSH_EMG É½ÄÏ/Â¡×Ó Emergency:121.500
-AG:ZUSH_TWR É½ÄÏ/Â¡×Ó Tower:118.300
-AG:ZUSH_TWR_2 É½ÄÏ/Â¡×Ó Tower:123.150
-AG:ZUTF_APN01 ³É¶¼/Ìì¸® APN01:122.700
-AG:ZUTF_APN01_2 ³É¶¼/Ìì¸® APN01:122.150
-AG:ZUTF_APN02 ³É¶¼/Ìì¸® APN02:122.825
-AG:ZUTF_APN02_2 ³É¶¼/Ìì¸® APN02:122.150
-AG:ZUTF_APN03 ³É¶¼/Ìì¸® APN03:122.150
-AG:ZUTF_APN03_2 ³É¶¼/Ìì¸® APN03:122.700
-AG:ZUTF_APN04 ³É¶¼/Ìì¸® APN04:122.675
-AG:ZUTF_APN04_2 ³É¶¼/Ìì¸® APN04:122.150
-AG:ZUTF_APP ³É¶¼/Ìì¸® Approach:130.000
-AG:ZUTF_APP02 ³É¶¼/Ìì¸® APP02:120.375
-AG:ZUTF_APP02_2 ³É¶¼/Ìì¸® APP02:127.700
-AG:ZUTF_APP03 ³É¶¼/Ìì¸® APP03:119.700
-AG:ZUTF_APP03_2 ³É¶¼/Ìì¸® APP03:127.700
-AG:ZUTF_APP04 ³É¶¼/Ìì¸® APP04:121.350
-AG:ZUTF_APP04_2 ³É¶¼/Ìì¸® APP04:125.250
-AG:ZUTF_APP05 ³É¶¼/Ìì¸® APP05:121.025
-AG:ZUTF_APP05_2 ³É¶¼/Ìì¸® APP05:125.250
-AG:ZUTF_APP06 ³É¶¼/Ìì¸® APP06:126.350
-AG:ZUTF_APP06_2 ³É¶¼/Ìì¸® APP06:125.250
-AG:ZUTF_APP09 ³É¶¼/Ìì¸® APP09:124.750
-AG:ZUTF_APP09_2 ³É¶¼/Ìì¸® APP09:123.825
-AG:ZUTF_ATIS ³É¶¼/Ìì¸® ATIS(Ó¢ÎÄ):127.075
-AG:ZUTF_ATIS ³É¶¼/Ìì¸® ATIS(ÖÐÎÄ):126.800
-AG:ZUTF_Delivery_01 ³É¶¼/Ìì¸® Delivery 01:121.825
-AG:ZUTF_Delivery_01_2 ³É¶¼/Ìì¸® Delivery 01:121.550
-AG:ZUTF_Delivery_02 ³É¶¼/Ìì¸® Delivery 02:122.200
-AG:ZUTF_Delivery_02_2 ³É¶¼/Ìì¸® Delivery 02:121.550
-AG:ZUTF_EMG ³É¶¼/Ìì¸® Emergency:121.500
-AG:ZUTF_GND01 ³É¶¼/Ìì¸® GND01:121.925
-AG:ZUTF_GND01_2 ³É¶¼/Ìì¸® GND01:121.550
-AG:ZUTF_GND02 ³É¶¼/Ìì¸® GND02:122.600
-AG:ZUTF_GND02_2 ³É¶¼/Ìì¸® GND02:121.550
-AG:ZUTF_GND03 ³É¶¼/Ìì¸® GND03:121.775
-AG:ZUTF_GND03_2 ³É¶¼/Ìì¸® GND03:121.550
-AG:ZUTF_TWR01 ³É¶¼/Ìì¸® TWR01:118.800
-AG:ZUTF_TWR01_2 ³É¶¼/Ìì¸® TWR01:118.150
-AG:ZUTF_TWR02 ³É¶¼/Ìì¸® TWR02:130.500
-AG:ZUTF_TWR02_2 ³É¶¼/Ìì¸® TWR02:118.150
-AG:ZUTF_TWR03 ³É¶¼/Ìì¸® TWR03:124.375
-AG:ZUTF_TWR03_2 ³É¶¼/Ìì¸® TWR03:118.150
-AG:ZUTR_ATIS Í­ÈÊ/·ï»Ë ATIS:127.225
-AG:ZUTR_EMG Í­ÈÊ/·ï»Ë Emergency:121.500
-AG:ZUTR_TWR Í­ÈÊ/·ï»Ë Tower:118.500
-AG:ZUTR_TWR_2 Í­ÈÊ/·ï»Ë Tower:124.300
-AG:ZUUU_APN01 ³É¶¼/Ë«Á÷ APN01:121.900
-AG:ZUUU_APN01_2 ³É¶¼/Ë«Á÷ APN01:121.650
-AG:ZUUU_APN01_3 ³É¶¼/Ë«Á÷ APN01:121.800
-AG:ZUUU_APN02 ³É¶¼/Ë«Á÷ APN02:121.800
-AG:ZUUU_APN02_2 ³É¶¼/Ë«Á÷ APN02:121.650
-AG:ZUUU_APN02_3 ³É¶¼/Ë«Á÷ APN02:121.900
-AG:ZUUU_APN03 ³É¶¼/Ë«Á÷ APN03:121.650
-AG:ZUUU_APN03_2 ³É¶¼/Ë«Á÷ APN03:121.800
-AG:ZUUU_APN03_3 ³É¶¼/Ë«Á÷ APN03:121.900
-AG:ZUUU_APP ³É¶¼/Ë«Á÷ Approach:130.000
-AG:ZUUU_APP01 ³É¶¼/Ë«Á÷ APP01:124.850
-AG:ZUUU_APP01_2 ³É¶¼/Ë«Á÷ APP01:127.700
-AG:ZUUU_APP06 ³É¶¼/Ë«Á÷ APP06:126.350
-AG:ZUUU_APP06_2 ³É¶¼/Ë«Á÷ APP06:125.250
-AG:ZUUU_APP07 ³É¶¼/Ë«Á÷ APP07:119.425
-AG:ZUUU_APP07_2 ³É¶¼/Ë«Á÷ APP07:123.825
-AG:ZUUU_APP08 ³É¶¼/Ë«Á÷ APP08:119.250
-AG:ZUUU_APP08_2 ³É¶¼/Ë«Á÷ APP08:123.825
-AG:ZUUU_ATIS ³É¶¼/Ë«Á÷ ATIS(Ó¢ÎÄ):128.600
-AG:ZUUU_ATIS ³É¶¼/Ë«Á÷ ATIS(ÖÐÎÄ):126.450
-AG:ZUUU_GND ³É¶¼/Ë«Á÷ Ground:121.600
-AG:ZUUU_GND ³É¶¼/Ë«Á÷ Ground:121.750
-AG:ZUUU_GND ³É¶¼/Ë«Á÷ Ground:121.850
-AG:ZUUU_GND_2 ³É¶¼/Ë«Á÷ Ground:121.700
-AG:ZUUU_OP-CTL ³É¶¼/Ë«Á÷ Operations Control:131.500
-AG:ZUUU_TWR ³É¶¼/Ë«Á÷ Tower:123.000
-AG:ZUUU_TWR ³É¶¼/Ë«Á÷ Tower:130.350
-AG:ZUUU_TWR_2 ³É¶¼/Ë«Á÷ Tower:118.850
-AG:ZUWL_TWR ÖØÇì/ÏÉÅ®É½ Tower:118.725
-AG:ZUWL_TWR_2 ÖØÇì/ÏÉÅ®É½ Tower:130.000
-AG:ZUWS_TWR ÖØÇì/Î×É½ Tower:118.250
-AG:ZUWS_TWR_2 ÖØÇì/Î×É½ Tower:130.000
-AG:ZUWX_ATIS ÍòÖÝ/ÎåÇÅ ATIS:127.025
-AG:ZUWX_EMG ÍòÖÝ/ÎåÇÅ Emergency:121.500
-AG:ZUWX_OP-CTL ÍòÖÝ/ÎåÇÅ Operations Control:128.875
-AG:ZUWX_TWR ÍòÖÝ/ÎåÇÅ Tower:130.550
-AG:ZUWX_TWR_2 ÍòÖÝ/ÎåÇÅ Tower:123.150
-AG:ZUXC_ATIS Î÷²ý/ÇàÉ½ ATIS:127.400
-AG:ZUXC_GND Î÷²ý/ÇàÉ½ Ground:121.600
-AG:ZUXC_TWR Î÷²ý/ÇàÉ½ Tower:118.200
-AG:ZUXC_TWR_2 Î÷²ý/ÇàÉ½ Tower:130.000
-AG:ZUXJ_ATIS ÐÂ½ò ATIS:126.250
-AG:ZUXJ_TWR ÐÂ½ò Tower:130.300
-AG:ZUYB_APP01 ÒË±ö/ÎåÁ¸Òº APP01:119.200
-AG:ZUYB_APP01_2 ÒË±ö/ÎåÁ¸Òº APP01:119.625
-AG:ZUYB_APP02 ÒË±ö/ÎåÁ¸Òº APP02:120.225
-AG:ZUYB_APP02_2 ÒË±ö/ÎåÁ¸Òº APP02:119.625
-AG:ZUYB_APP03 ÒË±ö/ÎåÁ¸Òº APP03:119.200
-AG:ZUYB_APP03_2 ÒË±ö/ÎåÁ¸Òº APP03:119.625
-AG:ZUYB_APP04 ÒË±ö/ÎåÁ¸Òº APP04:120.225
-AG:ZUYB_APP04_2 ÒË±ö/ÎåÁ¸Òº APP04:119.625
-AG:ZUYB_TWR ÒË±ö/ÎåÁ¸Òº Tower:123.550
-AG:ZUYB_TWR_2 ÒË±ö/ÎåÁ¸Òº Tower:130.000
-AG:ZUYI_OP-CTL ÐËÒå/Íò·åÁÖ Operations Control:121.600
-AG:ZUYI_TWR ÐËÒå/Íò·åÁÖ Tower:118.150
-AG:ZUYI_TWR_2 ÐËÒå/Íò·åÁÖ Tower:118.500
-AG:ZUZH_TWR ÅÊÖ¦»¨/±£°²Óª Tower:118.350
-AG:ZUZH_TWR_2 ÅÊÖ¦»¨/±£°²Óª Tower:118.800
-AG:ZUZY_ATIS ×ñÒå/ÐÂÖÛ ATIS:127.425
-AG:ZUZY_OP-CTL ×ñÒå/ÐÂÖÛ Operations Control:121.625
-AG:ZUZY_TWR ×ñÒå/ÐÂÖÛ Tower:123.650
-AG:ZUZY_TWR_2 ×ñÒå/ÐÂÖÛ Tower:130.450
+AG:ZHES_EMG æ©æ–½/è®¸å®¶åª Emergency:121.500
+AG:ZHES_TWR æ©æ–½/è®¸å®¶åª Tower:118.750
+AG:ZPBS_TWR ä¿å±±/äº‘ç‘ž TWR:118.750
+AG:ZPBS_TWR_2 ä¿å±±/äº‘ç‘ž TWR:130.000
+AG:ZPCW_TWR æ²§æº/ä½¤å±± Tower:118.025
+AG:ZPCW_TWR_2 æ²§æº/ä½¤å±± Tower:130.000
+AG:ZPDL_ATIS å¤§ç†/å‡¤ä»ª ATIS:127.025
+AG:ZPDL_OP-CTL å¤§ç†/å‡¤ä»ª Operations Control:121.600
+AG:ZPDL_TWR å¤§ç†/å‡¤ä»ª Tower:118.600
+AG:ZPDL_TWR_2 å¤§ç†/å‡¤ä»ª Tower:130.000
+AG:ZPDQ_TWR è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ Tower:118.150
+AG:ZPDQ_TWR_2 è¿ªåº†/é¦™æ ¼é‡Œæ‹‰ Tower:130.000
+AG:ZPJH_APP è¥¿åŒç‰ˆçº³/å˜Žæ´’ Approach:119.100
+AG:ZPJH_APP_2 è¥¿åŒç‰ˆçº³/å˜Žæ´’ Approach:119.625
+AG:ZPJH_ATIS è¥¿åŒç‰ˆçº³/å˜Žæ´’ ATIS:126.225
+AG:ZPJH_GND è¥¿åŒç‰ˆçº³/å˜Žæ´’ Ground:121.950
+AG:ZPJH_OP-CTL è¥¿åŒç‰ˆçº³/å˜Žæ´’ Operations Control:128.925
+AG:ZPJH_TWR è¥¿åŒç‰ˆçº³/å˜Žæ´’ Tower:118.600
+AG:ZPJH_TWR_2 è¥¿åŒç‰ˆçº³/å˜Žæ´’ Tower:130.000
+AG:ZPJM_TWR æ¾œæ²§/æ™¯è¿ˆ Tower:118.075
+AG:ZPJM_TWR_2 æ¾œæ²§/æ™¯è¿ˆ Tower:130.000
+AG:ZPLC_TWR ä¸´æ²§/åšå°š Tower:118.250
+AG:ZPLC_TWR_2 ä¸´æ²§/åšå°š Tower:130.000
+AG:ZPLJ_APP01 ä¸½æ±Ÿ/ä¸‰ä¹‰ APP01:119.050
+AG:ZPLJ_APP01_2 ä¸½æ±Ÿ/ä¸‰ä¹‰ APP01:120.325
+AG:ZPLJ_APP02 ä¸½æ±Ÿ/ä¸‰ä¹‰ APP02:119.600
+AG:ZPLJ_APP02_2 ä¸½æ±Ÿ/ä¸‰ä¹‰ APP02:120.325
+AG:ZPLJ_ATIS ä¸½æ±Ÿ/ä¸‰ä¹‰ ATIS:126.675
+AG:ZPLJ_GND ä¸½æ±Ÿ/ä¸‰ä¹‰ Ground:121.750
+AG:ZPLJ_OP-CTL ä¸½æ±Ÿ/ä¸‰ä¹‰ Operations Control:121.675
+AG:ZPLJ_TWR ä¸½æ±Ÿ/ä¸‰ä¹‰ Tower:118.450
+AG:ZPLJ_TWR_2 ä¸½æ±Ÿ/ä¸‰ä¹‰ Tower:124.375
+AG:ZPMS_ATIS å¾·å®/èŠ’å¸‚ ATIS:126.200
+AG:ZPMS_EMG å¾·å®/èŠ’å¸‚ Emergency:121.500
+AG:ZPMS_OP-CTL å¾·å®/èŠ’å¸‚ Operations Control:121.600
+AG:ZPMS_TWR å¾·å®/èŠ’å¸‚ Tower:118.200
+AG:ZPMS_TWR_2 å¾·å®/èŠ’å¸‚ Tower:130.000
+AG:ZPNL_TWR å®è’—/æ³¸æ²½æ¹– Tower:123.625
+AG:ZPNL_TWR_2 å®è’—/æ³¸æ²½æ¹– Tower:118.400
+AG:ZPPP_APN æ˜†æ˜Ž/é•¿æ°´ APN(ä¸œ):121.600
+AG:ZPPP_APN æ˜†æ˜Ž/é•¿æ°´ APN(è¥¿):121.750
+AG:ZPPP_APP01 æ˜†æ˜Ž/é•¿æ°´ APP01:119.000
+AG:ZPPP_APP01_2 æ˜†æ˜Ž/é•¿æ°´ APP01:125.550
+AG:ZPPP_APP02 æ˜†æ˜Ž/é•¿æ°´ APP02:123.800
+AG:ZPPP_APP02_2 æ˜†æ˜Ž/é•¿æ°´ APP02:125.550
+AG:ZPPP_APP03 æ˜†æ˜Ž/é•¿æ°´ APP03å‘åŒ—:120.350
+AG:ZPPP_APP03 æ˜†æ˜Ž/é•¿æ°´ APP03å‘å—:124.250
+AG:ZPPP_APP03_2 æ˜†æ˜Ž/é•¿æ°´ APP03å‘åŒ—:127.900
+AG:ZPPP_APP04 æ˜†æ˜Ž/é•¿æ°´ APP04:121.150
+AG:ZPPP_APP04_2 æ˜†æ˜Ž/é•¿æ°´ APP04:126.550
+AG:ZPPP_APP05 æ˜†æ˜Ž/é•¿æ°´ APP05å‘åŒ—:124.250
+AG:ZPPP_APP05 æ˜†æ˜Ž/é•¿æ°´ APP05å‘å—:120.350
+AG:ZPPP_APP05_2 æ˜†æ˜Ž/é•¿æ°´ APP05å‘åŒ—:127.900
+AG:ZPPP_APP07 æ˜†æ˜Ž/é•¿æ°´ APP07:119.225
+AG:ZPPP_ATIS æ˜†æ˜Ž/é•¿æ°´ ATIS:128.450
+AG:ZPPP_ATIS æ˜†æ˜Ž/é•¿æ°´ ATIS:126.275
+AG:ZPPP_EMG æ˜†æ˜Ž/é•¿æ°´ Emergency:121.500
+AG:ZPPP_GND æ˜†æ˜Ž/é•¿æ°´ Ground:121.700
+AG:ZPPP_GND æ˜†æ˜Ž/é•¿æ°´ GND(ä¸œ):121.650
+AG:ZPPP_GND æ˜†æ˜Ž/é•¿æ°´ GND(è¥¿):121.950
+AG:ZPPP_GND_2 æ˜†æ˜Ž/é•¿æ°´ Ground:121.850
+AG:ZPPP_OP-CTL æ˜†æ˜Ž/é•¿æ°´ Operations Control:129.025
+AG:ZPPP_OP-CTL æ˜†æ˜Ž/é•¿æ°´ Operations Control:131.750
+AG:ZPPP_TWR æ˜†æ˜Ž/é•¿æ°´ TWR(ä¸œ):118.100
+AG:ZPPP_TWR æ˜†æ˜Ž/é•¿æ°´ TWR(è¥¿):130.600
+AG:ZPPP_TWR_2 æ˜†æ˜Ž/é•¿æ°´ TWR(ä¸œ):118.850
+AG:ZPSM_EMG æ™®æ´±/æ€èŒ… Emergency:121.500
+AG:ZPSM_TWR æ™®æ´±/æ€èŒ… Tower:118.450
+AG:ZPSM_TWR_2 æ™®æ´±/æ€èŒ… Tower:130.000
+AG:ZPTC_OP-CTL è…¾å†²/é©¼å³° Operations Control:121.600
+AG:ZPTC_TWR è…¾å†²/é©¼å³° Tower:124.350
+AG:ZPTC_TWR_2 è…¾å†²/é©¼å³° Tower:118.050
+AG:ZPWS_TWR æ–‡å±±/ç šå±± Tower:118.000
+AG:ZPWS_TWR_2 æ–‡å±±/ç šå±± Tower:124.350
+AG:ZPZT_TWR æ˜­é€š Tower:118.750
+AG:ZPZT_TWR_2 æ˜­é€š Tower:130.000
+AG:ZUAS_TWR å®‰é¡º/é»„æžœæ ‘ Tower:118.700
+AG:ZUAS_TWR_2 å®‰é¡º/é»„æžœæ ‘ Tower:130.000
+AG:ZUBD_TWR æ˜Œéƒ½/é‚¦è¾¾ Tower:118.200
+AG:ZUBD_TWR_2 æ˜Œéƒ½/é‚¦è¾¾ Tower:130.000
+AG:ZUBJ_EMG æ¯•èŠ‚/é£žé›„ Emergency:121.500
+AG:ZUBJ_TWR æ¯•èŠ‚/é£žé›„ Tower:130.550
+AG:ZUBJ_TWR_2 æ¯•èŠ‚/é£žé›„ Tower:130.000
+AG:ZUBZ_TWR å·´ä¸­/æ©é˜³ Tower:118.875
+AG:ZUBZ_TWR_2 å·´ä¸­/æ©é˜³ Tower:130.000
+AG:ZUCK_APN01 é‡åº†/æ±ŸåŒ— APN01:121.600
+AG:ZUCK_APN01_2 é‡åº†/æ±ŸåŒ— APN01:121.775
+AG:ZUCK_APN02 é‡åº†/æ±ŸåŒ— APN02:121.700
+AG:ZUCK_APN02_2 é‡åº†/æ±ŸåŒ— APN02:121.775
+AG:ZUCK_APN03 é‡åº†/æ±ŸåŒ— APN03:121.900
+AG:ZUCK_APN03_2 é‡åº†/æ±ŸåŒ— APN03:121.775
+AG:ZUCK_APP01 é‡åº†/æ±ŸåŒ— APP01:125.200
+AG:ZUCK_APP01_2 é‡åº†/æ±ŸåŒ— APP01:119.550
+AG:ZUCK_APP02 é‡åº†/æ±ŸåŒ— APP02:120.850
+AG:ZUCK_APP02_2 é‡åº†/æ±ŸåŒ— APP02:119.550
+AG:ZUCK_APP03 é‡åº†/æ±ŸåŒ— APP03:119.100
+AG:ZUCK_APP03_2 é‡åº†/æ±ŸåŒ— APP03:119.550
+AG:ZUCK_APP04 é‡åº†/æ±ŸåŒ— APP04:127.925
+AG:ZUCK_APP04_2 é‡åº†/æ±ŸåŒ— APP04:124.200
+AG:ZUCK_APP05 é‡åº†/æ±ŸåŒ— APP05:120.450
+AG:ZUCK_APP05_2 é‡åº†/æ±ŸåŒ— APP05:124.200
+AG:ZUCK_APP06 é‡åº†/æ±ŸåŒ— APP06:120.025
+AG:ZUCK_APP06_2 é‡åº†/æ±ŸåŒ— APP06:124.200
+AG:ZUCK_ATIS é‡åº†/æ±ŸåŒ— ATIS(è‹±æ–‡):126.400
+AG:ZUCK_ATIS é‡åº†/æ±ŸåŒ— ATIS(ä¸­æ–‡):126.650
+AG:ZUCK_DELIVERY é‡åº†/æ±ŸåŒ— Delivery:121.950
+AG:ZUCK_EMG é‡åº†/æ±ŸåŒ— Emergency:121.500
+AG:ZUCK_GND01 é‡åº†/æ±ŸåŒ— GND01:121.650
+AG:ZUCK_GND02 é‡åº†/æ±ŸåŒ— GND02:121.750
+AG:ZUCK_GND03 é‡åº†/æ±ŸåŒ— GND03:121.850
+AG:ZUCK_OP-CTL é‡åº†/æ±ŸåŒ— Operations Control:131.500
+AG:ZUCK_OP-CTL_2 é‡åº†/æ±ŸåŒ— Operations Control:131.950
+AG:ZUCK_OP-CTL_3 é‡åº†/æ±ŸåŒ— Operations Control:131.800
+AG:ZUCK_TWR01 é‡åº†/æ±ŸåŒ— TWR01:118.200
+AG:ZUCK_TWR01_2 é‡åº†/æ±ŸåŒ— TWR01:118.650
+AG:ZUCK_TWR02 é‡åº†/æ±ŸåŒ— TWR02:124.350
+AG:ZUCK_TWR02_2 é‡åº†/æ±ŸåŒ— TWR02:118.650
+AG:ZUCK_TWR03 é‡åº†/æ±ŸåŒ— TWR03:118.375
+AG:ZUCK_TWR03_2 é‡åº†/æ±ŸåŒ— TWR03:118.650
+AG:ZUCK_TWR04 é‡åº†/æ±ŸåŒ— TWR04:123.575
+AG:ZUCK_TWR04_2 é‡åº†/æ±ŸåŒ— TWR04:118.650
+AG:ZUDA_EMG è¾¾å·ž/é‡‘åž­ Emergency:121.500
+AG:ZUDA_TWR è¾¾å·ž/é‡‘åž­ Tower:130.325
+AG:ZUDA_TWR_2 è¾¾å·ž/é‡‘åž­ Tower:118.475
+AG:ZUDC_TWR ç¨»åŸŽ/äºšä¸ TWR:118.500
+AG:ZUDC_TWR_2 ç¨»åŸŽ/äºšä¸ TWR:130.000
+AG:ZUDJ_ATIS é“œä»/å¾·æ±Ÿ ATIS:126.225
+AG:ZUDJ_TWR é“œä»/å¾·æ±Ÿ Tower:123.600
+AG:ZUDJ_TWR_2 é“œä»/å¾·æ±Ÿ Tower:130.000
+AG:ZUDR_EMG æ—¥å–€åˆ™/å®šæ—¥ Emergency:121.500
+AG:ZUDR_TWR æ—¥å–€åˆ™/å®šæ—¥ Tower:118.550
+AG:ZUDR_TWR_2 æ—¥å–€åˆ™/å®šæ—¥ Tower:130.000
+AG:ZUGH_ATIS å¹¿æ±‰ ATIS:126.200
+AG:ZUGH_TWR å¹¿æ±‰ Tower:129.450
+AG:ZUGH_TWR_2 å¹¿æ±‰ Tower:128.200
+AG:ZUGH_TWR_3 å¹¿æ±‰ Tower:130.000
+AG:ZUGU_ATIS å¹¿å…ƒ/ç›˜é¾™ ATIS:126.600
+AG:ZUGU_TWR å¹¿å…ƒ/ç›˜é¾™ Tower:118.400
+AG:ZUGU_TWR_2 å¹¿å…ƒ/ç›˜é¾™ Tower:130.000
+AG:ZUGY_APN è´µé˜³/é¾™æ´žå ¡ APN:121.700
+AG:ZUGY_APN_2 è´µé˜³/é¾™æ´žå ¡ APN:121.975
+AG:ZUGY_APP01 è´µé˜³/é¾™æ´žå ¡ APP01:120.075
+AG:ZUGY_APP01_2 è´µé˜³/é¾™æ´žå ¡ APP01:119.450
+AG:ZUGY_APP02 è´µé˜³/é¾™æ´žå ¡ APP02:126.050
+AG:ZUGY_APP02_2 è´µé˜³/é¾™æ´žå ¡ APP02:119.450
+AG:ZUGY_APP03 è´µé˜³/é¾™æ´žå ¡ APP03:119.025
+AG:ZUGY_APP03_2 è´µé˜³/é¾™æ´žå ¡ APP03:119.725
+AG:ZUGY_APP04 è´µé˜³/é¾™æ´žå ¡ APP04:119.150
+AG:ZUGY_APP04_2 è´µé˜³/é¾™æ´žå ¡ APP04:119.725
+AG:ZUGY_ATIS è´µé˜³/é¾™æ´žå ¡ ATIS(è‹±æ–‡):126.825
+AG:ZUGY_ATIS è´µé˜³/é¾™æ´žå ¡ ATIS(ä¸­æ–‡):127.050
+AG:ZUGY_Delivery è´µé˜³/é¾™æ´žå ¡ Delivery:121.800
+AG:ZUGY_Delivery_2 è´µé˜³/é¾™æ´žå ¡ Delivery:121.650
+AG:ZUGY_EMG è´µé˜³/é¾™æ´žå ¡ Emergency:121.500
+AG:ZUGY_GND è´µé˜³/é¾™æ´žå ¡ GND:121.600
+AG:ZUGY_GND è´µé˜³/é¾™æ´žå ¡ GND:121.900
+AG:ZUGY_GND_2 è´µé˜³/é¾™æ´žå ¡ GND:121.650
+AG:ZUGY_OP-CTL è´µé˜³/é¾™æ´žå ¡ Operations Control:130.650
+AG:ZUGY_TWR è´µé˜³/é¾™æ´žå ¡ TWR:118.300
+AG:ZUGY_TWR è´µé˜³/é¾™æ´žå ¡ TWR:118.525
+AG:ZUGY_TWR_2 è´µé˜³/é¾™æ´žå ¡ TWR:118.050
+AG:ZUGY_TWR_3 è´µé˜³/é¾™æ´žå ¡ TWR:130.000
+AG:ZUGZ_TWR ç”˜å­œ/æ ¼è¨å°” Tower:118.075
+AG:ZUGZ_TWR_2 ç”˜å­œ/æ ¼è¨å°” Tower:130.000
+AG:ZUHY_TWR é˜¿å/çº¢åŽŸ Tower:130.400
+AG:ZUHY_TWR_2 é˜¿å/çº¢åŽŸ Tower:130.000
+AG:ZUJZ_TWR ä¹å¯¨/é»„é¾™ Tower:118.450
+AG:ZUJZ_TWR_2 ä¹å¯¨/é»„é¾™ Tower:118.700
+AG:ZUKD_TWR åº·å®š Tower:118.050
+AG:ZUKD_TWR_2 åº·å®š Tower:118.300
+AG:ZUKJ_EMG å‡¯é‡Œ/é»„å¹³ Emergency:121.500
+AG:ZUKJ_TWR å‡¯é‡Œ/é»„å¹³ Tower:130.400
+AG:ZUKJ_TWR_2 å‡¯é‡Œ/é»„å¹³ Tower:123.050
+AG:ZULA_TWR é˜†ä¸­/å¤åŸŽ Tower:130.575
+AG:ZULA_TWR_2 é˜†ä¸­/å¤åŸŽ Tower:130.000
+AG:ZULS_APP æ‹‰è¨/è´¡å˜Ž Approach:119.000
+AG:ZULS_APP_2 æ‹‰è¨/è´¡å˜Ž Approach:120.200
+AG:ZULS_ATIS æ‹‰è¨/è´¡å˜Ž ATIS:131.450
+AG:ZULS_ATIS æ‹‰è¨/è´¡å˜Ž ATIS:126.200
+AG:ZULS_ATIS æ‹‰è¨/è´¡å˜Ž ATIS:126.625
+AG:ZULS_EMG æ‹‰è¨/è´¡å˜Ž Emergency:121.500
+AG:ZULS_GND01 æ‹‰è¨/è´¡å˜Ž GND01:121.650
+AG:ZULS_GND01_2 æ‹‰è¨/è´¡å˜Ž GND01:124.300
+AG:ZULS_GND02 æ‹‰è¨/è´¡å˜Ž GND02:121.550
+AG:ZULS_GND02_2 æ‹‰è¨/è´¡å˜Ž GND02:124.300
+AG:ZULS_OP-CTL æ‹‰è¨/è´¡å˜Ž Operations Control:121.900
+AG:ZULS_OP-CTL_2 æ‹‰è¨/è´¡å˜Ž Operations Control:124.300
+AG:ZULS_TWR01 æ‹‰è¨/è´¡å˜Ž TWR01:118.250
+AG:ZULS_TWR01_2 æ‹‰è¨/è´¡å˜Ž TWR01:124.300
+AG:ZULS_TWR02 æ‹‰è¨/è´¡å˜Ž TWR02:118.050
+AG:ZULS_TWR02_2 æ‹‰è¨/è´¡å˜Ž TWR02:124.300
+AG:ZULZ_APP01 æ³¸å·ž/äº‘é¾™ APP01:119.200
+AG:ZULZ_APP01_2 æ³¸å·ž/äº‘é¾™ APP01:119.625
+AG:ZULZ_APP02 æ³¸å·ž/äº‘é¾™ APP02:120.225
+AG:ZULZ_APP02_2 æ³¸å·ž/äº‘é¾™ APP02:119.625
+AG:ZULZ_APP03 æ³¸å·ž/äº‘é¾™ APP03:119.200
+AG:ZULZ_APP03_2 æ³¸å·ž/äº‘é¾™ APP03:119.625
+AG:ZULZ_APP04 æ³¸å·ž/äº‘é¾™ APP04:120.225
+AG:ZULZ_APP04_2 æ³¸å·ž/äº‘é¾™ APP04:119.625
+AG:ZULZ_ATIS æ³¸å·ž/äº‘é¾™ ATIS:127.850
+AG:ZULZ_GND æ³¸å·ž/äº‘é¾™ Ground:121.600
+AG:ZULZ_GND_2 æ³¸å·ž/äº‘é¾™ Ground:130.000
+AG:ZULZ_OP-CTL æ³¸å·ž/äº‘é¾™ Operations Control:121.850
+AG:ZULZ_TWR æ³¸å·ž/äº‘é¾™ Tower:118.025
+AG:ZULZ_TWR_2 æ³¸å·ž/äº‘é¾™ Tower:130.000
+AG:ZUMT_OP-CTL éµä¹‰/èŒ…å° Operations Control:121.875
+AG:ZUMT_TWR éµä¹‰/èŒ…å° Tower:118.125
+AG:ZUMT_TWR_2 éµä¹‰/èŒ…å° Tower:130.000
+AG:ZUMY_APP01 ç»µé˜³/å—éƒŠ APP01:124.850
+AG:ZUMY_APP01_2 ç»µé˜³/å—éƒŠ APP01:127.700
+AG:ZUMY_APP02 ç»µé˜³/å—éƒŠ APP02:120.375
+AG:ZUMY_APP02_2 ç»µé˜³/å—éƒŠ APP02:127.700
+AG:ZUMY_APP03 ç»µé˜³/å—éƒŠ APP03:119.700
+AG:ZUMY_APP03_2 ç»µé˜³/å—éƒŠ APP03:127.700
+AG:ZUMY_APP04 ç»µé˜³/å—éƒŠ APP04:121.350
+AG:ZUMY_APP04_2 ç»µé˜³/å—éƒŠ APP04:125.250
+AG:ZUMY_APP07 ç»µé˜³/å—éƒŠ APP07:119.425
+AG:ZUMY_APP07_2 ç»µé˜³/å—éƒŠ APP07:123.825
+AG:ZUMY_APP08 ç»µé˜³/å—éƒŠ APP08:119.250
+AG:ZUMY_APP08_2 ç»µé˜³/å—éƒŠ APP08:123.825
+AG:ZUMY_ATIS ç»µé˜³/å—éƒŠ ATIS:128.850
+AG:ZUMY_OP-CTL ç»µé˜³/å—éƒŠ Operations Control:130.925
+AG:ZUMY_TWR ç»µé˜³/å—éƒŠ Tower:118.500
+AG:ZUMY_TWR_2 ç»µé˜³/å—éƒŠ Tower:129.600
+AG:ZUNC_ATIS å—å……/é«˜åª ATIS:127.400
+AG:ZUNC_EMG å—å……/é«˜åª Emergency:121.500
+AG:ZUNC_TWR å—å……/é«˜åª Tower:118.600
+AG:ZUNC_TWR_2 å—å……/é«˜åª Tower:118.100
+AG:ZUNZ_EMG æž—èŠ/ç±³æž— Emergency:121.500
+AG:ZUNZ_TWR æž—èŠ/ç±³æž— Tower:118.100
+AG:ZUNZ_TWR_2 æž—èŠ/ç±³æž— Tower:124.350
+AG:ZUPS_EMG å…­ç›˜æ°´/æœˆç…§ Emergency:121.500
+AG:ZUPS_TWR å…­ç›˜æ°´/æœˆç…§ Tower:123.575
+AG:ZUPS_TWR_2 å…­ç›˜æ°´/æœˆç…§ Tower:130.000
+AG:ZUQJ_OP-CTL é»”æ±Ÿ/æ­¦é™µå±± Operations Control:121.600
+AG:ZUQJ_TWR é»”æ±Ÿ/æ­¦é™µå±± Tower:118.100
+AG:ZUQJ_TWR_2 é»”æ±Ÿ/æ­¦é™µå±± Tower:118.400
+AG:ZURK_TWR æ—¥å–€åˆ™/å’Œå¹³ Tower:118.400
+AG:ZURK_TWR_2 æ—¥å–€åˆ™/å’Œå¹³ Tower:124.350
+AG:ZURK_TWR_3 æ—¥å–€åˆ™/å’Œå¹³ Tower:130.000
+AG:ZUSH_EMG å±±å—/éš†å­ Emergency:121.500
+AG:ZUSH_TWR å±±å—/éš†å­ Tower:118.300
+AG:ZUSH_TWR_2 å±±å—/éš†å­ Tower:123.150
+AG:ZUTF_APN01 æˆéƒ½/å¤©åºœ APN01:122.700
+AG:ZUTF_APN01_2 æˆéƒ½/å¤©åºœ APN01:122.150
+AG:ZUTF_APN02 æˆéƒ½/å¤©åºœ APN02:122.825
+AG:ZUTF_APN02_2 æˆéƒ½/å¤©åºœ APN02:122.150
+AG:ZUTF_APN03 æˆéƒ½/å¤©åºœ APN03:122.150
+AG:ZUTF_APN03_2 æˆéƒ½/å¤©åºœ APN03:122.700
+AG:ZUTF_APN04 æˆéƒ½/å¤©åºœ APN04:122.675
+AG:ZUTF_APN04_2 æˆéƒ½/å¤©åºœ APN04:122.150
+AG:ZUTF_APP æˆéƒ½/å¤©åºœ Approach:130.000
+AG:ZUTF_APP02 æˆéƒ½/å¤©åºœ APP02:120.375
+AG:ZUTF_APP02_2 æˆéƒ½/å¤©åºœ APP02:127.700
+AG:ZUTF_APP03 æˆéƒ½/å¤©åºœ APP03:119.700
+AG:ZUTF_APP03_2 æˆéƒ½/å¤©åºœ APP03:127.700
+AG:ZUTF_APP04 æˆéƒ½/å¤©åºœ APP04:121.350
+AG:ZUTF_APP04_2 æˆéƒ½/å¤©åºœ APP04:125.250
+AG:ZUTF_APP05 æˆéƒ½/å¤©åºœ APP05:121.025
+AG:ZUTF_APP05_2 æˆéƒ½/å¤©åºœ APP05:125.250
+AG:ZUTF_APP06 æˆéƒ½/å¤©åºœ APP06:126.350
+AG:ZUTF_APP06_2 æˆéƒ½/å¤©åºœ APP06:125.250
+AG:ZUTF_APP09 æˆéƒ½/å¤©åºœ APP09:124.750
+AG:ZUTF_APP09_2 æˆéƒ½/å¤©åºœ APP09:123.825
+AG:ZUTF_ATIS æˆéƒ½/å¤©åºœ ATIS(è‹±æ–‡):127.075
+AG:ZUTF_ATIS æˆéƒ½/å¤©åºœ ATIS(ä¸­æ–‡):126.800
+AG:ZUTF_Delivery_01 æˆéƒ½/å¤©åºœ Delivery 01:121.825
+AG:ZUTF_Delivery_01_2 æˆéƒ½/å¤©åºœ Delivery 01:121.550
+AG:ZUTF_Delivery_02 æˆéƒ½/å¤©åºœ Delivery 02:122.200
+AG:ZUTF_Delivery_02_2 æˆéƒ½/å¤©åºœ Delivery 02:121.550
+AG:ZUTF_EMG æˆéƒ½/å¤©åºœ Emergency:121.500
+AG:ZUTF_GND01 æˆéƒ½/å¤©åºœ GND01:121.925
+AG:ZUTF_GND01_2 æˆéƒ½/å¤©åºœ GND01:121.550
+AG:ZUTF_GND02 æˆéƒ½/å¤©åºœ GND02:122.600
+AG:ZUTF_GND02_2 æˆéƒ½/å¤©åºœ GND02:121.550
+AG:ZUTF_GND03 æˆéƒ½/å¤©åºœ GND03:121.775
+AG:ZUTF_GND03_2 æˆéƒ½/å¤©åºœ GND03:121.550
+AG:ZUTF_TWR01 æˆéƒ½/å¤©åºœ TWR01:118.800
+AG:ZUTF_TWR01_2 æˆéƒ½/å¤©åºœ TWR01:118.150
+AG:ZUTF_TWR02 æˆéƒ½/å¤©åºœ TWR02:130.500
+AG:ZUTF_TWR02_2 æˆéƒ½/å¤©åºœ TWR02:118.150
+AG:ZUTF_TWR03 æˆéƒ½/å¤©åºœ TWR03:124.375
+AG:ZUTF_TWR03_2 æˆéƒ½/å¤©åºœ TWR03:118.150
+AG:ZUTR_ATIS é“œä»/å‡¤å‡° ATIS:127.225
+AG:ZUTR_EMG é“œä»/å‡¤å‡° Emergency:121.500
+AG:ZUTR_TWR é“œä»/å‡¤å‡° Tower:118.500
+AG:ZUTR_TWR_2 é“œä»/å‡¤å‡° Tower:124.300
+AG:ZUUU_APN01 æˆéƒ½/åŒæµ APN01:121.900
+AG:ZUUU_APN01_2 æˆéƒ½/åŒæµ APN01:121.650
+AG:ZUUU_APN01_3 æˆéƒ½/åŒæµ APN01:121.800
+AG:ZUUU_APN02 æˆéƒ½/åŒæµ APN02:121.800
+AG:ZUUU_APN02_2 æˆéƒ½/åŒæµ APN02:121.650
+AG:ZUUU_APN02_3 æˆéƒ½/åŒæµ APN02:121.900
+AG:ZUUU_APN03 æˆéƒ½/åŒæµ APN03:121.650
+AG:ZUUU_APN03_2 æˆéƒ½/åŒæµ APN03:121.800
+AG:ZUUU_APN03_3 æˆéƒ½/åŒæµ APN03:121.900
+AG:ZUUU_APP æˆéƒ½/åŒæµ Approach:130.000
+AG:ZUUU_APP01 æˆéƒ½/åŒæµ APP01:124.850
+AG:ZUUU_APP01_2 æˆéƒ½/åŒæµ APP01:127.700
+AG:ZUUU_APP06 æˆéƒ½/åŒæµ APP06:126.350
+AG:ZUUU_APP06_2 æˆéƒ½/åŒæµ APP06:125.250
+AG:ZUUU_APP07 æˆéƒ½/åŒæµ APP07:119.425
+AG:ZUUU_APP07_2 æˆéƒ½/åŒæµ APP07:123.825
+AG:ZUUU_APP08 æˆéƒ½/åŒæµ APP08:119.250
+AG:ZUUU_APP08_2 æˆéƒ½/åŒæµ APP08:123.825
+AG:ZUUU_ATIS æˆéƒ½/åŒæµ ATIS(è‹±æ–‡):128.600
+AG:ZUUU_ATIS æˆéƒ½/åŒæµ ATIS(ä¸­æ–‡):126.450
+AG:ZUUU_GND æˆéƒ½/åŒæµ Ground:121.600
+AG:ZUUU_GND æˆéƒ½/åŒæµ Ground:121.750
+AG:ZUUU_GND æˆéƒ½/åŒæµ Ground:121.850
+AG:ZUUU_GND_2 æˆéƒ½/åŒæµ Ground:121.700
+AG:ZUUU_OP-CTL æˆéƒ½/åŒæµ Operations Control:131.500
+AG:ZUUU_TWR æˆéƒ½/åŒæµ Tower:123.000
+AG:ZUUU_TWR æˆéƒ½/åŒæµ Tower:130.350
+AG:ZUUU_TWR_2 æˆéƒ½/åŒæµ Tower:118.850
+AG:ZUWL_TWR é‡åº†/ä»™å¥³å±± Tower:118.725
+AG:ZUWL_TWR_2 é‡åº†/ä»™å¥³å±± Tower:130.000
+AG:ZUWX_ATIS ä¸‡å·ž/äº”æ¡¥ ATIS:127.025
+AG:ZUWX_EMG ä¸‡å·ž/äº”æ¡¥ Emergency:121.500
+AG:ZUWX_OP-CTL ä¸‡å·ž/äº”æ¡¥ Operations Control:128.875
+AG:ZUWX_TWR ä¸‡å·ž/äº”æ¡¥ Tower:130.550
+AG:ZUWX_TWR_2 ä¸‡å·ž/äº”æ¡¥ Tower:123.150
+AG:ZUXC_ATIS è¥¿æ˜Œ/é’å±± ATIS:127.400
+AG:ZUXC_GND è¥¿æ˜Œ/é’å±± Ground:121.600
+AG:ZUXC_TWR è¥¿æ˜Œ/é’å±± Tower:118.200
+AG:ZUXC_TWR_2 è¥¿æ˜Œ/é’å±± Tower:130.000
+AG:ZUXJ_ATIS æ–°æ´¥ ATIS:126.250
+AG:ZUXJ_TWR æ–°æ´¥ Tower:130.300
+AG:ZUYB_APP01 å®œå®¾/äº”ç²®æ¶² APP01:119.200
+AG:ZUYB_APP01_2 å®œå®¾/äº”ç²®æ¶² APP01:119.625
+AG:ZUYB_APP02 å®œå®¾/äº”ç²®æ¶² APP02:120.225
+AG:ZUYB_APP02_2 å®œå®¾/äº”ç²®æ¶² APP02:119.625
+AG:ZUYB_APP03 å®œå®¾/äº”ç²®æ¶² APP03:119.200
+AG:ZUYB_APP03_2 å®œå®¾/äº”ç²®æ¶² APP03:119.625
+AG:ZUYB_APP04 å®œå®¾/äº”ç²®æ¶² APP04:120.225
+AG:ZUYB_APP04_2 å®œå®¾/äº”ç²®æ¶² APP04:119.625
+AG:ZUYB_TWR å®œå®¾/äº”ç²®æ¶² Tower:123.550
+AG:ZUYB_TWR_2 å®œå®¾/äº”ç²®æ¶² Tower:130.000
+AG:ZUYI_OP-CTL å…´ä¹‰/ä¸‡å³°æž— Operations Control:121.600
+AG:ZUYI_TWR å…´ä¹‰/ä¸‡å³°æž— Tower:118.150
+AG:ZUYI_TWR_2 å…´ä¹‰/ä¸‡å³°æž— Tower:118.500
+AG:ZUZH_TWR æ”€æžèŠ±/ä¿å®‰è¥ Tower:118.350
+AG:ZUZH_TWR_2 æ”€æžèŠ±/ä¿å®‰è¥ Tower:118.800
+AG:ZUZY_ATIS éµä¹‰/æ–°èˆŸ ATIS:127.425
+AG:ZUZY_OP-CTL éµä¹‰/æ–°èˆŸ Operations Control:121.625
+AG:ZUZY_TWR éµä¹‰/æ–°èˆŸ Tower:123.650
+AG:ZUZY_TWR_2 éµä¹‰/æ–°èˆŸ Tower:130.450
 END

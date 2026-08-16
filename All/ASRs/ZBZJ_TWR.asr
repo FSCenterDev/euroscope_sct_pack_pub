@@ -8,21 +8,21 @@ Airports:ZBZJ:name
 VORs:HAR:symbol
 VORs:HAR:name
 Geo:ZBZJ:
-Runways:ZBZJ �żҿ�/��Զ 30-12:centerline
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 1
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 1 left base
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 1 left ticks
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 1 left vectoring
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 1 right base
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 1 right ticks
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 1 right vectoring
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 2
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 2 left base
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 2 left ticks
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 2 left vectoring
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 2 right base
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 2 right ticks
-Runways:ZBZJ �żҿ�/��Զ 30-12:extended centerline 2 right vectoring
+Runways:ZBZJ 张家口/宁远 30-12:centerline
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 1
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 1 left base
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 1 left ticks
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 1 left vectoring
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 1 right base
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 1 right ticks
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 1 right vectoring
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 2
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 2 left base
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 2 left ticks
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 2 left vectoring
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 2 right base
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 2 right ticks
+Runways:ZBZJ 张家口/宁远 30-12:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

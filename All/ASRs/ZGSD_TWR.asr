@@ -5,26 +5,28 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZGSD:symbol
 Airports:ZGSD:name
+Fixes:MCC84:symbol
+Fixes:MCC84:name
 NDBs:U:symbol
 NDBs:U:name
 NDBs:UJ:symbol
 NDBs:UJ:name
 Geo:ZGSD:
-Runways:ZGSD 珠海/金湾 05-23:centerline
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 1
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 left base
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 left ticks
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 left vectoring
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 right base
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 right ticks
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 1 right vectoring
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 2
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 left base
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 left ticks
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 left vectoring
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 right base
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 right ticks
-Runways:ZGSD 珠海/金湾 05-23:extended centerline 2 right vectoring
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:centerline
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 1
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 1 left base
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 1 left ticks
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 1 left vectoring
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 1 right base
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 1 right ticks
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 1 right vectoring
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 2
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 2 left base
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 2 left ticks
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 2 left vectoring
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 2 right base
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 2 right ticks
+Runways:ZGSD 鐝犳捣/閲戞咕 05-23:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

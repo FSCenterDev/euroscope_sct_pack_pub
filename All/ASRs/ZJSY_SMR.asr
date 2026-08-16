@@ -5,22 +5,28 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZJSY:symbol
 Airports:ZJSY:name
+Fixes:DER08:symbol
+Fixes:DER08:name
+Fixes:DER26:symbol
+Fixes:DER26:name
+Fixes:SY935:symbol
+Fixes:SY935:name
 Geo:ZJSY:
-Runways:ZJSY 三亚/凤凰 08-26:centerline
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1 left base
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1 left ticks
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1 left vectoring
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1 right base
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1 right ticks
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 1 right vectoring
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2 left base
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2 left ticks
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2 left vectoring
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2 right base
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2 right ticks
-Runways:ZJSY 三亚/凤凰 08-26:extended centerline 2 right vectoring
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:centerline
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 1
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 1 left base
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 1 left ticks
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 1 left vectoring
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 1 right base
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 1 right ticks
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 1 right vectoring
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 2
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 2 left base
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 2 left ticks
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 2 left vectoring
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 2 right base
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 2 right ticks
+Runways:ZJSY 涓変簹/鍑ゅ嚢 08-26:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

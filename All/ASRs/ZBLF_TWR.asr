@@ -6,21 +6,21 @@ SECTORTITLE:
 Airports:ZBLF:symbol
 Airports:ZBLF:name
 Geo:ZBLF:
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:centerline
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 1
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 1 left base
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 1 left ticks
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 1 left vectoring
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 1 right base
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 1 right ticks
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 1 right vectoring
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 2
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 2 left base
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 2 left ticks
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 2 left vectoring
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 2 right base
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 2 right ticks
-Runways:ZBLF ÁÙ·Ú/Ò¢¶¼ 17-35:extended centerline 2 right vectoring
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:centerline
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 1
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 1 left base
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 1 left ticks
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 1 left vectoring
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 1 right base
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 1 right ticks
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 1 right vectoring
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 2
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 2 left base
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 2 left ticks
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 2 left vectoring
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 2 right base
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 2 right ticks
+Runways:ZBLF ä¸´æ±¾/å°§éƒ½ 17-35:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

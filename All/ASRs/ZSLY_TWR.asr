@@ -5,24 +5,40 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSLY:symbol
 Airports:ZSLY:name
+Fixes:38VOR:symbol
+Fixes:38VOR:name
+Fixes:FD01:symbol
+Fixes:FD01:name
+Fixes:FI01:symbol
+Fixes:FI01:name
+Fixes:FI19:symbol
+Fixes:FI19:name
+Fixes:LY711:symbol
+Fixes:LY711:name
+Fixes:LY807:symbol
+Fixes:LY807:name
+Fixes:LY808:symbol
+Fixes:LY808:name
+Fixes:MD01:symbol
+Fixes:MD01:name
 VORs:LNY:symbol
 VORs:LNY:name
 Geo:ZSLY:
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:centerline
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 1
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 1 left base
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 1 left ticks
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 1 left vectoring
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 1 right base
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 1 right ticks
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 1 right vectoring
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 2
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 2 left base
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 2 left ticks
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 2 left vectoring
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 2 right base
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 2 right ticks
-Runways:ZSLY ÁÙÒÊ/ÆôÑô 01-19:extended centerline 2 right vectoring
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:centerline
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 1
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 1 left base
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 1 left ticks
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 1 left vectoring
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 1 right base
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 1 right ticks
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 1 right vectoring
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 2
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 2 left base
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 2 left ticks
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 2 left vectoring
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 2 right base
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 2 right ticks
+Runways:ZSLY ä¸´æ²‚/å¯é˜³ 01-19:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

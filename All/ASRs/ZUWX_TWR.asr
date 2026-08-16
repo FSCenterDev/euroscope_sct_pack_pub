@@ -8,21 +8,21 @@ Airports:ZUWX:name
 VORs:WZH:symbol
 VORs:WZH:name
 Geo:ZUWX:
-Runways:ZUWX 万州/五桥 11-29:centerline
-Runways:ZUWX 万州/五桥 11-29:extended centerline 1
-Runways:ZUWX 万州/五桥 11-29:extended centerline 1 left base
-Runways:ZUWX 万州/五桥 11-29:extended centerline 1 left ticks
-Runways:ZUWX 万州/五桥 11-29:extended centerline 1 left vectoring
-Runways:ZUWX 万州/五桥 11-29:extended centerline 1 right base
-Runways:ZUWX 万州/五桥 11-29:extended centerline 1 right ticks
-Runways:ZUWX 万州/五桥 11-29:extended centerline 1 right vectoring
-Runways:ZUWX 万州/五桥 11-29:extended centerline 2
-Runways:ZUWX 万州/五桥 11-29:extended centerline 2 left base
-Runways:ZUWX 万州/五桥 11-29:extended centerline 2 left ticks
-Runways:ZUWX 万州/五桥 11-29:extended centerline 2 left vectoring
-Runways:ZUWX 万州/五桥 11-29:extended centerline 2 right base
-Runways:ZUWX 万州/五桥 11-29:extended centerline 2 right ticks
-Runways:ZUWX 万州/五桥 11-29:extended centerline 2 right vectoring
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:centerline
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 1
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 1 left base
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 1 left ticks
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 1 left vectoring
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 1 right base
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 1 right ticks
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 1 right vectoring
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 2
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 2 left base
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 2 left ticks
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 2 left vectoring
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 2 right base
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 2 right ticks
+Runways:ZUWX 涓囧窞/浜旀ˉ 11-29:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0

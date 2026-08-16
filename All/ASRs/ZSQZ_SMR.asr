@@ -5,24 +5,28 @@ SECTORFILE:
 SECTORTITLE:
 Airports:ZSQZ:symbol
 Airports:ZSQZ:name
+Fixes:MD03:symbol
+Fixes:MD03:name
+Fixes:MD21:symbol
+Fixes:MD21:name
 VORs:JNJ:symbol
 VORs:JNJ:name
 Geo:ZSQZ:
-Runways:ZSQZ 泉州/晋江 21-03:centerline
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1 left base
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1 left ticks
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1 left vectoring
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1 right base
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1 right ticks
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 1 right vectoring
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2 left base
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2 left ticks
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2 left vectoring
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2 right base
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2 right ticks
-Runways:ZSQZ 泉州/晋江 21-03:extended centerline 2 right vectoring
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:centerline
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 1
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 1 left base
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 1 left ticks
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 1 left vectoring
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 1 right base
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 1 right ticks
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 1 right vectoring
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 2
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 2 left base
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 2 left ticks
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 2 left vectoring
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 2 right base
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 2 right ticks
+Runways:ZSQZ 娉夊窞/鏅嬫睙 21-03:extended centerline 2 right vectoring
 SHOWC:1
 SHOWSB:1
 BELOW:0
